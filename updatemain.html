@@ -1911,7 +1911,7 @@
                 </div>
             </section>
 
-            <!-- Web-Scrap Images Section -->
+            <!-- Web-Scrap Images Section (Replaced by Jules) -->
             <section id="webScrap" class="tool-section">
                 <div class="control-panel slide-up">
                     <form id="scrapeForm">
@@ -1980,7 +1980,7 @@
                 </div>
             </section>
 
-            <!-- Text to Speech Section -->
+            <!-- Text to Speech Section (Replaced by Jules) -->
             <section id="textToSpeech" class="tool-section">
                 <div class="control-panel slide-up">
                     <form id="ttsForm">
@@ -4629,6 +4629,220 @@
                 canvas.width = canvas.offsetWidth;
                 canvas.height = canvas.offsetHeight;
             }
+        });
+
+        // QR Code Scanner Functionality
+        function startCameraScanner() {
+            document.getElementById('cameraSection').style.display = 'block';
+            document.getElementById('fileSection').style.display = 'none';
+            html5QrCode = new Html5Qrcode("qr-reader");
+            const qrCodeSuccessCallback = (decodedText, decodedResult) => {
+                document.getElementById('qrScanResult').innerHTML = `
+                    <div class="qr-scanner-result">
+                        <h4>Scan Result:</h4>
+                        <p>${decodedText}</p>
+                    </div>`;
+                html5QrCode.stop().catch(err => console.error("Failed to stop QR code scanner.", err));
+                document.getElementById('stopCameraBtn').style.display = 'none';
+            };
+            const config = { fps: 10, qrbox: { width: 250, height: 250 } };
+            html5QrCode.start({ facingMode: "environment" }, config, qrCodeSuccessCallback);
+            document.getElementById('stopCameraBtn').style.display = 'block';
+        }
+
+        function stopCameraScanner() {
+            if (html5QrCode) {
+                html5QrCode.stop().catch(err => console.error("Failed to stop QR code scanner.", err));
+            }
+            document.getElementById('stopCameraBtn').style.display = 'none';
+        }
+
+        function showFileUpload() {
+            document.getElementById('cameraSection').style.display = 'none';
+            document.getElementById('fileSection').style.display = 'block';
+            if (html5QrCode) {
+                html5QrCode.stop().catch(err => console.error("Failed to stop QR code scanner.", err));
+            }
+        }
+
+        function scanUploadedImage() {
+            const qrCodefile = document.getElementById('qrImageInput').files[0];
+            if (!qrCodefile) {
+                return;
+            }
+            html5QrCode = new Html5Qrcode("qr-reader");
+            html5QrCode.scanFile(qrCodefile, true)
+            .then(decodedText => {
+                document.getElementById('qrScanResult').innerHTML = `
+                    <div class="qr-scanner-result">
+                        <h4>Scan Result:</h4>
+                        <p>${decodedText}</p>
+                    </div>`;
+            })
+            .catch(err => {
+                document.getElementById('qrScanResult').innerHTML = `
+                    <div class="qr-scanner-result">
+                        <h4>Scan Result:</h4>
+                        <p class="error-message">${err}</p>
+                    </div>`;
+            });
+        }
+
+        // Tone Generator Functionality
+        let audioContext, oscillator, gainNode;
+
+        function updateFrequency(value) {
+            document.getElementById('freqValue').textContent = value;
+            if (oscillator) {
+                oscillator.frequency.setValueAtTime(value, audioContext.currentTime);
+            }
+        }
+
+        function updateVolume(value) {
+            document.getElementById('volumeValue').textContent = value;
+            if (gainNode) {
+                gainNode.gain.setValueAtTime(value / 100, audioContext.currentTime);
+            }
+        }
+
+        function updateWaveType() {
+            if (oscillator) {
+                oscillator.type = document.getElementById('waveType').value;
+            }
+        }
+
+        function setFrequency(value) {
+             document.getElementById('frequencySlider').value = value;
+             updateFrequency(value);
+        }
+
+        function playTone() {
+            if (!audioContext) {
+                audioContext = new (window.AudioContext || window.webkitAudioContext)();
+            }
+            oscillator = audioContext.createOscillator();
+            gainNode = audioContext.createGain();
+            oscillator.connect(gainNode);
+            gainNode.connect(audioContext.destination);
+
+            updateFrequency(document.getElementById('frequencySlider').value);
+            updateVolume(document.getElementById('volumeSlider').value);
+            updateWaveType();
+
+            oscillator.start();
+            document.getElementById('playToneBtn').style.display = 'none';
+            document.getElementById('stopToneBtn').style.display = 'block';
+        }
+
+        function stopTone() {
+            if (oscillator) {
+                oscillator.stop();
+                oscillator = null;
+            }
+            document.getElementById('playToneBtn').style.display = 'block';
+            document.getElementById('stopToneBtn').style.display = 'none';
+        }
+
+        // Whiteboard Functionality
+        let whiteboardCanvas, whiteboardCtx, isDrawing = false, lastX = 0, lastY = 0;
+
+        function initWhiteboard() {
+            whiteboardCanvas = document.getElementById('whiteboardCanvas');
+            whiteboardCtx = whiteboardCanvas.getContext('2d');
+            whiteboardCanvas.addEventListener('mousedown', (e) => {
+                isDrawing = true;
+                [lastX, lastY] = [e.offsetX, e.offsetY];
+            });
+            whiteboardCanvas.addEventListener('mousemove', drawOnWhiteboard);
+            whiteboardCanvas.addEventListener('mouseup', () => isDrawing = false);
+            whiteboardCanvas.addEventListener('mouseout', () => isDrawing = false);
+            updateBrushSize(document.getElementById('brushSize').value);
+            updateBrushColor(document.getElementById('brushColor').value);
+        }
+
+        let drawingMode = 'pen';
+
+        function setDrawingMode(mode) {
+            drawingMode = mode;
+        }
+
+        function drawOnWhiteboard(e) {
+            if (!isDrawing) return;
+            whiteboardCtx.beginPath();
+            whiteboardCtx.moveTo(lastX, lastY);
+            whiteboardCtx.lineTo(e.offsetX, e.offsetY);
+            whiteboardCtx.stroke();
+            [lastX, lastY] = [e.offsetX, e.offsetY];
+        }
+
+        function updateBrushSize(value) {
+            document.getElementById('brushSizeValue').textContent = value;
+            whiteboardCtx.lineWidth = value;
+        }
+
+        function updateBrushColor(value) {
+             if(drawingMode === 'pen') {
+                whiteboardCtx.strokeStyle = value;
+             }
+        }
+
+        function setDrawingMode(mode) {
+            drawingMode = mode;
+            if (mode === 'pen') {
+                whiteboardCtx.globalCompositeOperation = 'source-over';
+                whiteboardCtx.strokeStyle = document.getElementById('brushColor').value;
+            } else {
+                whiteboardCtx.globalCompositeOperation = 'destination-out';
+            }
+        }
+
+        function clearCanvas() {
+            whiteboardCtx.clearRect(0, 0, whiteboardCanvas.width, whiteboardCanvas.height);
+        }
+
+        function downloadCanvas() {
+            const link = document.createElement('a');
+            link.download = 'whiteboard.png';
+            link.href = whiteboardCanvas.toDataURL();
+            link.click();
+        }
+
+        // Web Browser Tool Functionality
+        let editMode = false;
+        function loadWebsite() {
+            const url = document.getElementById('browserUrl').value;
+            if (url) {
+                document.getElementById('browserFrame').src = url;
+            }
+        }
+
+        function toggleEditMode() {
+            const iframe = document.getElementById('browserFrame');
+            const doc = iframe.contentDocument || iframe.contentWindow.document;
+            editMode = !editMode;
+            doc.body.contentEditable = editMode;
+            document.getElementById('editModeBtn').textContent = editMode ? 'View Mode' : 'Edit Mode';
+        }
+
+        function saveContent() {
+             const iframe = document.getElementById('browserFrame');
+             const doc = iframe.contentDocument || iframe.contentWindow.document;
+             const htmlContent = doc.documentElement.outerHTML;
+             const blob = new Blob([htmlContent], {type: 'text/html'});
+             const url = URL.createObjectURL(blob);
+             const a = document.createElement('a');
+             a.href = url;
+             a.download = 'edited-page.html';
+             a.click();
+        }
+
+        function resetContent() {
+            loadWebsite();
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // ... existing code
+            initWhiteboard();
         });
     </script>
 </body>
