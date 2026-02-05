@@ -204,7 +204,205 @@
                 </div>
             </section>
 
-            <section id="chapter2"><h2>Chapter 2: Polynomials</h2><div class="chapter-content"></div></section>
+            <section id="chapter2">
+                <h2>Chapter 2: Polynomials</h2>
+                <div class="chapter-content">
+                    <div class="summary">
+                        <h3>Key Points</h3>
+                        <ul>
+                            <li><strong>Polynomial:</strong> An algebraic expression in which the power of the variable is a whole number is called a polynomial. The highest power of the variable is called the degree of the polynomial.</li>
+                            <li><strong>Linear Polynomial:</strong> A polynomial of degree 1. General form: \(p(x) = ax + b\) (\(a \neq 0\)).</li>
+                            <li><strong>Quadratic Polynomial:</strong> A polynomial of degree 2. General form: \(p(x) = ax^2 + bx + c\) (\(a \neq 0\)).</li>
+                            <li><strong>Zeroes of a Polynomial:</strong> A real number \(k\) is a zero of a polynomial \(p(x)\) if \(p(k) = 0\). The number of zeroes is equal to the degree of the polynomial.</li>
+                            <li><strong>Relationship between Zeroes and Coefficients:</strong>
+                                <ul>
+                                    <li>For Linear Polynomial \(ax + b\): Zero = \(-b/a\).</li>
+                                    <li>For Quadratic Polynomial \(ax^2 + bx + c\) with zeroes \(\alpha\) and \(\beta\):
+                                        <br>Sum of zeroes (\(\alpha + \beta\)) = \(-b/a\)
+                                        <br>Product of zeroes (\(\alpha\beta\)) = \(c/a\)
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><strong>Quadratic Formula:</strong> If sum (\(S\)) and product (\(P\)) of zeroes are given, the polynomial is \(k[x^2 - Sx + P]\).</li>
+                        </ul>
+                    </div>
+
+                    <h3>Multiple Choice Questions</h3>
+
+                    <div class="question-block">
+                        <p><strong>Q1.</strong> Which of the following is a polynomial?</p>
+                        <div class="options">
+                            (1) \(\sqrt{3}x^2+4\) &nbsp; (2) \(3\sqrt{x}+1\) &nbsp; (3) \(y + \frac{2}{y}\) &nbsp; (4) \(3\sqrt{t} + t\sqrt{2}\)
+                        </div>
+                        <button onclick="toggleAnswer('ch2-q1')">Show Answer</button>
+                        <div id="ch2-q1" class="answer hidden">Answer: (1)</div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q2.</strong> Which of the following is a linear polynomial?</p>
+                        <div class="options">
+                            (1) \(4x^2-3\) &nbsp; (2) \(4x-1\) &nbsp; (3) \(x^2+1/x^2\) &nbsp; (4) 5
+                        </div>
+                        <button onclick="toggleAnswer('ch2-q2')">Show Answer</button>
+                        <div id="ch2-q2" class="answer hidden">Answer: (2)</div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q3.</strong> Which of the following is a quadratic polynomial?</p>
+                        <div class="options">
+                            (1) \(3x+4\) &nbsp; (2) 4 &nbsp; (3) \(x + 1/x^2\) &nbsp; (4) \(2x^2-3x+1\)
+                        </div>
+                        <button onclick="toggleAnswer('ch2-q3')">Show Answer</button>
+                        <div id="ch2-q3" class="answer hidden">Answer: (4)</div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q4.</strong> The degree of polynomial \(p(x) = 4x^2+7x-5x^3\) is:</p>
+                        <div class="options">
+                            (1) 4 &nbsp; (2) 0 &nbsp; (3) 3 &nbsp; (4) 2
+                        </div>
+                        <button onclick="toggleAnswer('ch2-q4')">Show Answer</button>
+                        <div id="ch2-q4" class="answer hidden">Answer: (3)</div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q5.</strong> The zeroes of polynomial \(p(t) = t^2-15\) are:</p>
+                        <div class="options">
+                            (1) 15, 15 &nbsp; (2) -15, 15 &nbsp; (3) \(\sqrt{15}, \sqrt{15}\) &nbsp; (4) \(\sqrt{15}, -\sqrt{15}\)
+                        </div>
+                        <button onclick="toggleAnswer('ch2-q5')">Show Answer</button>
+                        <div id="ch2-q5" class="answer hidden">Answer: (4)</div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q6.</strong> Product of zeroes in polynomial \(p(x) = ax^2+bx+c\) will be:</p>
+                        <div class="options">
+                            (1) \(-b/a\) &nbsp; (2) 1 &nbsp; (3) \(-b/c\) &nbsp; (4) \(c/a\)
+                        </div>
+                        <button onclick="toggleAnswer('ch2-q6')">Show Answer</button>
+                        <div id="ch2-q6" class="answer hidden">Answer: (4)</div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q7.</strong> Sum of zeroes in polynomial \(p(x) = ax^2+bx+c\) will be:</p>
+                        <div class="options">
+                            (1) \(-b/a\) &nbsp; (2) 1 &nbsp; (3) \(-b/c\) &nbsp; (4) \(c/a\)
+                        </div>
+                        <button onclick="toggleAnswer('ch2-q7')">Show Answer</button>
+                        <div id="ch2-q7" class="answer hidden">Answer: (1)</div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q8.</strong> If zeroes of polynomial \(p(x) = x^2-2x+5\) are \(a, b\), then value of \(ab\) is:</p>
+                        <div class="options">
+                            (1) -2 &nbsp; (2) 5 &nbsp; (3) 3 &nbsp; (4) -5
+                        </div>
+                        <button onclick="toggleAnswer('ch2-q8')">Show Answer</button>
+                        <div id="ch2-q8" class="answer hidden">Answer: (2)</div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q9.</strong> If a zero of polynomial \(2x^2+x+k\) is 3, then the value of k is:</p>
+                        <div class="options">
+                            (1) 12 &nbsp; (2) 21 &nbsp; (3) 24 &nbsp; (4) -21
+                        </div>
+                        <button onclick="toggleAnswer('ch2-q9')">Show Answer</button>
+                        <div id="ch2-q9" class="answer hidden">Answer: (4)</div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q10.</strong> If zeroes of a polynomial are \(\sqrt{2}\) and \(-\sqrt{2}\), then the factors of the polynomial are:</p>
+                        <div class="options">
+                            (1) \((x-2), (x-2)\) &nbsp; (2) \((x+\sqrt{2}), (x+2)\) &nbsp; (3) \((x-\sqrt{2}), (x+\sqrt{2})\) &nbsp; (4) \((x+\sqrt{2}), (x+\sqrt{2})\)
+                        </div>
+                        <button onclick="toggleAnswer('ch2-q10')">Show Answer</button>
+                        <div id="ch2-q10" class="answer hidden">Answer: (3)</div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q11.</strong> If sum and product of zeroes of a polynomial are 0 and \(\sqrt{5}\) respectively, then the polynomial is:</p>
+                        <div class="options">
+                            (1) \(x^2-x+5\) &nbsp; (2) \(x^2-\sqrt{5}\) &nbsp; (3) \(x^2+\sqrt{5}\) &nbsp; (4) \(x^2-2x+\sqrt{5}\)
+                        </div>
+                        <button onclick="toggleAnswer('ch2-q11')">Show Answer</button>
+                        <div id="ch2-q11" class="answer hidden">Answer: (3)</div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q12.</strong> Maximum number of zeroes of a quadratic polynomial is:</p>
+                        <div class="options">
+                            (1) 0 &nbsp; (2) 3 &nbsp; (3) 1 &nbsp; (4) 2
+                        </div>
+                        <button onclick="toggleAnswer('ch2-q12')">Show Answer</button>
+                        <div id="ch2-q12" class="answer hidden">Answer: (4)</div>
+                    </div>
+
+                    <h3>Short Answer Type Questions</h3>
+
+                    <div class="question-block">
+                        <p><strong>Q13.</strong> Find the zeroes of polynomial \(p(x) = x^2-2x-8\).</p>
+                        <button onclick="toggleAnswer('ch2-q13')">Show Answer</button>
+                        <div id="ch2-q13" class="answer hidden">
+                            Answer: \(4, -2\).<br>
+                            Solution: \(x^2-4x+2x-8 \Rightarrow x(x-4)+2(x-4) \Rightarrow (x-4)(x+2) = 0 \Rightarrow x=4, -2\).
+                        </div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q14.</strong> Find a quadratic polynomial whose sum and product of zeroes are -3 and 2 respectively.</p>
+                        <button onclick="toggleAnswer('ch2-q14')">Show Answer</button>
+                        <div id="ch2-q14" class="answer hidden">
+                            Answer: \(x^2+3x+2\).<br>
+                            Solution: Formula \(x^2 - (\alpha+\beta)x + \alpha\beta \Rightarrow x^2 - (-3)x + 2\).
+                        </div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q15.</strong> Find zeroes of quadratic polynomial \(p(x) = 6x^2-3-7x\) and verify the relationship between zeroes and coefficients.</p>
+                        <button onclick="toggleAnswer('ch2-q15')">Show Answer</button>
+                        <div id="ch2-q15" class="answer hidden">
+                            Answer: \(3/2, -1/3\).<br>
+                            Solution: \(6x^2-7x-3 = 0 \Rightarrow 6x^2-9x+2x-3=0 \Rightarrow 3x(2x-3)+1(2x-3)=0 \Rightarrow (2x-3)(3x+1)=0\).
+                        </div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q16.</strong> If sum of zeroes of quadratic expression \(Kx^2+5x+3k\) is equal to their product, find the value of k.</p>
+                        <button onclick="toggleAnswer('ch2-q16')">Show Answer</button>
+                        <div id="ch2-q16" class="answer hidden">
+                            Answer: \(k = -5/3\).<br>
+                            Solution: Sum = \(-5/k\), Product = \(3k/k = 3\). Sum = Product \(\Rightarrow -5/k = 3 \Rightarrow k = -5/3\).
+                        </div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q17.</strong> Find a quadratic polynomial the sum and product of whose zeroes are \(-1/4\) and \(1/4\) respectively.</p>
+                        <button onclick="toggleAnswer('ch2-q17')">Show Answer</button>
+                        <div id="ch2-q17" class="answer hidden">
+                            Answer: \(4x^2+x+1\).<br>
+                            Solution: \(k[x^2 - (-1/4)x + (1/4)] \Rightarrow k[x^2 + x/4 + 1/4]\). Let \(k=4\), then \(4x^2+x+1\).
+                        </div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q18.</strong> Find the value of polynomial \(p(x) = x^2-3x-4\) at \(x = -1\).</p>
+                        <button onclick="toggleAnswer('ch2-q18')">Show Answer</button>
+                        <div id="ch2-q18" class="answer hidden">
+                            Answer: 0.<br>
+                            Solution: \(p(-1) = (-1)^2 - 3(-1) - 4 = 1 + 3 - 4 = 0\).
+                        </div>
+                    </div>
+
+                    <div class="question-block">
+                        <p><strong>Q19.</strong> Find the zero of the linear polynomial \(p(x) = 3x-4\).</p>
+                        <button onclick="toggleAnswer('ch2-q19')">Show Answer</button>
+                        <div id="ch2-q19" class="answer hidden">
+                            Answer: \(4/3\).<br>
+                            Solution: \(3x-4=0 \Rightarrow 3x=4 \Rightarrow x=4/3\).
+                        </div>
+                    </div>
+                </div>
+            </section>
             <section id="chapter3"><h2>Chapter 3: Linear Equations</h2><div class="chapter-content"></div></section>
             <section id="chapter4"><h2>Chapter 4: Quadratic Equations</h2><div class="chapter-content"></div></section>
             <section id="chapter5"><h2>Chapter 5: Arithmetic Progressions</h2><div class="chapter-content"></div></section>
