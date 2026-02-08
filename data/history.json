@@ -1,0 +1,803 @@
+{
+  "subject": "history",
+  "chapters": [
+    {
+      "id": "1",
+      "title": "Chapter 1",
+      "questions": [
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Who was the father of the process of nation-state formation in Germany?",
+            "hi": "जर्मनी में राष्ट्र राज्य के निर्माण की प्रक्रिया का जनक कौन था?"
+          },
+          "answer": {
+            "en": "(c) Otto von Bismarck",
+            "hi": "(स) ऑटो वॉन बिस्मार्क"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Germania became the allegory of which nation?",
+            "hi": "जर्मेनिया किस राष्ट्र का रूपक बन गई थी?"
+          },
+          "answer": {
+            "en": "(d) Germany",
+            "hi": "(द) जर्मनी"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "What do the rays of the rising sun symbolize?",
+            "hi": "उगते सूर्य की किरणें किसका प्रतीक है?"
+          },
+          "answer": {
+            "en": "(d) A new era beginning",
+            "hi": "(द) एक नए युग का"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Who was Giuseppe Mazzini?",
+            "hi": "ज्यूसेपे मेत्सिनी था?"
+          },
+          "answer": {
+            "en": "(b) Italian revolutionary",
+            "hi": "(ब) इटली का क्रांतिकारी"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Germany was declared an independent state in?",
+            "hi": "जर्मनी को एक स्वतंत्र राज्य घोषित किया गया था?"
+          },
+          "answer": {
+            "en": "(c) 1871",
+            "hi": "(स) 1871 में"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "Fill in the blank",
+          "question": {
+            "en": "The Vienna Congress was hosted by the Austrian Chancellor ......",
+            "hi": "वियना सम्मेलन की मेजबानी आस्ट्रिया के चांसलर ...... ने की थी।"
+          },
+          "answer": {
+            "en": "Duke Metternich",
+            "hi": "ड्यूक मेटर्निख"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "Fill in the blank",
+          "question": {
+            "en": "In France, ...... was portrayed as the female allegory of the nation.",
+            "hi": "फ्रांस में ...... को राष्ट्र के नारी रूपक के रूप में चित्रित किया गया है।"
+          },
+          "answer": {
+            "en": "Marianne",
+            "hi": "मारिआन"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "Fill in the blank",
+          "question": {
+            "en": "There was a secret organization of Italian revolutionaries.",
+            "hi": "इटली के क्रांतिकारियों का एक गुप्त संगठन था।"
+          },
+          "answer": {
+            "en": "Carbonari",
+            "hi": "कार्बोनरी"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "Fill in the blank",
+          "question": {
+            "en": ".......... was the chief minister of Prussia.",
+            "hi": "..........प्रसा का प्रमुख मंत्री था।"
+          },
+          "answer": {
+            "en": "Otto von Bismarck",
+            "hi": "ऑटो वॉन बिस्मार्क"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "Fill in the blank",
+          "question": {
+            "en": "In the year ........, the United Kingdom of Great Britain was formed.",
+            "hi": "सन ........ में यूनाइटेड किंगडम ऑफ ग्रेट ब्रिटेन का गठन हुआ।"
+          },
+          "answer": {
+            "en": "1707",
+            "hi": "सन् 1707"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "Write a short note on 'Zollverein'.",
+            "hi": "'जॉलवेराइन' पर एक संक्षिप्त टिप्पणी लिखिए-"
+          },
+          "answer": {
+            "en": "In 1834, a customs union named 'Zollverein' was formed at the initiative of Prussia, which most German states joined. This union abolished tariff barriers and reduced the number of currencies from over thirty to two. This unified Germany economically.",
+            "hi": "1834 ई. में प्रशा की पहल पर 'जॉलवेराइन' नामक एक शुल्क संघ की स्थापना हुई थी जिसमें अधिकांश जर्मन राज्य शामिल हो गए थे। इस संघ ने शुल्क अवरोधों को समाप्त कर दिया और मुद्राओं की संख्या दो कर दी जो उससे पहले तीस से ऊपर थी। इससे आर्थिक दृष्टि से समस्त जर्मनी एक हो गया।"
+          },
+          "marks": "2"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "Who were the Grimm Brothers? What contribution did they make to the development of German national feelings?",
+            "hi": "ग्रिम बन्धु कौन थे? उन्होंने जर्मन राष्ट्रीय भावनाओं के विकास में क्या योगदान दिया?"
+          },
+          "answer": {
+            "en": "The Grimm Brothers (Jacob Grimm and Wilhelm Grimm) were residents of Germany. They collected many old folktales, believing that the folktales they collected were equally liked by children and adults. Later, both brothers became active in liberal politics.",
+            "hi": "ग्रिम बन्धु (जै कब ग्रिम और विल्हेल्म ग्रिम) जर्मनी के निवासी थे। उन्होंने अनेक पुरानी लोककथाएं इकट्ठी कीं, उनका विश्वास था कि उन्होंने जो लोककथाएं इकट्ठी कीं, वे बच्चों और बड़ों में समान रूप से पसंद की जाती थीं। बाद में दोनों भाई उदारवादी राजनीति में सक्रिय हो गए।"
+          },
+          "marks": "2"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "Write the main objectives of the Treaty of Vienna.",
+            "hi": "वियना संधि के प्रमुख उद्देश्य लिखिए।"
+          },
+          "answer": {
+            "en": "The main objectives of the Treaty of Vienna of 1815 were: 1. To undo all the changes that had come about during the Napoleonic wars. 2. To prevent the expansion of French boundaries in the future. 3. To restore the monarchies that had been overthrown by Napoleon. 4. To create a new conservative order in Europe.",
+            "hi": "1815 ई. की वियना संधि के प्रमुख उद्देश्य- 1. उन सभी बदलावों को खत्म करना जो नेपोलियाई युद्धों के दौरान हुए थे। 2. भविष्य में फ्रांस की सीमाओं के विस्तार को रोकना। 3. नेपोलियन द्वारा बर्खास्त किये गए राजतंत्रों की बहाली करना। 4. यूरोप में एक नयी रूढ़िवादी व्यवस्था कायम करना।"
+          },
+          "marks": "2"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "What is Conservatism?",
+            "hi": "रूढ़िवाद क्या है?"
+          },
+          "answer": {
+            "en": "Conservatism is a political philosophy that emphasizes tradition, established institutions, and customs, and prefers gradual development to quick change.",
+            "hi": "रूढ़िवाद एक ऐसा राजनीतिक दर्शन जो परम्परा, स्थापित संस्थानों और रिवाजों पर जोर देता है और तेज बदलावों की बजाय क्रमिक और धीरे-धीरे विकास को प्राथमिकता देता है, रूढ़िवाद कहलाता है।"
+          },
+          "marks": "2"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "Briefly describe the unification of Italy.",
+            "hi": "इटली के एकीकरण का संक्षिप्त वर्णन कीजिए।"
+          },
+          "answer": {
+            "en": "1. Mazzini founded revolutionary organizations named Young Italy in 1831 and Young Europe in 1833, and through these, instilled feelings of nationalism, patriotism, sacrifice, and dedication among Italians. 2. Cavour led the movement to unify the regions of Italy. In 1859, Sardinia-Piedmont, with French military support, defeated the Austrian forces, resulting in Lombardy being annexed to Sardinia-Piedmont.",
+            "hi": "1. मेत्सिनी ने 1831 में श्यंग इटलीश और 1833 में यंग यूरोप नामक क्रान्तिकारी संस्थाओं की स्थापना कर इनके माध्यम से इटलीवासियों में राष्ट्रीयता, देश-भक्ति, त्याग तथा बलिदान की भावनाएँ उत्पन्न कीं। 2. कावूर ने इटली के प्रदेशों को एकीकृत करने वाले आन्दोलन का नेतृत्व किया। 1859 में सार्डीनिया-पीडमांट ने फ्रांस की सैनिक सहायता प्राप्त कर आस्ट्रिया की सेनाओं को पराजित किया इसके फलस्वरूप लोम्बार्डी को सार्डीनिया-पीडमांट में मिला लिया था।"
+          },
+          "marks": "2"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Chapter 2",
+      "questions": [
+        {
+          "type": "Essay Type",
+          "question": {
+            "en": "Describe the Civil Disobedience Movement in detail. OR Describe the Salt Movement or describe the Civil Disobedience Movement.",
+            "hi": "प्रश्न 1. सविनय अवज्ञा आन्दोलन का सविस्तार वर्णन कीजिए। या नमक आन्दोलन का वर्णन कीजिए अथवा सविनय अवज्ञा आन्दोलन का वर्णन कीजिए।"
+          },
+          "answer": {
+            "en": "The Civil Disobedience Movement is described under the following points:\n1. Dandi March - The Civil Disobedience Movement started with Gandhiji's Dandi March. In March 1930, Gandhiji along with his 78 trusted volunteers started from Sabarmati Ashram towards a place called Dandi. They covered this journey of 240 kilometers on foot in 24 days. On 6th April, Gandhiji reached Dandi and started making salt by boiling sea water. Thus he violated the salt law.\n2. Progress of Civil Disobedience Movement - Soon the Civil Disobedience Movement spread across the country. In many places people broke the salt law and demonstrated in front of government salt factories. Foreign clothes were boycotted and liquor shops were picketed. Farmers refused to pay revenue and chowkidari tax. Government employees appointed in villages resigned. People living in forests violated forest laws and started collecting wood and grazing cattle in reserved forests.\n3. Gandhi-Irwin Pact - On 5 March 1931, a pact was signed between Gandhiji and Viceroy Lord Irwin, which is called the Gandhi-Irwin Pact. According to this pact, Gandhiji agreed to participate in the Second Round Table Conference to be held in London. In return, the government agreed to release political prisoners.",
+            "hi": "उत्तर- सविनय अवज्ञा आन्दोलन\nसविनय अवज्ञा आन्दोलन का वर्णन निम्न बिन्दुओं के अन्तर्गत किया गया-\n1. दांडी यात्रा - सविनय अवज्ञा आन्दोलन गांधीजी की दांडी यात्रा से शुरू हुआ। मार्च, 1930 में गांधीजी ने अपने 78 विश्वस्त कार्यकर्ताओं के साथ साबरमती आश्रम से दांडी नामक स्थान की ओर प्रस्थान किया। उन्होंने 240 किलोमीटर की यह यात्रा पैदल चलकर 24 दिन में तय की। 6 अप्रैल को गांधीजी दांडी पहुंचे और उन्होंने समुद्र का पानी उबाल कर नमक बनाना शुरू कर दिया। इस प्रकार उन्होंने नमक कानून का उल्लंघन किया।\n2. सविनय अवज्ञा आन्दोलन की प्रगति - शीघ्र ही सविनय अवज्ञा आन्दोलन सम्पूर्ण देश में फैल गया। अनेक स्थानों पर लोगों ने नमक कानून तोड़ा और सरकारी नमक कारखानों के सामने प्रदर्शन किये। विदेशी वस्त्रों का बहिष्कार किया गया तथा शराब की दुकानों पर धरना दिया गया। किसानों ने लगान और चौकीदारी कर चुकाने से इन्कार कर दिया। गांवों में नियुक्त सरकारी कर्मचारियों ने त्याग पत्र दे दिए। जंगलों में रहने वाले लोगों ने वन-कानूनों का उल्लंघन करते हुए आरक्षित वनों में लकड़ी बीनना तथा पशुओं को चराना शुरू कर दिया।\n3. गांधी-इरविन समझौता- 5 मार्च, 1931 को गांधीजी तथा वायसराय लार्ड इरविन के बीच एक समझौता हो गया जिसे गांधी-इरविन समझौता कहते हैं। इस समझौते के अनुसार गांधीजी लंदन में होने वाले द्वितीय गोलमेज सम्मेलन में भाग लेने के लिए सहमत हो गए। इसके बदले में सरकार ने राजनीतिक बंदियों को रिहा करना स्वीकार कर लिया।"
+          },
+          "marks": "4"
+        },
+        {
+          "type": "Essay Type",
+          "question": {
+            "en": "Give a brief description of the Quit India Movement. OR What do you know about the Quit India Movement? Explain.",
+            "hi": "प्रश्न 2. भारत छोड़ो आन्दोलन का संक्षिप्त वर्णन कीजिये। अथवा भारत छोड़ो आन्दोलन के बारे में आप क्या जानते हैं? बतलाइये।"
+          },
+          "answer": {
+            "en": "Quit India Movement - The failure of the Cripps Mission and the effects of World War II led to widespread discontent in India. As a result, Gandhiji started a movement in which he insisted on the British leaving India completely. The main points of this Quit India Movement are as follows:\n1. On July 14, 1942, in Wardha, the Congress Working Committee passed the historic 'Quit India' resolution, demanding the immediate transfer of power to Indians and for the British to leave India.\n2. On August 8, 1942, the All India Congress Committee endorsed this resolution in Bombay, calling for a non-violent mass struggle on a large scale across the country.\n3. On this occasion, Gandhiji delivered the famous 'Do or Die' speech.\n4. This call of 'Quit India' brought the state machinery to a standstill in most parts of the country; people spontaneously jumped into the movement.\n5. People went on strikes and held demonstrations and processions with national songs and slogans. This movement was truly a mass movement in which thousands of ordinary people like students, workers, and farmers participated.\n6. Active participation of leaders was also seen in this, including Jayaprakash Narayan, Aruna Asaf Ali, and Ram Manohar Lohia, and many women like Matangini Hazra from Bengal, Kanaklata Barua from Assam, and Rama Devi from Odisha.",
+            "hi": "उत्तर- भारत छोड़ो आन्दोलन- भारत में क्रिप्स मिशन की असफलता एवं द्वितीय विश्व युद्ध के प्रभावों से व्यापक असंतोष फैला। इसके फलस्वरूप गाँधीजी ने एक आंदोलन शुरू किया, जिसमें उन्होंने अंग्रेजों को पूरी तरह से भारत छोड़ने पर जोर दिया। इस भारत छोड़ो आन्दोलन की प्रमुख बातें निम्न प्रकार हैं-\n1. वर्धा में 14 जुलाई, 1942 को अपनी कार्यकारिणी में कांग्रेस कार्य समिति ने ऐतिहासिक भारत छोड़ो प्रस्ताव पारित किया, जिसमें सत्ता का भारतीयों को तत्काल हस्तांतरण एवं भारत छोड़ने की माँग की गई।\n2. 8 अगस्त, 1942 को बंबई में अखिल भारतीय कांग्रेस समिति ने इस प्रस्ताव का समर्थन किया, जिससे पूरे देश में व्यापक पैमाने पर एक अहिंसक जन संघर्ष का आह्वान किया गया।\n3. इसी अवसर पर गाँधीजी ने प्रसिद्ध करो या मरो भाषण दिया था।\n4. भारत छोड़ो के इस आह्वान ने देश के अधिकतर हिस्सों में राज्य व्यवस्था को ठप्प कर दिया, लोग स्वतः ही आंदोलन में कूद पड़े ।\n5. लोगों ने हड़तालें कीं और राष्ट्रीय गीतों एवं नारों के साथ प्रदर्शन किए एवं जुलूस निकाले। यह आंदोलन वास्तव में एक जन आन्दोलन था जिसमें छात्र, मजदूर और किसान जैसे हजारों साधारण लोगों ने हिस्सा लिया।\n6. इसमें नेताओं की सक्रिय भागीदारी भी देखी गई जिनमें जयप्रकाश नारायण, अरुणा आसफ अली एवं राम मनोहर लोहिया और बहुत सारी महिलाएँ जैसे- बंगाल से मातंगिनी हाजरा, असम से कनकलता, बरुआ और उड़ीसा से रमा देवी थीं।"
+          },
+          "marks": "4"
+        },
+        {
+          "type": "Essay Type",
+          "question": {
+            "en": "What circumstances were responsible for the start of the Non-Cooperation Movement? OR Analyze the causes of the Non-Cooperation Movement.",
+            "hi": "प्रश्न 3. असहयोग आन्दोलन के प्रारम्भ होने के पीछे कौन-कौनसी परिस्थितियाँ जिम्मेदार थीं? अथवा असहयोग आन्दोलन के कारणों का विश्लेषण कीजिए।"
+          },
+          "answer": {
+            "en": "Answer- The Non-Cooperation Movement started in January 1921 under the leadership of Gandhiji. The reasons for this movement were as follows-\n1. Increase in taxes - To meet the defense expenditure due to the First World War, the British government increased taxes, raised customs duties and introduced a tax called income tax. This caused intense resentment among Indians.\n2. Price rise - There was an excessive increase in prices during the First World War. As a result, it had become very difficult for the common people to survive.\n3. Forced recruitment of soldiers in villages - During the First World War, soldiers were forcibly recruited in villages, due to which there was intense anger among people in rural areas.\n4. Disappointment to Gandhiji - In the First World War, Gandhiji gave financial and military help to the British in the hope that the British government would grant Swaraj to Indians. But after the end of the war, no step was taken by the British government regarding granting Swaraj.\n5. Rowlatt Act - In 1919, the British government passed the Rowlatt Act. This unjust law caused intense resentment among Indians.\n6. Jallianwala Bagh Massacre - The Jallianwala Bagh massacre in Amritsar turned the Non-Cooperation Movement into a mass movement.\n7. Repressive policy of the government - After the Jallianwala Bagh massacre, the British government adopted a repressive policy and committed horrible atrocities on the people of Punjab.\n8. Khilafat Movement - Gandhiji supported the Khilafat Movement. The Khilafat Movement gave a boost to the Non-Cooperation Movement.",
+            "hi": "उत्तर- जनवरी, 1921 में गाँधीजी के नेतृत्व में असहयोग आन्दोलन शुरू हुआ। इस आन्दोलन के निम्नलिखित कारण थे-\n1. करों में वृद्धि - प्रथम विश्व युद्ध के कारण रक्षा व्यय की पूर्ति के लिए ब्रिटिश सरकार ने करों में वृद्धि की, सीमा शुल्क भी बढ़ा दिया और आयकर नामक कर शुरू किया गया। इससे भारतीयों में तीव्र आक्रोश उत्पन्न हुआ।\n2. मूल्यों में वृद्धि- प्रथम विश्व युद्ध के दौरान मूल्यों में अत्यधिक वृद्धि हुई। जिसके फलस्वरूप जन-साधारण का जीवन-निर्वाह करना बहुत कठिन हो गया था।\n3. गाँवों में सैनिकों की जबरन भर्ती-प्रथम विश्व युद्ध के दौरान गाँवों में सैनिकों को जबरदस्ती भर्ती किया गया जिसके कारण ग्रामीण क्षेत्रों में लोगों में तीव्र आक्रोश व्याप्त था।\n4. गाँधीजी को निराशा - प्रथम विश्व युद्ध में गाँधीजी ने अंग्रेजों को आर्थिक और सैनिक सहायता इस आशा से की थी कि ब्रिटिश सरकार भारतीयों को स्वराज प्रदान करेगी। परन्तु युद्ध की समाप्ति के बाद ब्रिटिश सरकार की ओर से स्वराज प्रदान किए जाने के बारे में कोई कदम नहीं उठाया गया।\n5. रॉलेट एक्ट- 1919 में ब्रिटिश सरकार ने रॉलेट एक्ट पारित कर दिया। इस अन्यायपूर्ण कानून से भारतीयों में तीव्र आक्रोश उत्पन्न हुआ।\n6. जलियाँवाला बाग हत्याकाण्ड-अमृतसर में जलियाँवाला बाग हत्याकाण्ड ने असहयोग आन्दोलन को जनआन्दोलन में बदल दिया।\n7. सरकार की दमनकारी नीति- जलियाँवाला बाग हत्याकाण्ड के बाद ब्रिटिश सरकार ने दमनकारी नीति अपनाई और पंजाब के लोगों पर भीषण अत्याचार किये।\n8. खिलाफत आन्दोलन - गाँधीजी के खिलाफत आन्दोलन को समर्थन किया। खिलाफत आन्दोलन से असहयोग आन्दोलन को बढ़ावा मिला।"
+          },
+          "marks": "4"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Chapter 3",
+      "questions": [
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "In 1885, the powerful countries of Europe carved up which continent by drawing lines on the map?",
+            "hi": "1885 में यूरोप के ताकतवर देशों ने किस महाद्वीप को नक्शे पर लकीर खींच कर आपस में बाँट लिया था?"
+          },
+          "answer": {
+            "en": "(b) Africa",
+            "hi": "(ब) अफ्रीका"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Who was worst affected by the economic depression?",
+            "hi": "आर्थिक मंदी का सबसे बुरा असर किस पर पड़ा?"
+          },
+          "answer": {
+            "en": "(c) America",
+            "hi": "(स) अमेरिका"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "What were the indentured labourers taken from India to abroad called?",
+            "hi": "भारत से विदेश ले जाए जाने वाले अनुबंधित मजदूर क्या कहलाते थे?"
+          },
+          "answer": {
+            "en": "(c) Girmitya",
+            "hi": "(स) गिरमिटिया"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Which countries are organized in G-77 (Group 77)?",
+            "hi": "जी 77 (समूह 77) में कौनसे देश संगठित है?"
+          },
+          "answer": {
+            "en": "(a) Developing",
+            "hi": "(अ) विकासशील"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Which institution was established at the Bretton Woods Conference?",
+            "hi": "ब्रेटन वुड सम्मेलन में किस संस्था की स्थापना की गई?"
+          },
+          "answer": {
+            "en": "(b) International Monetary Fund",
+            "hi": "(ब) अंतर्राष्ट्रीय मुद्रा कोष"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "In the 19th century, due to the declining role of China in world trade and the rising influence of America, the center of world trade became-",
+            "hi": "19वि. सदी में विश्वव्यापर में चीन की घटती भूमिका और अमेरिका के बढ़ते प्रभाव के करण विश्वव्यापार का केंद्र बना-"
+          },
+          "answer": {
+            "en": "(c) Europe",
+            "hi": "(स) यूरोप"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "When did the World Bank and IMF formally start functioning?",
+            "hi": "विश्व बैंक और आइ एम एफ ने औपचारिक रूप से काम करना कब शुरू किया?"
+          },
+          "answer": {
+            "en": "(d) 1947",
+            "hi": "(द) 1947 में"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Which of the following was not an Axis power involved in the Second World War?",
+            "hi": "निम्न में से द्वितीय विश्व युद्ध में शामिल होने वाली धुरी शक्ति नहीं थी?"
+          },
+          "answer": {
+            "en": "(d) Russia",
+            "hi": "(द) रूस"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Which of the following was not included in the Axis powers (Central Powers) in the First World War?",
+            "hi": "निम्न में से प्रथम विश्व युद्ध में धुरी राष्ट्र में शामिल नहीं था?"
+          },
+          "answer": {
+            "en": "(d) France",
+            "hi": "(द) फ्रांस"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "When did the worldwide economic depression start?",
+            "hi": "विश्व व्यापी आर्थिकमंदी की शुरुवात कब हुई?"
+          },
+          "answer": {
+            "en": "(b) 1929",
+            "hi": "(ब) 1929"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "Which items were traded through the Silk Route?",
+            "hi": "रेशम मार्ग से किन-किन वस्तुओं का व्यापार होता था?"
+          },
+          "answer": {
+            "en": "Many items were traded through the Silk Route. Chinese silk and pottery from China, and textiles and spices from India and Southeast Asia reached other parts of the world through this route. In return, precious metals like gold and silver reached Asia from Europe via this same route. Along with trade, cultural exchange also took place through the Silk Route.",
+            "hi": "रेशम मार्ग से अनेक वस्तुओं का व्यापार होता था। इस मार्ग से चीनी रेशम तथा पोटरीय भारत व दक्षिण-पूर्व एशिया से कपड़े तथा मसाले विश्व के दूसरे भागों में पहुँचते थे। वापसी में सोना चाँदी जैसी बहुमूल्य धातुएँ इसी मार्ग से यूरोप से एशिया पहुँचती थीं। रेशम मार्ग द्वारा व्यापार के साथ-साथ सांस्कृतिक आदान-प्रदान भी होता था।"
+          },
+          "marks": "2"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "What was the Corn Law? Why was it abolished? What were the results of its abolition?",
+            "hi": "कॉर्न लॉ क्या था? उसे क्यों समाप्त किया गया? उसकी समाप्ति के क्या परिणाम हुए?"
+          },
+          "answer": {
+            "en": "Corn Law - In the 18th century, under pressure from large landowners, the British government had also restricted the import of corn (maize). The laws under which the government imposed this restriction were called the Corn Laws. In the last decade of the 18th century, industrialists and urban dwellers, troubled by the high prices of food items, forced the government to abolish the Corn Laws immediately and the British government abolished it. With the abolition of the Corn Laws, food prices fell and Britain's food problem was resolved.",
+            "hi": "कॉर्न लॉ- 18वीं सदी में बड़े भूस्वामियों के दबाव में ब्रिटिश सरकार ने मक्का के आयात पर भी पाबंदी लगा दी थी। जिन कानूनों के सहारे सरकार ने यह पाबंदी लागू की थी, उन्हें कॉर्न लॉ कहा जाता था। 18वीं सदी के आखिरी दशक में खाद्य पदार्थों की ऊँची कीमतों से परेशान उद्योगपतियों और शहरी बाशिंदों ने सरकार को मजबूर कर दिया कि वह कॉर्न लॉ को फौरन समाप्त कर दे और ब्रिटिश सरकार ने उसे समाप्त कर दिया। कॉर्न लॉ के समाप्त होने पर खाद्य पदार्थ की कीमतों में कमी आ गई तथा ब्रिटेन की खाद्य समस्या दूर हो गई।"
+          },
+          "marks": "2"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "Describe the effects of Rinderpest on the livelihoods of people and the local economy in Africa in the 1890s. OR What were the effects of Rinderpest disease on Africa?",
+            "hi": "रिंडरपेस्ट का 1890 के दशक में अफ्रीका के लोगों की आजीविका और स्थानीय अर्थव्यवस्था पर पड़े प्रभावों का वर्णन कीजिए। अथवा रिंडरपेस्ट बीमारी के अफ्रीका पर क्या प्रभाव पड़े?"
+          },
+          "answer": {
+            "en": "1. In the 1890s, a disease called Rinderpest spread in Africa. Spreading like plague among cattle, this disease had a devastating effect on people's livelihoods and the local economy. 2. 90 percent of Africa's cattle died due to this disease. 3. With the death of cattle, the means of livelihood of African people were destroyed. As a result, the whole of Africa gradually became a slave to European colonizers.",
+            "hi": "1. 1890 के दशक में अफ्रीका में रिंडरपेस्ट नामक बीमारी फैल गई। मवेशियों में प्लेग की भाँति फैलने वाली इस बीमारी से लोगों की आजीविका और स्थानीय अर्थव्यवस्था पर घातक प्रभाव पड़ा। 2. इस बीमारी से अफ्रीका के 90 प्रतिशत पशु मर गए । 3. पशुओं के मर जाने से अफ्रीकी लोगों के रोजी-रोटी के साध् ान समाप्त हो गए। इसके परिणामस्वरूप सम्पूर्ण अफ्रीका धीरे-धीरे यूरोपीय उपनिवेशकारों का गुलाम हो गया।"
+          },
+          "marks": "2"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "Between which two camps was the First World War fought? Which countries were included in these camps? How long did this war last?",
+            "hi": "प्रथम विश्व युद्ध किन दो खेमों के बीच लड़ा गया था ? इन खेमों में कौन-कौनसे देश शामिल थे? यह युद्ध कितने वर्षों तक चला?"
+          },
+          "answer": {
+            "en": "1. The First World War was fought between two camps: (1) Allied Powers and (2) Central Powers. 2. The Allied Powers included Britain, France, and Russia, while the Central Powers included Germany, Austria-Hungary, and Ottoman Turkey. 3. This war started in 1914 and lasted for more than four years.",
+            "hi": "1. प्रथम विश्व युद्ध दो खेमों (1) मित्र राष्ट्र एवं (2) केन्द्रीय शक्तियों के बीच लड़ा गया था। 2. मित्र राष्ट्र में ब्रिटेन, फ्रांस और रूस तथा केन्द्रीय शक्तियों में जर्मनी, ऑस्ट्रिया-हंगरी तथा ऑटोमन तुर्की शामिल थे। 3. यह युद्ध 1914 में शुरू हुआ था और चार साल से भी ज्यादा समय तक चला।"
+          },
+          "marks": "2"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "What were the effects of the worldwide economic depression on India?",
+            "hi": "विश्वव्यापी आर्थिक महामंदी के भारत पर क्या प्रभाव पड़े?"
+          },
+          "answer": {
+            "en": "Effects of the worldwide economic depression on India: 1. Between 1925 and 1934, India's imports and exports declined by nearly half. 2. The price of wheat in India fell by 50 percent. 3. Due to the sharp fall in prices of raw jute, the condition of farmers became miserable. They drowned in debt, and it became difficult for them even to survive.",
+            "hi": "उत्तर- विश्वव्यापी आर्थिक मंदी के भारत पर प्रभाव – 1. 1925 से 1934 के बीच भारत के आयात-निर्यात घट कर लगभग आधे रह गए। 2. भारत में गेहूँ की कीमत 50 प्रतिशत गिर गई। 3. कच्चे पटसन की कीमतों में भारी गिरावट से किसानों की दशा दयनीय हो गई। वे कर्ज में डूब गए और उनके लिए जीवन-निर्वाह करना भी कठिन हो गया।"
+          },
+          "marks": "2"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "What is import duty?",
+            "hi": "आयात शुल्क क्या है ?"
+          },
+          "answer": {
+            "en": "Import duty is the tax collected on goods coming from another country. This duty, or tax, is collected at the place from where the item enters the country, i.e., at the border, port, or airport.",
+            "hi": "उत्तर- आयात शुल्क किसी दूसरे देश से आने वाली चीजों पर वसूल किया जाने वाला शुल्क, आयात शुल्क कहलाता है। यह शुल्क, या कर उस जगह लिया जाता है जहाँ से वह चीज देश में आती है यानी सीमा पर, बंदरगाह या हवाई पर।"
+          },
+          "marks": "2"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "What is the Silk Route? Explain its importance. OR Describe the economic and cultural exchange through the Silk Route.",
+            "hi": "सिल्क रूट क्या है? इसका महत्त्व बताइए- अथवा रेशम मार्ग के द्वारा होने वाले आर्थिक एवं सांस्कृतिक आदान-प्रदान का वर्णन कीजिए ।"
+          },
+          "answer": {
+            "en": "Silk Route (Resham Marg) - Silk routes passing through land or sea were trade and cultural routes connecting vast regions of Asia (China, India) and connecting Asia with Europe and North Africa. Chinese silk was traded through these routes. Importance of Silk Route / Economic and cultural exchange - Chinese silk sent to the West through the Silk Route was of great importance. Namely: (1) Silk routes were routes passing through land or sea which connected vast regions of Asia or Asia with Europe and North Africa. (2) Chinese silk and pottery from the Silk Route and textiles and spices from India and Southeast Asia reached other parts of the world.",
+            "hi": "उत्तर- सिल्क रूट (रेशम मार्ग)–जमीन या समुद्र से होकर गुजरने वाले सिल्क रूट एशिया के विशाल क्षेत्रों (चीन, भारत) तथा एशिया को यूरोप और उत्तरी अफ्रीका से जोड़ने वाले व्यापारिक और सांस्कृतिक मार्ग थे। इनसे चीनी रेशम का व्यापार किया जाता था। रेशम मार्ग का महत्त्व/ आर्थिक एवं सांस्कृतिक आदान-प्रदान- रेशम मार्ग से पश्चिम को भेजे जाने वाले चीनी रेशम का बड़ा महत्व था। यथा-यथा (1) रेशम मार्ग भूमि या समुद्र से होकर गुजरने वाले मार्ग थे जो एशिया के विशाल क्षेत्रों या एशिया को यूरोप और उत्तरी अफ्रीका से जोड़ते थे (2) रेशम मार्ग से चीनी रेशम तथा पोटरी तथा भारत व दक्षिण-पूर्व एशिया के कपड़े व मसाले विश्व के दूसरे भागों में पहुँचते थे।"
+          },
+          "marks": "2"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Chapter 4",
+      "questions": [
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Who invented the Spinning Jenny?",
+            "hi": "स्पिनिंग जेनी का आविष्कार किसने किया ?"
+          },
+          "answer": {
+            "en": "(b) James Hargreaves",
+            "hi": "(ब) जेम्स हारग्रीव्ज"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Where was the first textile mill established in India in 1854?",
+            "hi": "भारत में सन् 1854 में पहली कपड़ा मिल कहां स्थापित हुई थी ?"
+          },
+          "answer": {
+            "en": "(c) Mumbai",
+            "hi": "(स) मुम्बई"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "The first jute mill in Bengal was established in-",
+            "hi": "बंगाल में पहली जूट मिल स्थापित हुई-"
+          },
+          "answer": {
+            "en": "(d) 1855",
+            "hi": "(द) 1855 में"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Who does Aladdin represent in the picture \"Two Magicians\"?",
+            "hi": "दो जादूगर चित्र में अलादीन किसका प्रतीक है?"
+          },
+          "answer": {
+            "en": "(d) East and the Past",
+            "hi": "(द) पूरब और अतीत का"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "The businessman who set up the country's first jute mill in Calcutta in 1917 was-",
+            "hi": "1917 में कलकत्ता में देश की पहली जूट मिल लगाने वाले व्यवसायी थे-"
+          },
+          "answer": {
+            "en": "(c) Seth Hukumchand",
+            "hi": "(स) सेठ हुकुमचंद"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "In which decade did factories first open in England?",
+            "hi": "इंग्लैंड में सबसे पहले किस दशक में कारखाने खुले ?"
+          },
+          "answer": {
+            "en": "(c) In the 1730s",
+            "hi": "(स) 1730 के दशक में"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "By the 1840s, the most flourishing industry of Britain was-",
+            "hi": "1840 के दशक तक ब्रिटेन के सबसे फलते-फूलते उद्योग थे-"
+          },
+          "answer": {
+            "en": "(a) Cotton industry",
+            "hi": "(अ) सूती उद्योग और कपास उद्योग"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "The country which had a shortage of workers in the 19th century was-",
+            "hi": "19वीं सदी में जिस देश में कामगारों की कमी थी, वह था-"
+          },
+          "answer": {
+            "en": "(a) America",
+            "hi": "(अ) अमेरिका"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "In 1811-12, the share of cotton goods in India's total exports was 33 percent, which declined in 1850-51 to-",
+            "hi": "1811-12 में भारत के कुल निर्यात में सूती माल का हिस्सा 33 प्रतिशत था जो 1850-51 में घटकर रह गया था-"
+          },
+          "answer": {
+            "en": "(d) 3 percent",
+            "hi": "(द) 3 प्रतिशत"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "J.N. Tata established India's first iron and steel plant in Jamshedpur-",
+            "hi": "जे. एन. टाटा ने जमशेदपुर में भारत का प्रथम लौह एवं इस्पात संयंत्र स्थापित किया-"
+          },
+          "answer": {
+            "en": "(b) 1912",
+            "hi": "(ब) 1912"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "How was the life of workers affected by the abundance of labor in the market?",
+            "hi": "बाजार में श्रम की बहुतायत से मजदूरी का जिन्दगी किस प्रकार प्रभावित हुई ?"
+          },
+          "answer": {
+            "en": "The abundance of labor in the market greatly affected the lives of workers. Large numbers of workers started coming to cities from villages to find work. Many job seekers had to wait for weeks. They lived under bridges and in night shelters run by private individuals and the law department.",
+            "hi": "बाजार में श्रम की प्रचुरता से मजदूरों का जीवन बहुत प्रभावित हुआ. काम पाने के लिए गांवों से बड़ी संख्या में मजदूर शहरों में आने लगे। रोजगार चाहने वाले बहुत से लोगों को कई सप्ताहों तक प्रतीक्षा करनी पड़ती थी. वे पुलों के नीचे निजी तथा विधि विभाग द्वारा संचालित रैनबसेरों में रहते थे।"
+          },
+          "marks": "3"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "Describe the role of Jobbers in India in the early 20th century. OR Who were the Jobbers? Explain their functions.",
+            "hi": "20वीं शताब्दी के प्रारम्भ में भारत में जॉबर्स की भूमिका का वर्णन कीजिए। अथवा जोबर कौन होते थे? उनके कार्यों को स्पष्ट कीजिए।"
+          },
+          "answer": {
+            "en": "Jobber - Industrialists often employed a person to recruit new workers, who was called a Jobber. The Jobber was an old and trusted employee. Functions of Jobber - He used to bring people from his village, assured them of work, helped them settle in the city, and assisted them with money in times of trouble. Later, jobbers started demanding money and gifts in exchange for help and began controlling the lives of workers.",
+            "hi": "जोबर-उद्योगपति नए मजदूरों की भर्ती के लिए प्राय: एक व्यक्ति रखते थे, जो जोबर कहलाता था। जोबर कोई पुराना और विश्वस्त कर्मचारी होता था । जोबर के कार्य - वह अपने गाँव से लोगों को लाता था, उन्हें काम का भरोसा देता था, उन्हें शहर में जमने के लिए मदद देता था और मुसीबत में पैसे से मदद करता था। बाद में जोबर मदद के बदले पैसे व तोहफों की माँग करने लगे और मजदूरों की जिंदगी को नियंत्रित करने लगे ।"
+          },
+          "marks": "3"
+        },
+        {
+          "type": "Long Answer",
+          "question": {
+            "en": "What is Proto-industrialization? How did the East India Company establish control over Indian weavers?",
+            "hi": "आदि-औद्योगीकरण क्या है ? भारतीय बुनकरों पर ईस्ट इण्डिया कम्पनी ने किस प्रकार नियंत्रण स्थापित किया ?"
+          },
+          "answer": {
+            "en": "Meaning of Proto-industrialization - Industrial production before the establishment of factories in England and Europe is called proto-industrialization. In the proto-industrialization period, production for the industrial market was handmade in homes rather than in factories. Control of East India Company over Indian weavers - (1) The Company appointed paid servants called Gomasthas to supervise weavers, collect supplies, and examine the quality of cloth. (2) Weavers selling goods to the Company were banned from trading with other buyers. (3) Weavers who took loans from the Company had to hand over the cloth they made to the Gomastha. They could not sell it to any other trader.",
+            "hi": "आदि-औद्योगीकरण का अर्थ - इंग्लैण्ड और यूरोप में फैक्ट्रियों की स्थापना से पहले के औद्योगिक उत्पादन को आदि-औद्योगीकरण कहा जाता है. आदि-औद्योगीकरण काल में औद्योगिक बाजार के लिए उत्पादन कारखानों की बजाय घरों पर हाथों से निर्मित किये जाते थे. भारतीय बुनकरों पर ईस्ट इण्डिया कम्पनी का नियंत्रण - (1) कम्पनी ने बुनकरों पर निगरानी रखने, माल इकट्ठा करने और कपड़ों की गुणवत्ता जांचने के लिए वेतनभोगी कर्मचारी तैनात कर दिए जिन्हें गुमाश्ता कहा जाता था। (2) कम्पनी को माल बेचने वाले बुनकरों को अन्य खरीदारों के साथ कारोबार करने पर पाबंदी लगा दी। (3) जिन बुनकरों द्वारा कम्पनी से कर्ज लिया जाता था, उन्हें अपना बनाया हुआ कपड़ा गुमाश्ता को ही देना पड़ता था। उसे वे किसी और व्यापारी को नहीं बेच सकते थे।"
+          },
+          "marks": "4"
+        },
+        {
+          "type": "Long Answer",
+          "question": {
+            "en": "What problems did Indian weavers face due to British industrialization? OR What problems did Indian weavers face in the 19th century?",
+            "hi": "ब्रिटिश औद्योगिकीकरण के कारण भारतीय बुनकरों को किन समस्याओं का सामना करना पड़ा ? अथवा उन्नीसवीं शताब्दी में भारतीय बुनकरों को किन समस्याओं का सामना करना पड़ा ?"
+          },
+          "answer": {
+            "en": "In the 19th century, Indian weavers faced the following problems- 1. The export market of weavers was collapsing and the local market was shrinking. The local market was flooded with imported goods from Manchester. Imported cotton goods made by machines at low cost were so cheap that weavers could not compete with them. By the 1850s, poverty and unemployment had spread in most weaver regions of the country. 2. When the Civil War started in America in the 1860s, it became extremely difficult for Indian weavers to get raw material: They had to buy raw cotton at arbitrary prices. In this situation, it became difficult for weavers to survive. 3. By the end of the 19th century, production started in Indian factories and the market was flooded with machine-made goods.",
+            "hi": "उन्नीसवीं शताब्दी में भारतीय बुनकरों को निम्नलिखित समस्याओं का सामना करना पड़ा- 1. बुनकरों का निर्यात बाजार नष्ट हो रहा था और स्थानीय बाजार सिकुड़ रहा था। स्थानीय बाजार में मैनचेस्टर के आयातित मालों की भरमार थी। कम लागत पर मशीनों से बनने वाले आयात किए गए कपास उत्पाद इतने सस्ते थे कि बुनकर उनका मुकाबला नहीं कर सकते थे। 1850 के दशक तक देश के अधिकांश बुनकर प्रदेशों में गरीबी व बेरोजगारी फैल गई थी। 2. 1860 के दशक में अमेरिका में गृहयुद्ध आरम्भ होने पर भारतीय बुनकरों के लिए कच्चा माल मिलना अत्यन्त कठिन हो गया: उन्हें मनमानी कीमत पर कच्ची कपास खरीदनी पड़ती थी। इस स्थिति में बुनकरों के लिए जीवन निर्वाह करना कठिन हो गया। 3. उन्नीसवीं सदी के अन्त में भारतीय कारखानों में उत्पादन होने लगा और बाजार मशीनों की बनी चीजों से भर गया था।"
+          },
+          "marks": "4"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Chapter 5",
+      "questions": [
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "In which country was the earliest print technology developed?",
+            "hi": "सबसे पहले मुद्रण तकनीक किस देश में विकसित हुई?"
+          },
+          "answer": {
+            "en": "(b) China",
+            "hi": "(b) चीन"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Japan's oldest book 'Diamond Sutra' was printed in-",
+            "hi": "जापान की सबसे पुरानी पुस्तक 'डायमंड सूत्र' छपी-"
+          },
+          "answer": {
+            "en": "(d) 868 AD",
+            "hi": "(d) 868 ई."
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Who brought the knowledge of woodblock printing from China to Italy?",
+            "hi": "चीन से इटली में वुडब्लॉक वाली छपाई की तकनीक लेकर कौन आया था?"
+          },
+          "answer": {
+            "en": "(c) Marco Polo",
+            "hi": "(c) मार्को पोलो"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Who invented the modern printing press?",
+            "hi": "आधुनिक छापेखाने का आविष्कार किसने किया था?"
+          },
+          "answer": {
+            "en": "(a) Johann Gutenberg",
+            "hi": "(a) योहान गुटेनबर्ग"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Whose printed writings created the beginning of the Protestant Reformation in Europe?",
+            "hi": "किसके छपे हुए लेखों के कारण यूरोप में धर्म सुधार आन्दोलन की शुरूआत हुई?"
+          },
+          "answer": {
+            "en": "(b) Martin Luther",
+            "hi": "(b) मार्टिन लूथर"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Who started the publication of 'Sambad Kaumudi' from 1821?",
+            "hi": "1821 से 'संबाद कौमुदी' का प्रकाशन किसने शुरू किया?"
+          },
+          "answer": {
+            "en": "(b) Raja Rammohan Roy",
+            "hi": "(b) राजा राममोहन राय"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Who is the author of the book 'Gulamgiri'?",
+            "hi": "'गुलामगिरी' पुस्तक के लेखक कौन हैं?"
+          },
+          "answer": {
+            "en": "(c) Jyotiba Phule",
+            "hi": "(c) ज्योतिबा फुले"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Which revolution was born out of print culture?",
+            "hi": "मुद्रण संस्कृति से किस क्रांति का जन्म हुआ?"
+          },
+          "answer": {
+            "en": "(a) French Revolution of 1789",
+            "hi": "(a) 1789 की फ्रांसीसी क्रांति"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Where did the printing press first come to India?",
+            "hi": "भारत में प्रेस का आगमन सर्वप्रथम कहाँ हुआ?"
+          },
+          "answer": {
+            "en": "(c) Goa",
+            "hi": "(c) गोवा"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Who published 'Kesari'?",
+            "hi": "'केसरी' का प्रकाशन किसने किया?"
+          },
+          "answer": {
+            "en": "(b) Bal Gangadhar Tilak",
+            "hi": "(b) बाल गंगाधर तिलक"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": " 'Bengal Gazette' newspaper was published by-",
+            "hi": "'बंगाल गजट' समाचार पत्र का प्रकाशन किया-"
+          },
+          "answer": {
+            "en": "(a) James Augustus Hickey",
+            "hi": "(a) जेम्स आगस्टस हिक्की"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "MCQ",
+          "question": {
+            "en": "Who wrote the autobiography named 'Amar Jiban'?",
+            "hi": "'आमार जीवन' नामक आत्मकथा किसने लिखी?"
+          },
+          "answer": {
+            "en": "(a) Rashsundari Devi",
+            "hi": "(a) राशसुन्दरी देवी"
+          },
+          "marks": "1"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "What do you understand by Print Revolution?",
+            "hi": "मुद्रण क्रांति से आप क्या समझते हैं?"
+          },
+          "answer": {
+            "en": "Print Revolution - Due to the invention of the printing press, books started to be printed in large numbers. The prices of books fell due to printing. The availability of books in the markets increased and the readership also increased. This is called the Print Revolution. Due to this, public consciousness changed and the perspective of looking at things also changed.",
+            "hi": "मुद्रण क्रान्ति - छापेखाने के आविष्कार के कारण बड़े पैमाने पर पुस्तकें छपने लगीं। छपाई से किताबों की कीमतें गिर गईं। बाजारों में पुस्तकों की उपलब्धता बढ़ गई तथा पाठक वर्ग भी बढ़ गया। यही मुद्रण क्रान्ति कहलाती है। इससे लोक चेतना बदल गई तथा चीजों को देखने का दृष्टिकोण भी बदल गया।"
+          },
+          "marks": "3"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "Who was Rashsundari Devi? Give a brief introduction.",
+            "hi": "रशसुन्दरी देवी कौन थीं? संक्षिप्त परिचय दीजिए।"
+          },
+          "answer": {
+            "en": "Rashsundari Devi was a woman residing in East Bengal. Her marriage took place in a conservative family at the beginning of the 19th century. She learned to read secretly in the kitchen. Later, she wrote an autobiography named 'Amar Jiban' which was published in 1876. This was the first full autobiography published in Bengali language.",
+            "hi": "रशसुन्दरी देवी पूर्वी बंगाल की निवासी एक महिला थीं जिसका विवाह 19वीं सदी के प्रारम्भ में एक रूढ़िवादी परिवार में हुआ था। उन्होंने रसोई में छिप छिपकर पढ़ना सीखा। बाद में चलकर उन्होंने आमार जीवन नामक आत्मकथा लिखी जो 1876 में प्रकाशित हुई। यह बंगाली भाषा में प्रकाशित पहली सम्पूर्ण आत्म-कहानी थी।"
+          },
+          "marks": "2"
+        },
+        {
+          "type": "Short Answer",
+          "question": {
+            "en": "How did print culture affect women at the end of the 19th century?",
+            "hi": "19वीं सदी के अन्त में मुद्रण संस्कृति ने महिलाओं को किस प्रकार प्रभावित किया?"
+          },
+          "answer": {
+            "en": "At the end of the 19th century, print culture affected women in the following ways-\n1. With the emergence of print culture in the 19th century, women became more important in the role of readers and writers.\n2. Women were prominent among famous novelists. With their writing, a new definition of woman emerged - whose personality was strong, who had deep understanding, whose mind was her own and whose willpower was strong.\n3. In the 19th century, in printed books, women's lives and their feelings started being expressed with clarity and depth.\n4. In middle-class families, women started taking more interest in reading than before. Liberal fathers and husbands started teaching women at home and in the mid-19th century when schools opened in small and big cities, then liberal parents started sending daughters to schools.",
+            "hi": "19वीं सदी के अन्त में मुद्रण संस्कृति ने महिलाओं को निम्न प्रकार प्रभावित किया-\n1. 19वीं सदी में मुद्रण संस्कृति के प्रादुर्भाव से महिलाएं पाठिका तथा लेखिका की भूमिका में ज्यादा अहम हो गई।\n2. मशहूर उपन्यासकारों में लेखिकाएँ अग्रणी थीं। उनके लेखन से नई नारी की परिभाषा उभरी- जिसका व्यक्तित्व सुदृढ़ था, जिसमें गहरी सूझ-बूझ थी, जिसका अपना दिमाग था तथा अपनी इच्छाशक्ति थी।\n3. उन्नीसवीं सदी में छपी हुई पुस्तकों में महिलाओं के जीवन तथा उनकी भावनाओं को स्पष्टता से व्यक्त किया जाने लगा तथा गहनता।\n4. मध्यवर्गीय परिवारों में महिलाएँ पढ़ने में पहले की अपेक्षा अधिक रुचि लेने लगीं। उदारवादी पिता और पति अपने यहाँ औरतों को घर पर पढ़ाने लगे और उन्नीसवीं सदी के मध्य में छोटे-बड़े शहरों में स्कूल खुलने लगे, तो उदारवादी माता-पिता पुत्रियों को स्कूलों में भेजने लगे।"
+          },
+          "marks": "3"
+        }
+      ]
+    }
+  ]
+}
