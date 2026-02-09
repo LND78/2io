@@ -1,0 +1,564 @@
+{
+  "id": "6",
+  "title": "6",
+  "questions": [
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "Generally, which of the following industries uses limestone as a raw material?",
+      "Question in Hindi": "निम्न में से कौन-से उद्योग चूना पत्थर को कच्चे माल के रूप में प्रयुक्त करते है?",
+      "Answer in English": "Cement",
+      "Answer in Hindi": "सीमेंट",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "Which of the following agencies markets steel for the public sector plants?",
+      "Question in Hindi": "निम्न में से कौन-सी एजेंसी सार्वजनिक क्षेत्र में स्टील को बाजार में उपलब्ध कराती है?",
+      "Answer in English": "SAIL",
+      "Answer in Hindi": "सेल",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "Which of the following industries uses bauxite as a raw material?",
+      "Question in Hindi": "निम्न में से कौन-सा उद्योग बॉक्साइट को कच्चे माल के रूप में प्रयोग करता है?",
+      "Answer in English": "Aluminum Smelting",
+      "Answer in Hindi": "एल्युमीनियम प्रगलन",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "Which of the following industries manufactures telephones, computers, etc.?",
+      "Question in Hindi": "निम्न में से कौन-सा उद्योग दूरभाष, कम्प्यूटर आदि संयंत्र निर्मित करते हैं?",
+      "Answer in English": "Electronic",
+      "Answer in Hindi": "इलेक्ट्रॉनिक",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "What is India's rank in the world in sugar production?",
+      "Question in Hindi": "भारत का चीनी उत्पादन में विश्व में कौन सा स्थान है?",
+      "Answer in English": "Second",
+      "Answer in Hindi": "दूसरा",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "Where is the maximum concentration of Jute industry found?",
+      "Question in Hindi": "पटसन उद्योग का सर्वाधिक संकेन्द्रण कहाँ मिलता है?",
+      "Answer in English": "West Bengal",
+      "Answer in Hindi": "पश्चिम बंगाल",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "What is the contribution of manufacturing industry to India's GDP?",
+      "Question in Hindi": "भारत के सकल घरेलू उत्पाद में विनिर्माण उद्योग का योगदान कितना है?",
+      "Answer in English": "17 percent",
+      "Answer in Hindi": "17 प्रतिशत",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "How many types of industries are there based on raw materials?",
+      "Question in Hindi": "कच्चे माल के आधार पर उद्योग कितने प्रकार के होते हैं?",
+      "Answer in English": "Two",
+      "Answer in Hindi": "दो",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "Which is India's oldest and major industry?",
+      "Question in Hindi": "भारत का सबसे प्राचीन व प्रमुख उद्योग कौन सा है?",
+      "Answer in English": "Cotton textile industry",
+      "Answer in Hindi": "सूती वस्त्र उद्योग",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "When and where was the first successful cotton textile industry established?",
+      "Question in Hindi": "पहला सफल सूती वस्त्र उद्योग कब व कहाँ स्थापित किया गया?",
+      "Answer in English": "Mumbai 1854",
+      "Answer in Hindi": "मुम्बई 1854",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "Where was the first cement industry established?",
+      "Question in Hindi": "पहला सीमेंट उद्योग कहाँ स्थापित किया गया?",
+      "Answer in English": "Chennai",
+      "Answer in Hindi": "चेन्नई",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "Which place is known as the electronic capital of India?",
+      "Question in Hindi": "भारत का इलेक्ट्रॉनिक राजधानी के रूप में किसे जाना जाता है?",
+      "Answer in English": "Bengaluru",
+      "Answer in Hindi": "बैंगलुरू",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "MCQ",
+      "Question in English": "Which of the following is a basic industry?",
+      "Question in Hindi": "निम्न में से आधारभूत उद्योग है-",
+      "Answer in English": "Iron and Steel industry",
+      "Answer in Hindi": "लोहा इस्पात उद्योग",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "Production of goods in large quantities after processing from raw materials to more valuable products is called ____.",
+      "Question in Hindi": "कच्चे माल को मूल्यवान उत्पाद में परिवर्तित कर अधिक मात्रा में वस्तुओं के उत्पादन को ____ कहते हैं।",
+      "Answer in English": "Manufacturing",
+      "Answer in Hindi": "विनिर्माण",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "____ and ____ go hand in hand.",
+      "Question in Hindi": "____ और ____ एक दूसरे के पूरक हैं।",
+      "Answer in English": "Agriculture, Industry",
+      "Answer in Hindi": "कृषि, उद्योग",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "____ and ____ go together.",
+      "Question in Hindi": "____ और ____ साथ-साथ चलते हैं।",
+      "Answer in English": "Industrialization, Urbanization",
+      "Answer in Hindi": "औद्योगीकरण, शहरीकरण",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "In the last decade, the growth rate of the manufacturing sector has been ____ percent per annum.",
+      "Question in Hindi": "पिछले एक दशक में भारतीय विनिर्माण क्षेत्र में ____ प्रतिशत प्रतिवर्ष की दर से बढोतरी हुई है।",
+      "Answer in English": "4",
+      "Answer in Hindi": "4",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "Many industries come together to make use of the advantages offered by the urban centres known as ____.",
+      "Question in Hindi": "बहुत से उद्योग शहरी क्षेत्रों द्वारा मिलने वाले लाभों को उठाने के लिए एक साथ आ जाते हैं, जिसे ____ कहते हैं।",
+      "Answer in English": "Agglomeration economies",
+      "Answer in Hindi": "समोहन बचत",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "____ industry occupies a unique position in the Indian economy.",
+      "Question in Hindi": "____ उद्योग का भारत की अर्थव्यवस्था में अपना अलग ही स्थान है।",
+      "Answer in English": "Cotton textile",
+      "Answer in Hindi": "सूती वस्त्र",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "Iron and steel, cement, aluminum, machine, tools, petrochemicals are ____ industries.",
+      "Question in Hindi": "लोहा तथा इस्पात, सीमेंट, एल्युमीनियम, मशीन, औजार, पेट्रो रसायन ____ उद्योग हैं।",
+      "Answer in English": "Mineral based",
+      "Answer in Hindi": "खनिज आधारित",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "Iron and steel industry is a ____ industry.",
+      "Question in Hindi": "लोहा इस्पात उद्योग एक ____ उद्योग है।",
+      "Answer in English": "Basic",
+      "Answer in Hindi": "आधारभूत",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "Sugar industry is ____ in nature.",
+      "Question in Hindi": "चीनी उद्योग ____ प्रकृति का है।",
+      "Answer in English": "Perishable",
+      "Answer in Hindi": "नाशवान",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "BHEL, SAIL etc. are ____ sector industries.",
+      "Question in Hindi": "भेल (BHEL), सेल (SAIL) आदि ____ क्षेत्र के उद्योग हैं।",
+      "Answer in English": "Public",
+      "Answer in Hindi": "सार्वजनिक",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "The full form of SAIL is ____.",
+      "Question in Hindi": "सेल (SAIL) का पूरा नाम ____ है।",
+      "Answer in English": "Steel Authority of India Limited",
+      "Answer in Hindi": "स्टील अथॉरिटी ऑफ इंडिया लिमिटेड",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "Oil India Limited (OIL) is a ____ sector industry.",
+      "Question in Hindi": "ऑयल इंडिया लिमिटेड (OIL) ____ क्षेत्र का उद्योग है।",
+      "Answer in English": "Joint",
+      "Answer in Hindi": "संयुक्त",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "____ is used as raw material in Aluminum smelting.",
+      "Question in Hindi": "एल्युमीनियम प्रगलन में ____ को कच्चे माल के रूप में प्रयोग किया जाता है।",
+      "Answer in English": "Bauxite",
+      "Answer in Hindi": "बॉक्साइट",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Fill in the blank",
+      "Question in English": "____ has emerged as the electronic capital of India.",
+      "Question in Hindi": "____ भारत की इलेक्ट्रॉनिक राजधानी के रूप में उभरा है।",
+      "Answer in English": "Bengaluru",
+      "Answer in Hindi": "बंगलुरू",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "Define Manufacturing.",
+      "Question in Hindi": "विनिर्माण को परिभाषित कीजिए।",
+      "Answer in English": "Production of goods in large quantities after processing from raw materials to more valuable products is called manufacturing.",
+      "Answer in Hindi": "कच्चे माल को मूल्यवान उत्पाद में परिवर्तित कर अधिक मात्रा में वस्तुओं के उत्पादन को विनिर्माण कहते हैं।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "Write the importance of manufacturing industry.",
+      "Question in Hindi": "विनिर्माण उद्योग का महत्व लिखिए।",
+      "Answer in English": "It helps in modernizing agriculture and reduces heavy dependence of people on agricultural income.",
+      "Answer in Hindi": "विनिर्माण उद्योग कृषि के आधुनिकीकरण में सहायक है और यह लोगों की कृषि आय पर भारी निर्भरता को कम करता है।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "When and where was the first successful cotton textile mill established?",
+      "Question in Hindi": "पहली सफल सूती वस्त्र मिल कब व कहाँ स्थापित की गई?",
+      "Answer in English": "In Mumbai in 1854.",
+      "Answer in Hindi": "मुम्बई में 1854 में।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "When and where was the first Jute mill established?",
+      "Question in Hindi": "पहला पटसन उद्योग कब व कहाँ स्थापित किया गया?",
+      "Answer in English": "In Kolkata (Rishra) in 1855.",
+      "Answer in Hindi": "कोलकाता (रिशरा) में 1855 में।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "What are agro-based industries?",
+      "Question in Hindi": "कृषि आधारित उद्योग किसे कहते हैं?",
+      "Answer in English": "Industries which obtain their raw materials from agriculture.",
+      "Answer in Hindi": "वे उद्योग जो अपना कच्चा माल कृषि से प्राप्त करते हैं।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "What are mineral-based industries?",
+      "Question in Hindi": "खनिज आधारित उद्योग किसे कहते हैं?",
+      "Answer in English": "Industries which use minerals and metals as raw materials.",
+      "Answer in Hindi": "वे उद्योग जो खनिज व धातुओं को कच्चे माल के रूप में प्रयोग करते हैं।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "What are basic industries?",
+      "Question in Hindi": "आधारभूत उद्योग किसे कहते हैं?",
+      "Answer in English": "Industries whose products or raw materials are used to manufacture other goods.",
+      "Answer in Hindi": "वे उद्योग जिनके उत्पाद या कच्चे माल पर दूसरे उद्योग निर्भर हैं।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "What are consumer industries?",
+      "Question in Hindi": "उपभोक्ता उद्योग किसे कहते हैं?",
+      "Answer in English": "Industries that produce goods for direct use by consumers.",
+      "Answer in Hindi": "वे उद्योग जो उत्पादन उपभोक्ताओं के सीधे उपयोग हेतु करते हैं।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "What are joint sector industries?",
+      "Question in Hindi": "संयुक्त उद्योग किसे कहते हैं?",
+      "Answer in English": "Industries which are jointly run by the state and individuals or a group of individuals.",
+      "Answer in Hindi": "वे उद्योग जो राज्य सरकार और निजी क्षेत्र के संयुक्त प्रयास से चलाए जाते हैं।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "What are cooperative sector industries?",
+      "Question in Hindi": "सहकारी उद्योग किसे कहते हैं?",
+      "Answer in English": "Industries owned and operated by the producers or suppliers of raw materials, workers or both.",
+      "Answer in Hindi": "वे उद्योग जिनका स्वामित्व और संचालन कच्चे माल के उत्पादकों या पूर्तिकारों, कामगारों या दोनों के हाथ में होता है।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "Give examples of cooperative sector industries.",
+      "Question in Hindi": "सहकारी उद्योग के उदाहरण दीजिए।",
+      "Answer in English": "Sugar industry in Maharashtra, Coir industry in Kerala.",
+      "Answer in Hindi": "महाराष्ट्र का चीनी उद्योग, केरल का नारियल उद्योग।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "What is the full form of SAIL?",
+      "Question in Hindi": "सेल (SAIL) का पूरा नाम लिखिए।",
+      "Answer in English": "Steel Authority of India Limited.",
+      "Answer in Hindi": "स्टील अथॉरिटी ऑफ इंडिया लिमिटेड।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "Why is Iron and Steel industry called a basic industry?",
+      "Question in Hindi": "लोहा तथा इस्पात उद्योग को आधारभूत उद्योग क्यों कहा जाता है?",
+      "Answer in English": "Because all other industries depend on it for their machinery.",
+      "Answer in Hindi": "क्योंकि अन्य सभी उद्योग अपनी मशीनरी के लिए इस पर निर्भर हैं।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "What is the full form of NMCC?",
+      "Question in Hindi": "एन.एम.सी.सी. (NMCC) का पूरा नाम लिखिए।",
+      "Answer in English": "National Manufacturing Competitiveness Council.",
+      "Answer in Hindi": "राष्ट्रीय विनिर्माण प्रतिस्पर्धात्मकता परिषद।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "Write two problems of cotton textile industry.",
+      "Question in Hindi": "सूती वस्त्र उद्योग की दो समस्याएं लिखिए।",
+      "Answer in English": "Old machinery, irregular power supply.",
+      "Answer in Hindi": "पुरानी मशीनरी, अनियमित बिजली आपूर्ति।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "Write problems of Jute industry.",
+      "Question in Hindi": "पटसन उद्योग की चुनौतियां लिखिए।",
+      "Answer in English": "Stiff competition from synthetic substitutes and international competitors.",
+      "Answer in Hindi": "कृत्रिम रेशे से बनी चीजों से कड़ी प्रतिस्पर्धा तथा अन्तर्राष्ट्रीय प्रतियोगिता।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "Why is the sugar industry shifting towards South and West?",
+      "Question in Hindi": "चीनी मिलें दक्षिण व पश्चिम राज्यों में क्यों स्थानांतरित हो रही है?",
+      "Answer in English": "Because the cane produced here has higher sucrose content and cooler climate ensures longer crushing season.",
+      "Answer in Hindi": "क्योंकि यहाँ के गन्ने में सुक्रोज की मात्रा अधिक होती है तथा ठंडी जलवायु के कारण पेराई सत्र लम्बा होता है।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "Which minerals are used in cement industry?",
+      "Question in Hindi": "सीमेंट उद्योग में किन खनिजों का प्रयोग किया जाता है?",
+      "Answer in English": "Limestone, Silica, Alumina, Gypsum.",
+      "Answer in Hindi": "चूना पत्थर, सिलिका, एल्युमिना, जिप्सम।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "Write the utility of Aluminum.",
+      "Question in Hindi": "एल्युमीनियम की उपयोगिता लिखिए।",
+      "Answer in English": "It is light, resistant to corrosion, a good conductor of heat, and becomes strong when mixed with other metals.",
+      "Answer in Hindi": "यह हल्का, जंग अवरोधी, ऊष्मा का सुचालक है तथा अन्य धातुओं के मिश्रण से कठोर बन जाता है।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "Which place has emerged as the electronic capital of India?",
+      "Question in Hindi": "भारत की इलेक्ट्रॉनिक राजधानी के रूप में कौन सा स्थान उभरा है?",
+      "Answer in English": "Bengaluru.",
+      "Answer in Hindi": "बंगलुरू।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "What is the main objective of Software Technology Parks?",
+      "Question in Hindi": "सॉफ्टवेयर प्रौद्योगिकी पार्क का मुख्य उद्देश्य क्या है?",
+      "Answer in English": "To provide single window service and high speed data communication facility to software experts.",
+      "Answer in Hindi": "सॉफ्टवेयर विशेषज्ञों को एकल विंडो सेवा तथा उच्च डाटा संचार सुविधा प्रदान करना।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "Mention the types of industrial pollution.",
+      "Question in Hindi": "औद्योगिक प्रदूषण के प्रकार बताइए।",
+      "Answer in English": "Air, Water, Land, Noise pollution.",
+      "Answer in Hindi": "वायु, जल, भूमि, ध्वनि प्रदूषण।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "Which gases cause air pollution?",
+      "Question in Hindi": "वायु प्रदूषण कौन सी गैसों से होता है?",
+      "Answer in English": "Sulfur dioxide, Carbon monoxide.",
+      "Answer in Hindi": "सल्फर डाइऑक्साइड, कार्बन मोनोऑक्साइड।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "What are the main causes of water pollution?",
+      "Question in Hindi": "जल प्रदूषण के प्रमुख कारण क्या है?",
+      "Answer in English": "Organic and inorganic industrial wastes and effluents discharged into rivers.",
+      "Answer in Hindi": "औद्योगिक अपशिष्ट तथा कार्बनिक व अकार्बनिक कचरा नदियों में छोड़ना।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "What is thermal pollution?",
+      "Question in Hindi": "तापीय प्रदूषण किसे कहते हैं?",
+      "Answer in English": "When hot water from factories and thermal plants is drained into rivers and ponds before cooling.",
+      "Answer in Hindi": "जब कारखानों तथा तापघरों से गर्म जल को बिना ठन्डा किए नदियों तथा तालाबों में छोड़ दिया जाता है।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Very Short",
+      "Question in English": "What are the ill effects of noise pollution?",
+      "Question in Hindi": "ध्वनी प्रदूषण के क्या दुष्प्रभाव है?",
+      "Answer in English": "Irritation, anger, hearing impairment, increased heart rate and blood pressure.",
+      "Answer in Hindi": "खिन्नता, उत्तेजना, सुनने की क्षमता में कमी, हृदय गति और रक्तचाप बढ़ना।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Short",
+      "Question in English": "Describe the classification of industries.",
+      "Question in Hindi": "उद्योगों का वर्गीकरण स्पष्ट कीजिए।",
+      "Answer in English": "Based on raw materials (Agro, Mineral), Role (Basic, Consumer), Capital investment (Small, Large), Ownership (Public, Private, Joint, Cooperative).",
+      "Answer in Hindi": "कच्चे माल के आधार पर, भूमिका के आधार पर, पूंजी निवेश के आधार पर, स्वामित्व के आधार पर।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Short",
+      "Question in English": "Differentiate between agro-based and mineral-based industries.",
+      "Question in Hindi": "कृषि आधारित और खनिज आधारित उद्योगों में अंतर लिखिए।",
+      "Answer in English": "Agro-based use agricultural raw materials (e.g., cotton, sugar). Mineral-based use minerals (e.g., iron, cement).",
+      "Answer in Hindi": "कृषि आधारित कृषि कच्चे माल का उपयोग करते हैं (जैसे सूती, चीनी)। खनिज आधारित खनिजों का उपयोग करते हैं (जैसे लोहा, सीमेंट)।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Short",
+      "Question in English": "Differentiate between Integrated Steel Plant and Mini Steel Plant.",
+      "Question in Hindi": "समन्वित इस्पात उद्योग और मिनी इस्पात उद्योग में अंतर बताइए।",
+      "Answer in English": "Integrated are large, handle everything from raw material to shaping. Mini are smaller, use electric furnaces, scrap sponge iron.",
+      "Answer in Hindi": "समन्वित बड़े होते हैं, कच्चे माल से लेकर ढलाई तक सब करते हैं। मिनी छोटे होते हैं, विद्युत भट्टियों और रद्दी इस्पात का उपयोग करते हैं।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Short",
+      "Question in English": "How do industries pollute the environment?",
+      "Question in Hindi": "उद्योग पर्यावरण को कैसे प्रदूषित करते हैं?",
+      "Answer in English": "By releasing harmful gases (air), dumping wastes (water/land), and creating noise.",
+      "Answer in Hindi": "हानिकारक गैसें छोड़कर (वायु), कचरा फेंककर (जल/भूमि), और शोर उत्पन्न करके।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Short",
+      "Question in English": "Suggest measures to control environmental degradation.",
+      "Question in Hindi": "पर्यावरण निम्नीकरण को रोकने के उपाय बताइए।",
+      "Answer in English": "Treating hot water and effluents, using electrostatic precipitators, smoke stacks, reducing water usage.",
+      "Answer in Hindi": "गर्म जल और अपशिष्टों का उपचार, इलेक्ट्रोस्टैटिक अवक्षेपकों का उपयोग, धुआं चिमनियां, जल का कम उपयोग।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Short",
+      "Question in English": "Write a note on Information Technology and Electronics industry.",
+      "Question in Hindi": "सूचना प्रौद्योगिकी और इलेक्ट्रॉनिक उद्योग पर टिप्पणी लिखिए।",
+      "Answer in English": "Covers products from transistor to TV/Computers. Bengaluru is capital. Generated employment and forex.",
+      "Answer in Hindi": "ट्रांजिस्टर से लेकर टीवी/कम्प्यूटर तक उत्पाद। बंगलुरू राजधानी है। रोजगार और विदेशी मुद्रा अर्जित की।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Short",
+      "Question in English": "Describe the importance of manufacturing industries.",
+      "Question in Hindi": "विनिर्माण उद्योगों के महत्व का वर्णन कीजिए।",
+      "Answer in English": "Backbone of development, modernizes agriculture, creates jobs, earns forex.",
+      "Answer in Hindi": "विकास की रीढ़, कृषि का आधुनिकीकरण, रोजगार सृजन, विदेशी मुद्रा अर्जन।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Short",
+      "Question in English": "\"Agriculture and industry involve each other.\" Explain.",
+      "Question in Hindi": "\"कृषि और उद्योग एक दूसरे के पूरक हैं।\" स्पष्ट कीजिए।",
+      "Answer in English": "Industries provide inputs to agriculture (pumps, fertilizers). Agriculture provides raw materials and market.",
+      "Answer in Hindi": "उद्योग कृषि को इनपुट (पंप, उर्वरक) देते हैं। कृषि कच्चा माल और बाजार देती है।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 6,
+      "Questions type": "Short",
+      "Question in English": "Describe the factors affecting the location of industries.",
+      "Question in Hindi": "उद्योगों की अवस्थिति को प्रभावित करने वाले कारकों का वर्णन कीजिए।",
+      "Answer in English": "Raw material availability, labor, capital, power, market.",
+      "Answer in Hindi": "कच्चा माल, श्रम, पूंजी, शक्ति, बाजार की उपलब्धता।",
+      "Marks": "2"
+    }
+  ]
+}
