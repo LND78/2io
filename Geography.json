@@ -1,1 +1,2324 @@
-
+[
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "Generally, which of the following industries uses limestone as a raw material?",
+        "Question in Hindi": "निम्न में से कौन-से उद्योग चूना पत्थर को कच्चे माल के रूप में प्रयुक्त करते है?",
+        "Answer in English": "Cement",
+        "Answer in Hindi": "सीमेंट",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "Which of the following agencies markets steel for the public sector plants?",
+        "Question in Hindi": "निम्न में से कौन-सी एजेंसी सार्वजनिक क्षेत्र में स्टील को बाजार में उपलब्ध कराती है?",
+        "Answer in English": "SAIL",
+        "Answer in Hindi": "सेल",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "Which of the following industries uses bauxite as a raw material?",
+        "Question in Hindi": "निम्न में से कौन-सा उद्योग बॉक्साइट को कच्चे माल के रूप में प्रयोग करता है?",
+        "Answer in English": "Aluminum Smelting",
+        "Answer in Hindi": "एल्युमीनियम प्रगलन",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "Which of the following industries manufactures telephones, computers, etc.?",
+        "Question in Hindi": "निम्न में से कौन-सा उद्योग दूरभाष, कम्प्यूटर आदि संयंत्र निर्मित करते हैं?",
+        "Answer in English": "Electronic",
+        "Answer in Hindi": "इलेक्ट्रॉनिक",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "What is India's rank in the world in sugar production?",
+        "Question in Hindi": "भारत का चीनी उत्पादन में विश्व में कौन सा स्थान है?",
+        "Answer in English": "Second",
+        "Answer in Hindi": "दूसरा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "Where is the maximum concentration of Jute industry found?",
+        "Question in Hindi": "पटसन उद्योग का सर्वाधिक संकेन्द्रण कहाँ मिलता है?",
+        "Answer in English": "West Bengal",
+        "Answer in Hindi": "पश्चिम बंगाल",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "What is the contribution of manufacturing industry to India's GDP?",
+        "Question in Hindi": "भारत के सकल घरेलू उत्पाद में विनिर्माण उद्योग का योगदान कितना है?",
+        "Answer in English": "17 percent",
+        "Answer in Hindi": "17 प्रतिशत",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "How many types of industries are there based on raw materials?",
+        "Question in Hindi": "कच्चे माल के आधार पर उद्योग कितने प्रकार के होते हैं?",
+        "Answer in English": "Two",
+        "Answer in Hindi": "दो",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "Which is India's oldest and major industry?",
+        "Question in Hindi": "भारत का सबसे प्राचीन व प्रमुख उद्योग कौन सा है?",
+        "Answer in English": "Cotton textile industry",
+        "Answer in Hindi": "सूती वस्त्र उद्योग",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "When and where was the first successful cotton textile industry established?",
+        "Question in Hindi": "पहला सफल सूती वस्त्र उद्योग कब व कहाँ स्थापित किया गया?",
+        "Answer in English": "Mumbai 1854",
+        "Answer in Hindi": "मुम्बई 1854",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "Where was the first cement industry established?",
+        "Question in Hindi": "पहला सीमेंट उद्योग कहाँ स्थापित किया गया?",
+        "Answer in English": "Chennai",
+        "Answer in Hindi": "चेन्नई",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "Which place is known as the electronic capital of India?",
+        "Question in Hindi": "भारत का इलेक्ट्रॉनिक राजधानी के रूप में किसे जाना जाता है?",
+        "Answer in English": "Bengaluru",
+        "Answer in Hindi": "बैंगलुरू",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "MCQ",
+        "Question in English": "Which of the following is a basic industry?",
+        "Question in Hindi": "निम्न में से आधारभूत उद्योग है-",
+        "Answer in English": "Iron and Steel industry",
+        "Answer in Hindi": "लोहा इस्पात उद्योग",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Production of goods in large quantities after processing from raw materials to more valuable products is called ____.",
+        "Question in Hindi": "कच्चे माल को मूल्यवान उत्पाद में परिवर्तित कर अधिक मात्रा में वस्तुओं के उत्पादन को ____ कहते हैं।",
+        "Answer in English": "Manufacturing",
+        "Answer in Hindi": "विनिर्माण",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "____ and ____ go hand in hand.",
+        "Question in Hindi": "____ और ____ एक दूसरे के पूरक हैं।",
+        "Answer in English": "Agriculture, Industry",
+        "Answer in Hindi": "कृषि, उद्योग",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "____ and ____ go together.",
+        "Question in Hindi": "____ और ____ साथ-साथ चलते हैं।",
+        "Answer in English": "Industrialization, Urbanization",
+        "Answer in Hindi": "औद्योगीकरण, शहरीकरण",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "In the last decade, the growth rate of the manufacturing sector has been ____ percent per annum.",
+        "Question in Hindi": "पिछले एक दशक में भारतीय विनिर्माण क्षेत्र में ____ प्रतिशत प्रतिवर्ष की दर से बढोतरी हुई है।",
+        "Answer in English": "4",
+        "Answer in Hindi": "4",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Many industries come together to make use of the advantages offered by the urban centres known as ____.",
+        "Question in Hindi": "बहुत से उद्योग शहरी क्षेत्रों द्वारा मिलने वाले लाभों को उठाने के लिए एक साथ आ जाते हैं, जिसे ____ कहते हैं।",
+        "Answer in English": "Agglomeration economies",
+        "Answer in Hindi": "समोहन बचत",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "____ industry occupies a unique position in the Indian economy.",
+        "Question in Hindi": "____ उद्योग का भारत की अर्थव्यवस्था में अपना अलग ही स्थान है।",
+        "Answer in English": "Cotton textile",
+        "Answer in Hindi": "सूती वस्त्र",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Iron and steel, cement, aluminum, machine, tools, petrochemicals are ____ industries.",
+        "Question in Hindi": "लोहा तथा इस्पात, सीमेंट, एल्युमीनियम, मशीन, औजार, पेट्रो रसायन ____ उद्योग हैं।",
+        "Answer in English": "Mineral based",
+        "Answer in Hindi": "खनिज आधारित",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Iron and steel industry is a ____ industry.",
+        "Question in Hindi": "लोहा इस्पात उद्योग एक ____ उद्योग है।",
+        "Answer in English": "Basic",
+        "Answer in Hindi": "आधारभूत",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Sugar industry is ____ in nature.",
+        "Question in Hindi": "चीनी उद्योग ____ प्रकृति का है।",
+        "Answer in English": "Perishable",
+        "Answer in Hindi": "नाशवान",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "BHEL, SAIL etc. are ____ sector industries.",
+        "Question in Hindi": "भेल (BHEL), सेल (SAIL) आदि ____ क्षेत्र के उद्योग हैं।",
+        "Answer in English": "Public",
+        "Answer in Hindi": "सार्वजनिक",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "The full form of SAIL is ____.",
+        "Question in Hindi": "सेल (SAIL) का पूरा नाम ____ है।",
+        "Answer in English": "Steel Authority of India Limited",
+        "Answer in Hindi": "स्टील अथॉरिटी ऑफ इंडिया लिमिटेड",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Oil India Limited (OIL) is a ____ sector industry.",
+        "Question in Hindi": "ऑयल इंडिया लिमिटेड (OIL) ____ क्षेत्र का उद्योग है।",
+        "Answer in English": "Joint",
+        "Answer in Hindi": "संयुक्त",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "____ is used as raw material in Aluminum smelting.",
+        "Question in Hindi": "एल्युमीनियम प्रगलन में ____ को कच्चे माल के रूप में प्रयोग किया जाता है।",
+        "Answer in English": "Bauxite",
+        "Answer in Hindi": "बॉक्साइट",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Fill in the blank",
+        "Question in English": "____ has emerged as the electronic capital of India.",
+        "Question in Hindi": "____ भारत की इलेक्ट्रॉनिक राजधानी के रूप में उभरा है।",
+        "Answer in English": "Bengaluru",
+        "Answer in Hindi": "बंगलुरू",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "Define Manufacturing.",
+        "Question in Hindi": "विनिर्माण को परिभाषित कीजिए।",
+        "Answer in English": "Production of goods in large quantities after processing from raw materials to more valuable products is called manufacturing.",
+        "Answer in Hindi": "कच्चे माल को मूल्यवान उत्पाद में परिवर्तित कर अधिक मात्रा में वस्तुओं के उत्पादन को विनिर्माण कहते हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "Write the importance of manufacturing industry.",
+        "Question in Hindi": "विनिर्माण उद्योग का महत्व लिखिए।",
+        "Answer in English": "It helps in modernizing agriculture and reduces heavy dependence of people on agricultural income.",
+        "Answer in Hindi": "विनिर्माण उद्योग कृषि के आधुनिकीकरण में सहायक है और यह लोगों की कृषि आय पर भारी निर्भरता को कम करता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "When and where was the first successful cotton textile mill established?",
+        "Question in Hindi": "पहली सफल सूती वस्त्र मिल कब व कहाँ स्थापित की गई?",
+        "Answer in English": "In Mumbai in 1854.",
+        "Answer in Hindi": "मुम्बई में 1854 में।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "When and where was the first Jute mill established?",
+        "Question in Hindi": "पहला पटसन उद्योग कब व कहाँ स्थापित किया गया?",
+        "Answer in English": "In Kolkata (Rishra) in 1855.",
+        "Answer in Hindi": "कोलकाता (रिशरा) में 1855 में।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "What are agro-based industries?",
+        "Question in Hindi": "कृषि आधारित उद्योग किसे कहते हैं?",
+        "Answer in English": "Industries which obtain their raw materials from agriculture.",
+        "Answer in Hindi": "वे उद्योग जो अपना कच्चा माल कृषि से प्राप्त करते हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "What are mineral-based industries?",
+        "Question in Hindi": "खनिज आधारित उद्योग किसे कहते हैं?",
+        "Answer in English": "Industries which use minerals and metals as raw materials.",
+        "Answer in Hindi": "वे उद्योग जो खनिज व धातुओं को कच्चे माल के रूप में प्रयोग करते हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "What are basic industries?",
+        "Question in Hindi": "आधारभूत उद्योग किसे कहते हैं?",
+        "Answer in English": "Industries whose products or raw materials are used to manufacture other goods.",
+        "Answer in Hindi": "वे उद्योग जिनके उत्पाद या कच्चे माल पर दूसरे उद्योग निर्भर हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "What are consumer industries?",
+        "Question in Hindi": "उपभोक्ता उद्योग किसे कहते हैं?",
+        "Answer in English": "Industries that produce goods for direct use by consumers.",
+        "Answer in Hindi": "वे उद्योग जो उत्पादन उपभोक्ताओं के सीधे उपयोग हेतु करते हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "What are joint sector industries?",
+        "Question in Hindi": "संयुक्त उद्योग किसे कहते हैं?",
+        "Answer in English": "Industries which are jointly run by the state and individuals or a group of individuals.",
+        "Answer in Hindi": "वे उद्योग जो राज्य सरकार और निजी क्षेत्र के संयुक्त प्रयास से चलाए जाते हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "What are cooperative sector industries?",
+        "Question in Hindi": "सहकारी उद्योग किसे कहते हैं?",
+        "Answer in English": "Industries owned and operated by the producers or suppliers of raw materials, workers or both.",
+        "Answer in Hindi": "वे उद्योग जिनका स्वामित्व और संचालन कच्चे माल के उत्पादकों या पूर्तिकारों, कामगारों या दोनों के हाथ में होता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "Give examples of cooperative sector industries.",
+        "Question in Hindi": "सहकारी उद्योग के उदाहरण दीजिए।",
+        "Answer in English": "Sugar industry in Maharashtra, Coir industry in Kerala.",
+        "Answer in Hindi": "महाराष्ट्र का चीनी उद्योग, केरल का नारियल उद्योग।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "What is the full form of SAIL?",
+        "Question in Hindi": "सेल (SAIL) का पूरा नाम लिखिए।",
+        "Answer in English": "Steel Authority of India Limited.",
+        "Answer in Hindi": "स्टील अथॉरिटी ऑफ इंडिया लिमिटेड।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "Why is Iron and Steel industry called a basic industry?",
+        "Question in Hindi": "लोहा तथा इस्पात उद्योग को आधारभूत उद्योग क्यों कहा जाता है?",
+        "Answer in English": "Because all other industries depend on it for their machinery.",
+        "Answer in Hindi": "क्योंकि अन्य सभी उद्योग अपनी मशीनरी के लिए इस पर निर्भर हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "What is the full form of NMCC?",
+        "Question in Hindi": "एन.एम.सी.सी. (NMCC) का पूरा नाम लिखिए।",
+        "Answer in English": "National Manufacturing Competitiveness Council.",
+        "Answer in Hindi": "राष्ट्रीय विनिर्माण प्रतिस्पर्धात्मकता परिषद।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "Write two problems of cotton textile industry.",
+        "Question in Hindi": "सूती वस्त्र उद्योग की दो समस्याएं लिखिए।",
+        "Answer in English": "Old machinery, irregular power supply.",
+        "Answer in Hindi": "पुरानी मशीनरी, अनियमित बिजली आपूर्ति।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "Write problems of Jute industry.",
+        "Question in Hindi": "पटसन उद्योग की चुनौतियां लिखिए।",
+        "Answer in English": "Stiff competition from synthetic substitutes and international competitors.",
+        "Answer in Hindi": "कृत्रिम रेशे से बनी चीजों से कड़ी प्रतिस्पर्धा तथा अन्तर्राष्ट्रीय प्रतियोगिता।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "Why is the sugar industry shifting towards South and West?",
+        "Question in Hindi": "चीनी मिलें दक्षिण व पश्चिम राज्यों में क्यों स्थानांतरित हो रही है?",
+        "Answer in English": "Because the cane produced here has higher sucrose content and cooler climate ensures longer crushing season.",
+        "Answer in Hindi": "क्योंकि यहाँ के गन्ने में सुक्रोज की मात्रा अधिक होती है तथा ठंडी जलवायु के कारण पेराई सत्र लम्बा होता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "Which minerals are used in cement industry?",
+        "Question in Hindi": "सीमेंट उद्योग में किन खनिजों का प्रयोग किया जाता है?",
+        "Answer in English": "Limestone, Silica, Alumina, Gypsum.",
+        "Answer in Hindi": "चूना पत्थर, सिलिका, एल्युमिना, जिप्सम।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "Write the utility of Aluminum.",
+        "Question in Hindi": "एल्युमीनियम की उपयोगिता लिखिए।",
+        "Answer in English": "It is light, resistant to corrosion, a good conductor of heat, and becomes strong when mixed with other metals.",
+        "Answer in Hindi": "यह हल्का, जंग अवरोधी, ऊष्मा का सुचालक है तथा अन्य धातुओं के मिश्रण से कठोर बन जाता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "Which place has emerged as the electronic capital of India?",
+        "Question in Hindi": "भारत की इलेक्ट्रॉनिक राजधानी के रूप में कौन सा स्थान उभरा है?",
+        "Answer in English": "Bengaluru.",
+        "Answer in Hindi": "बंगलुरू।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "What is the main objective of Software Technology Parks?",
+        "Question in Hindi": "सॉफ्टवेयर प्रौद्योगिकी पार्क का मुख्य उद्देश्य क्या है?",
+        "Answer in English": "To provide single window service and high speed data communication facility to software experts.",
+        "Answer in Hindi": "सॉफ्टवेयर विशेषज्ञों को एकल विंडो सेवा तथा उच्च डाटा संचार सुविधा प्रदान करना।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "Mention the types of industrial pollution.",
+        "Question in Hindi": "औद्योगिक प्रदूषण के प्रकार बताइए।",
+        "Answer in English": "Air, Water, Land, Noise pollution.",
+        "Answer in Hindi": "वायु, जल, भूमि, ध्वनि प्रदूषण।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "Which gases cause air pollution?",
+        "Question in Hindi": "वायु प्रदूषण कौन सी गैसों से होता है?",
+        "Answer in English": "Sulfur dioxide, Carbon monoxide.",
+        "Answer in Hindi": "सल्फर डाइऑक्साइड, कार्बन मोनोऑक्साइड।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "What are the main causes of water pollution?",
+        "Question in Hindi": "जल प्रदूषण के प्रमुख कारण क्या है?",
+        "Answer in English": "Organic and inorganic industrial wastes and effluents discharged into rivers.",
+        "Answer in Hindi": "औद्योगिक अपशिष्ट तथा कार्बनिक व अकार्बनिक कचरा नदियों में छोड़ना।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "What is thermal pollution?",
+        "Question in Hindi": "तापीय प्रदूषण किसे कहते हैं?",
+        "Answer in English": "When hot water from factories and thermal plants is drained into rivers and ponds before cooling.",
+        "Answer in Hindi": "जब कारखानों तथा तापघरों से गर्म जल को बिना ठन्डा किए नदियों तथा तालाबों में छोड़ दिया जाता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Very Short",
+        "Question in English": "What are the ill effects of noise pollution?",
+        "Question in Hindi": "ध्वनी प्रदूषण के क्या दुष्प्रभाव है?",
+        "Answer in English": "Irritation, anger, hearing impairment, increased heart rate and blood pressure.",
+        "Answer in Hindi": "खिन्नता, उत्तेजना, सुनने की क्षमता में कमी, हृदय गति और रक्तचाप बढ़ना।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Short",
+        "Question in English": "Describe the classification of industries.",
+        "Question in Hindi": "उद्योगों का वर्गीकरण स्पष्ट कीजिए।",
+        "Answer in English": "Based on raw materials (Agro, Mineral), Role (Basic, Consumer), Capital investment (Small, Large), Ownership (Public, Private, Joint, Cooperative).",
+        "Answer in Hindi": "कच्चे माल के आधार पर, भूमिका के आधार पर, पूंजी निवेश के आधार पर, स्वामित्व के आधार पर।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Short",
+        "Question in English": "Differentiate between agro-based and mineral-based industries.",
+        "Question in Hindi": "कृषि आधारित और खनिज आधारित उद्योगों में अंतर लिखिए।",
+        "Answer in English": "Agro-based use agricultural raw materials (e.g., cotton, sugar). Mineral-based use minerals (e.g., iron, cement).",
+        "Answer in Hindi": "कृषि आधारित कृषि कच्चे माल का उपयोग करते हैं (जैसे सूती, चीनी)। खनिज आधारित खनिजों का उपयोग करते हैं (जैसे लोहा, सीमेंट)।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Short",
+        "Question in English": "Differentiate between Integrated Steel Plant and Mini Steel Plant.",
+        "Question in Hindi": "समन्वित इस्पात उद्योग और मिनी इस्पात उद्योग में अंतर बताइए।",
+        "Answer in English": "Integrated are large, handle everything from raw material to shaping. Mini are smaller, use electric furnaces, scrap sponge iron.",
+        "Answer in Hindi": "समन्वित बड़े होते हैं, कच्चे माल से लेकर ढलाई तक सब करते हैं। मिनी छोटे होते हैं, विद्युत भट्टियों और रद्दी इस्पात का उपयोग करते हैं।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Short",
+        "Question in English": "How do industries pollute the environment?",
+        "Question in Hindi": "उद्योग पर्यावरण को कैसे प्रदूषित करते हैं?",
+        "Answer in English": "By releasing harmful gases (air), dumping wastes (water/land), and creating noise.",
+        "Answer in Hindi": "हानिकारक गैसें छोड़कर (वायु), कचरा फेंककर (जल/भूमि), और शोर उत्पन्न करके।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Short",
+        "Question in English": "Suggest measures to control environmental degradation.",
+        "Question in Hindi": "पर्यावरण निम्नीकरण को रोकने के उपाय बताइए।",
+        "Answer in English": "Treating hot water and effluents, using electrostatic precipitators, smoke stacks, reducing water usage.",
+        "Answer in Hindi": "गर्म जल और अपशिष्टों का उपचार, इलेक्ट्रोस्टैटिक अवक्षेपकों का उपयोग, धुआं चिमनियां, जल का कम उपयोग।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Short",
+        "Question in English": "Write a note on Information Technology and Electronics industry.",
+        "Question in Hindi": "सूचना प्रौद्योगिकी और इलेक्ट्रॉनिक उद्योग पर टिप्पणी लिखिए।",
+        "Answer in English": "Covers products from transistor to TV/Computers. Bengaluru is capital. Generated employment and forex.",
+        "Answer in Hindi": "ट्रांजिस्टर से लेकर टीवी/कम्प्यूटर तक उत्पाद। बंगलुरू राजधानी है। रोजगार और विदेशी मुद्रा अर्जित की।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Short",
+        "Question in English": "Describe the importance of manufacturing industries.",
+        "Question in Hindi": "विनिर्माण उद्योगों के महत्व का वर्णन कीजिए।",
+        "Answer in English": "Backbone of development, modernizes agriculture, creates jobs, earns forex.",
+        "Answer in Hindi": "विकास की रीढ़, कृषि का आधुनिकीकरण, रोजगार सृजन, विदेशी मुद्रा अर्जन।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Short",
+        "Question in English": "\"Agriculture and industry involve each other.\" Explain.",
+        "Question in Hindi": "\"कृषि और उद्योग एक दूसरे के पूरक हैं।\" स्पष्ट कीजिए।",
+        "Answer in English": "Industries provide inputs to agriculture (pumps, fertilizers). Agriculture provides raw materials and market.",
+        "Answer in Hindi": "उद्योग कृषि को इनपुट (पंप, उर्वरक) देते हैं। कृषि कच्चा माल और बाजार देती है।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 6,
+        "Questions type": "Short",
+        "Question in English": "Describe the factors affecting the location of industries.",
+        "Question in Hindi": "उद्योगों की अवस्थिति को प्रभावित करने वाले कारकों का वर्णन कीजिए।",
+        "Answer in English": "Raw material availability, labor, capital, power, market.",
+        "Answer in Hindi": "कच्चा माल, श्रम, पूंजी, शक्ति, बाजार की उपलब्धता।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "What percentage of total global biodiversity is found in India?",
+        "Question in Hindi": "भारत में विश्व की सारी जैव उपजातियों की कितने प्रतिशत संख्या पाई जाती है?",
+        "Answer in English": "8 percent (approx 1.6 million)",
+        "Answer in Hindi": "8 प्रतिशत (लगभग 16 लाख)",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "When was the Indian Wildlife (Protection) Act implemented?",
+        "Question in Hindi": "भारतीय वन्यजीवन (रक्षण) अधिनियम कब लागू किया गया?",
+        "Answer in English": "1972",
+        "Answer in Hindi": "1972",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "When was Project Tiger started?",
+        "Question in Hindi": "प्रोजेक्ट टाइगर की शुरुआत कब हुई?",
+        "Answer in English": "1973",
+        "Answer in Hindi": "1973",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "In which state is 'Corbett National Park' located?",
+        "Question in Hindi": "‘कारबेट राष्ट्रीय उद्यान’ भारत के किस राज्य में स्थित है।",
+        "Answer in English": "Uttarakhand",
+        "Answer in Hindi": "उत्तराखण्ड",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "In which state is 'Sundarban National Park' located?",
+        "Question in Hindi": "‘सुंदरवन राष्ट्रीय उद्यान’ भारत के किस राज्य में स्थित है।",
+        "Answer in English": "West Bengal",
+        "Answer in Hindi": "पश्चिम बंगाल",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "Where is 'Bandhavgarh National Park' located?",
+        "Question in Hindi": "‘बांधवगढ़ राष्ट्रीय उद्यान’ कहाँ स्थित है?",
+        "Answer in English": "Madhya Pradesh",
+        "Answer in Hindi": "मध्य प्रदेश",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "In which state is 'Sariska Tiger Reserve' located?",
+        "Question in Hindi": "‘सरिस्का बाघ रिजर्व’ किस राज्य में स्थित है।",
+        "Answer in English": "Rajasthan",
+        "Answer in Hindi": "राजस्थान",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "In which state is 'Periyar Tiger Reserve' located?",
+        "Question in Hindi": "‘पेरियार बाघ रिजर्व’ किस राज्य में स्थित है?",
+        "Answer in English": "Kerala",
+        "Answer in Hindi": "केरल",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "In which state is 'Kaziranga National Park' located?",
+        "Question in Hindi": "‘काजीरंगा राष्ट्रीय उद्यान’ किस राज्य में स्थित है?",
+        "Answer in English": "Assam",
+        "Answer in Hindi": "असम",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "Which state has the largest area under permanent forests?",
+        "Question in Hindi": "भारत के किस राज्य में स्थायी वनों के अन्तर्गत सबसे अधिक क्षेत्र है?",
+        "Answer in English": "Madhya Pradesh (75%)",
+        "Answer in Hindi": "मध्य प्रदेश (75 प्रतिशत)",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "According to the Forest Department, what part of the country's total forest area is protected forest?",
+        "Question in Hindi": "वन विभाग के अनुसार देश के कुल क्षेत्र का कितना हिस्सा रक्षित वन है?",
+        "Answer in English": "One-third part",
+        "Answer in Hindi": "एक-तिहाई हिस्सा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "People of which five villages in which district of Rajasthan declared 1200 hectares of forest land as 'Bhairodev Dakav Sonchuri'?",
+        "Question in Hindi": "राजस्थान के किन जिले में 5 गाँवो के लोगो ने 1200 हेक्टेयर वन भूमि ‘भैरोदेव डाकव सेंचुरी’ घोषित कर दी है?",
+        "Answer in English": "Alwar",
+        "Answer in Hindi": "अलवर",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "Which trees are worshipped by Munda and Santhal tribes in Chota Nagpur region?",
+        "Question in Hindi": "छोटा नागपुर क्षेत्र में मुंडा और संथाल जनजातियों किन पेड़ो की पूजा करते हैं?",
+        "Answer in English": "Mahua and Kadamba",
+        "Answer in Hindi": "महुआ और कदम्ब",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "Tribes of which states worship tamarind and mango trees during weddings?",
+        "Question in Hindi": "किन राज्यों की जनजातियाँ शादी के दौरान इमली और आम के पेड़ की पूजा करती है?",
+        "Answer in English": "Odisha and Bihar",
+        "Answer in Hindi": "ओडिशा और बिहार",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "'Chipko Movement' is related to?",
+        "Question in Hindi": "‘चिपको आंदोलन’ का सम्बंध है?",
+        "Answer in English": "Himalayan region",
+        "Answer in Hindi": "हिमालयी क्षेत्र से",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "Which movement showed that adequate crop production is possible without using synthetic chemicals?",
+        "Question in Hindi": "टिहरी के किसानो द्वारा किस अभियान ने दिखा दिया कि रासायनिक उर्वरको के प्रयोग बिना भी विविध फसल उत्पादन व आर्थिक कृषि उत्पादन संभव है?",
+        "Answer in English": "'Beej Bachao Andolan' and 'Navdanya'",
+        "Answer in Hindi": "‘बीज बचाओं आंदोलन’ और ‘नवदानम’",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "Which state passed the first resolution for Joint Forest Management in 1988?",
+        "Question in Hindi": "1988 में किस राज्य ने संयुक्त वन प्रबंधन का पहला प्रस्ताव पास किया?",
+        "Answer in English": "Odisha",
+        "Answer in Hindi": "ओडिसा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "Which environmentalist is associated with 'Chipko Movement'?",
+        "Question in Hindi": "‘चिपको आन्दोलन’ से जुड़े हुए पर्यावरणविद् है?",
+        "Answer in English": "Amrita Devi Vishnoi, Sunder Lal Bahuguna",
+        "Answer in Hindi": "अमृता देवी विश्नोई, सुन्दर लाल बहुगुणा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "How many types of forests are there?",
+        "Question in Hindi": "वन कितने प्रकार के होते है?",
+        "Answer in English": "3 (Reserved, Protected, Unclassed)",
+        "Answer in Hindi": "1. आरक्षित वन, 2. रक्षित वन, 3. अवर्गीकृत वन",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "What are endangered species?",
+        "Question in Hindi": "संकटग्रस्त प्रजातियाँ किसे कहते है?",
+        "Answer in English": "Species whose population has declined so much that they are in danger of extinction.",
+        "Answer in Hindi": "वे प्रजातियाँ जिनकी संख्या कम हो गई है तथा उनके लुप्त होने का खतरा है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "MCQ",
+        "Question in English": "What is 'Red Data Book'?",
+        "Question in Hindi": "‘रेड डाटा पुस्तक’ क्या है?",
+        "Answer in English": "Source book comprising the list of endangered species.",
+        "Answer in Hindi": "संकटापन्न प्रजातियों का लेखा-जोखा या इनकी सूची है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "Very Short",
+        "Question in English": "Define Biodiversity.",
+        "Question in Hindi": "जैव विविधता को परिभाषित कीजिए।",
+        "Answer in English": "Existence of various types of organisms and vegetation on earth.",
+        "Answer in Hindi": "पृथ्वी के स्थलीय व जलीय भाग पर अनेक प्रकार के जीव जन्तुओं तथा वनस्पति का पाया जाना ही जैव-विविधता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "Very Short",
+        "Question in English": "What is Ecosystem?",
+        "Question in Hindi": "पारिस्थितिक तंत्र किसे कहते हैं?",
+        "Answer in English": "Complex system formed by human beings and other living organisms.",
+        "Answer in Hindi": "मानव और दूसरे जीवधारी मिलकर एक जटिल तंत्र का निर्माण करते हैं, जिने पारिस्थितिक तंत्र कहते है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "Very Short",
+        "Question in English": "Why is conservation of forest and wildlife necessary?",
+        "Question in Hindi": "वनों और वन्य जीवन का संरक्षण करना क्यो आवश्यक है।",
+        "Answer in English": "To preserve ecological diversity and our life support systems (water, air, soil).",
+        "Answer in Hindi": "वन और वन्य जीवन के संरक्षण से पारिस्थितिकी विविधता बनी रहती है तथा हमारे जीवन साध्य संसाधन - जल, वायु और मृदा बने रहते हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "Very Short",
+        "Question in English": "Mention two factors responsible for declining biodiversity in India.",
+        "Question in Hindi": "भारत में जैव विविधता को कम करने वाले दो कारक बताइए।",
+        "Answer in English": "1. Destruction of habitat, hunting/poaching. 2. Environmental pollution.",
+        "Answer in Hindi": "1. वन्य जीवों के आवास का विनाश, जंगली जानवरों को मारना व आखेट्न, 2. पर्यावरणीय प्रदूषण",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "Very Short",
+        "Question in English": "Name any two tiger reserve projects in India.",
+        "Question in Hindi": "भारत में किन्ही दो बाघ आराक्षित परियोजनाओं के नाम बताइए।",
+        "Answer in English": "1. Corbett National Park (Uttarakhand), 2. Sundarban National Park (West Bengal).",
+        "Answer in Hindi": "1. कार्बेट राष्ट्रीय उद्यान (उत्तराखण्ड), 2. सुन्दरबन राष्ट्रीय उद्यान (पश्चिम बंगाल)",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "Very Short",
+        "Question in English": "State the importance of Chipko Movement.",
+        "Question in Hindi": "चिपको आंदोलन का महत्व बताइए।",
+        "Answer in English": "Stopping deforestation in Himalayas and community afforestation.",
+        "Answer in Hindi": "हिमालय प्रदेश में वनों की कटाई रोकना तथा सामुदायिक वनीकरण करना आदि कार्य चिपको आंदोलन के अर्न्तगत किये जाते हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "Very Short",
+        "Question in English": "Which animal is considered an integral part of the Bishnoi community in Rajasthan?",
+        "Question in Hindi": "राजस्थान में विश्नोई समुदाय का अभिन्न हिस्सा किन जीव जन्तुओं को माना जाता है?",
+        "Answer in English": "Black buck, Chinkara, Nilgai, Peacock.",
+        "Answer in Hindi": "काला हिरण, चिंकारा, नीलगाय, मोर",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 7,
+        "Questions type": "Very Short",
+        "Question in English": "What is 'Joint Forest Management'?",
+        "Question in Hindi": "‘संयुक्त वन प्रबंधन’ क्या है?",
+        "Answer in English": "Program involving local communities in management and restoration of degraded forests.",
+        "Answer in Hindi": "वन विभाग के अन्तर्गत संयुक्त वन प्रबंधन क्षरित वनों के बचाव के लिए कार्य करता है। इसमें गाँव के स्तर पर संस्थाएँ बनाई जाती है जिनमें ग्रामीण और वन विभाग के अधिकारी संयुक्त रूप से कार्य करते हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "Which is the first multipurpose project of independent India?",
+        "Question in Hindi": "स्वतंत्र भारत की पहली बहुउद्देशीय परियोजना कौनसी है?",
+        "Answer in English": "(b) Damodar Valley Project",
+        "Answer in Hindi": "(ब) दामोदर घाटी परियोजना",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "Who called multipurpose projects 'Temples of Modern India'?",
+        "Question in Hindi": "बहुउद्देशीय परियोजनाओं को किसने 'आधुनिक भारत का मंदिर' कहा था?",
+        "Answer in English": "(a) Jawaharlal Nehru",
+        "Answer in Hindi": "(अ) जवाहरलाल नेहरू",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "In which state is the Rana Pratap Sagar Dam located?",
+        "Question in Hindi": "राणा प्रताप सागर बांध किस राज्य में स्थित है?",
+        "Answer in English": "(a) Rajasthan",
+        "Answer in Hindi": "(अ) राजस्थान",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "On which river is the Sardar Sarovar Dam built?",
+        "Question in Hindi": "सरदार सरोवर बांध किस नदी पर बनाया गया है?",
+        "Answer in English": "(a) Narmada",
+        "Answer in Hindi": "(अ) नर्मदा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "In which state is the Hirakud Dam located?",
+        "Question in Hindi": "हीराकुंड बांध किस राज्य में स्थित है?",
+        "Answer in English": "(a) Odisha",
+        "Answer in Hindi": "(अ) ओडिशा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "How much of the world's water volume is estimated to exist as oceans?",
+        "Question in Hindi": "विश्व में जल के कुल आयतन का कितने प्रतिशत भाग महासागरों में पाया जाता है?",
+        "Answer in English": "(a) 96.5%",
+        "Answer in Hindi": "(अ) 96.5%",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "Which state has made rooftop rainwater harvesting structure compulsory for all the houses in the state?",
+        "Question in Hindi": "किस राज्य ने घर की छत पर वर्षा जल संग्रहण ढांचों का बनाना आवश्यक कर दिया है?",
+        "Answer in English": "(a) Tamil Nadu",
+        "Answer in Hindi": "(अ) तमिलनाडु",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "On which river is the Bhakra Nangal Project located?",
+        "Question in Hindi": "भाखड़ा नांगल परियोजना किस नदी पर स्थित है?",
+        "Answer in English": "(c) Satluj-Beas",
+        "Answer in Hindi": "(स) सतलुज-व्यास",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "Approximately what percentage of total electricity produced in India is obtained from hydroelectricity?",
+        "Question in Hindi": "भारत में उत्पादित कुल विद्युत का लगभग कितने प्रतिशत भाग जल विद्युत से प्राप्त होता है?",
+        "Answer in English": "(d) 22%",
+        "Answer in Hindi": "(द) 22%",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "On which river is the Nagarjuna Sagar Dam located?",
+        "Question in Hindi": "नागार्जुन सागर बांध किस नदी पर स्थित है?",
+        "Answer in English": "(b) Krishna",
+        "Answer in Hindi": "(ब) कृष्णा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "On which river is the Mettur Dam located?",
+        "Question in Hindi": "मेट्टूर बांध किस नदी पर स्थित है?",
+        "Answer in English": "(a) Kaveri (Cauvery)",
+        "Answer in Hindi": "(अ) कावेरी",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "On which river is the Salal Project located?",
+        "Question in Hindi": "सलाल परियोजना किस नदी पर स्थित है?",
+        "Answer in English": "(a) Chenab",
+        "Answer in Hindi": "(अ) चिनाब",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "On which river is the Hirakud Dam constructed?",
+        "Question in Hindi": "हीराकुंड बांध किस नदी पर बनाया गया है?",
+        "Answer in English": "(b) Mahanadi",
+        "Answer in Hindi": "(ब) महानदी",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "MCQ",
+        "Question in English": "On which river is the Tehri Dam situated?",
+        "Question in Hindi": "टिहरी बांध किस नदी पर स्थित है?",
+        "Answer in English": "(a) Bhagirathi",
+        "Answer in Hindi": "(अ) भागीरथी",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Three-fourth of the earth's surface is covered with ..........",
+        "Question in Hindi": "धरातल का तीन-चौथाई भाग .......... से ढका हुआ है।",
+        "Answer in English": "water",
+        "Answer in Hindi": "जल",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Freshwater is obtained from surface run off and ...........",
+        "Question in Hindi": "अलवणीय जल हमें सतही अपवाह और .......... से प्राप्त होता है।",
+        "Answer in English": "groundwater",
+        "Answer in Hindi": "भौमजल स्रोत",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Fill in the blank",
+        "Question in English": ".......... percent of the total volume of world's water is estimated to exist as oceans.",
+        "Question in Hindi": "कुल जल आयतन का .......... प्रतिशत भाग महासागरों में पाया जाता है।",
+        "Answer in English": "96.5",
+        "Answer in Hindi": "96.5",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Only .......... percent of water is fresh water.",
+        "Question in Hindi": "केवल .......... प्रतिशत जल ही अलवणीय है।",
+        "Answer in English": "2.5",
+        "Answer in Hindi": "2.5",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Fill in the blank",
+        "Question in English": "In the 11th century, largest artificial lake was built in ...........",
+        "Question in Hindi": "11वीं शताब्दी में .......... में सबसे बड़ी कृत्रिम झील बनाई गई।",
+        "Answer in English": "Bhopal",
+        "Answer in Hindi": "भोपाल",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Very Short",
+        "Question in English": "Name two main sources of fresh water.",
+        "Question in Hindi": "अलवणीय जल के दो मुख्य स्रोत बताइये।",
+        "Answer in English": "Surface run off and ground water.",
+        "Answer in Hindi": "सतही अपवाह और भौमजल।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Very Short",
+        "Question in English": "What is meant by water scarcity?",
+        "Question in Hindi": "जल दुर्लभता किसे कहते हैं?",
+        "Answer in English": "Shortage of water compared to its demand is called water scarcity.",
+        "Answer in Hindi": "जल की मांग की तुलना में जल की कमी को जल दुर्लभता कहते हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Very Short",
+        "Question in English": "What are 'Kuls' or 'Guls'?",
+        "Question in Hindi": "'कुल' अथवा 'गुल' किसे कहते हैं?",
+        "Answer in English": "Diversion channels built for agriculture in hill and mountainous regions like Western Himalayas.",
+        "Answer in Hindi": "पर्वतीय क्षेत्रों (पश्चिमी हिमालय) में कृषि के लिए बनाई गई वाहिकाएँ 'गुल' अथवा 'कुल' कहलाती हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Very Short",
+        "Question in English": "Name two dams built on Chambal river.",
+        "Question in Hindi": "चम्बल नदी पर बने दो बांधों के नाम लिखिए।",
+        "Answer in English": "Gandhi Sagar and Rana Pratap Sagar.",
+        "Answer in Hindi": "गाँधी सागर और राणा प्रताप सागर।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Very Short",
+        "Question in English": "What are 'Khadin' and 'Johad'?",
+        "Question in Hindi": "'खादीन' और 'जोहड़' क्या है?",
+        "Answer in English": "Rainwater harvesting structures in arid and semi-arid regions of Rajasthan.",
+        "Answer in Hindi": "राजस्थान के शुष्क और अर्धशुष्क क्षेत्रों में वर्षा जल संग्रहण के ढाँचे।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Short",
+        "Question in English": "Mention three reasons for water scarcity.",
+        "Question in Hindi": "जल दुर्लभता के तीन कारण बताइये।",
+        "Answer in English": "1. Growing population 2. Industrialisation 3. Commercialisation of agriculture.",
+        "Answer in Hindi": "1. बढ़ती जनसंख्या 2. औद्योगीकरण 3. कृषि का व्यवसायीकरण।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Short",
+        "Question in English": "State two advantages of multipurpose projects.",
+        "Question in Hindi": "बहुउद्देशीय परियोजनाओं के दो लाभ बताइये।",
+        "Answer in English": "1. Irrigation 2. Electricity generation.",
+        "Answer in Hindi": "1. सिंचाई 2. विद्युत उत्पादन।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Short",
+        "Question in English": "State two disadvantages of multipurpose projects.",
+        "Question in Hindi": "बहुउद्देशीय परियोजनाओं की दो हानियाँ बताइये।",
+        "Answer in English": "1. Displacement of local people 2. Destruction of natural vegetation.",
+        "Answer in Hindi": "1. स्थानीय लोगों का विस्थापन 2. प्राकृतिक वनस्पति का विनाश।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Short",
+        "Question in English": "How is rainwater harvesting done in semi-arid regions of Rajasthan?",
+        "Question in Hindi": "राजस्थान के अर्ध-शुष्क क्षेत्रों में वर्षा जल संग्रहण किस प्रकार किया जाता है?",
+        "Answer in English": "Through underground tanks called 'Tankas' for storing drinking water.",
+        "Answer in Hindi": "पीने का पानी जमा करने के लिए भूमिगत टैंक अथवा 'टांका' बनाकर।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Short",
+        "Question in English": "Where is Bamboo Drip Irrigation System prevalent?",
+        "Question in Hindi": "बांस ड्रिप सिंचाई प्रणाली कहाँ प्रचलित है?",
+        "Answer in English": "Meghalaya.",
+        "Answer in Hindi": "मेघालय।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Short",
+        "Question in English": "Describe traditional methods of rainwater harvesting in India.",
+        "Question in Hindi": "भारत में वर्षा जल संग्रहण की पारम्परिक विधियों का वर्णन करें।",
+        "Answer in English": "Guls/Kuls in hills, Rooftop harvesting in Rajasthan, Inundation channels in Bengal, Khadins/Johads in arid regions.",
+        "Answer in Hindi": "पहाड़ी क्षेत्रों में 'गुल'/'कुल', राजस्थान में छत वर्षा जल संग्रहण, बंगाल में बाढ़ जल वाहिकाएं, शुष्क क्षेत्रों में 'खादीन'/'जोहड़'।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Short",
+        "Question in English": "What was Narmada Bachao Andolan?",
+        "Question in Hindi": "नर्मदा बचाओ आन्दोलन क्या था?",
+        "Answer in English": "A movement against Sardar Sarovar Dam due to environmental and displacement issues.",
+        "Answer in Hindi": "सरदार सरोवर बांध के विरोध में चलाया गया आन्दोलन (पर्यावरण और विस्थापन के मुद्दे पर)।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Short",
+        "Question in English": "Why is conservation of water resources necessary?",
+        "Question in Hindi": "जल संसाधनों का संरक्षण क्यों आवश्यक है?",
+        "Answer in English": "To ensure food security, health, and protect ecosystem from degradation.",
+        "Answer in Hindi": "खाद्य सुरक्षा, स्वास्थ्य और पारिस्थितिकी तंत्र को बचाने के लिए।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Short",
+        "Question in English": "How has industrialisation and urbanisation aggravated water scarcity in India?",
+        "Question in Hindi": "औद्योगीकरण और शहरीकरण ने भारत में जल दुर्लभता को कैसे बढ़ाया है?",
+        "Answer in English": "Industries use huge water/power. Urban centers with large populations overexploit groundwater.",
+        "Answer in Hindi": "उद्योगों द्वारा अत्यधिक जल/विद्युत उपभोग। शहरी केंद्रों में विशाल जनसंख्या द्वारा भूजल का अतिदोहन।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Long",
+        "Question in English": "Describe the method of rainwater harvesting in semi-arid regions of Rajasthan.",
+        "Question in Hindi": "राजस्थान के अर्ध-शुष्क क्षेत्रों में वर्षा जल संग्रहण की विधि का वर्णन करें।",
+        "Answer in English": "In semi-arid regions like Bikaner, Phalodi and Barmer, almost all houses had underground tanks or 'tankas' for storing drinking water. The tanks were part of the well-developed rooftop rainwater harvesting system. They were connected to the sloping roofs of the houses through a pipe.",
+        "Answer in Hindi": "राजस्थान के अर्ध-शुष्क क्षेत्रों जैसे बीकानेर, फलोदी और बाड़मेर में, लगभग सभी घरों में पीने का पानी जमा करने के लिए भूमिगत टैंक या 'टांका' होते थे। टैंक सुविकसित छत वर्षा जल संग्रहण प्रणाली का हिस्सा थे। वे एक पाइप के माध्यम से घरों की ढलवां छतों से जुड़े होते थे।",
+        "Marks": "3"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Long",
+        "Question in English": "Write advantages and disadvantages of multipurpose river projects.",
+        "Question in Hindi": "बहुउद्देशीय नदी परियोजनाओं के लाभ और हानियाँ लिखिए।",
+        "Answer in English": "Advantages: Irrigation, Electricity generation, Flood control, Water supply for domestic and industrial use, Inland navigation, Fish breeding. Disadvantages: Displacement of local communities, Submergence of land and forests, Sedimentation at reservoir bed, Triggering earthquakes.",
+        "Answer in Hindi": "लाभ: सिंचाई, विद्युत उत्पादन, बाढ़ नियंत्रण, घरेलू और औद्योगिक उपयोग के लिए जलापूर्ति, आंतरिक नौवहन, मछली पालन। हानियाँ: स्थानीय समुदायों का विस्थापन, भूमि और वनों का जलमग्न होना, जलाशय की तली में तलछट जमाव, भूकंप का खतरा।",
+        "Marks": "3"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Long",
+        "Question in English": "Describe various methods of rainwater harvesting in India.",
+        "Question in Hindi": "भारत में वर्षा जल संग्रहण की विभिन्न विधियों का वर्णन करें।",
+        "Answer in English": "1. Guls or Kuls: In hill and mountainous regions, people built diversion channels for agriculture. 2. Rooftop Rainwater Harvesting: Commonly practiced to store drinking water, especially in Rajasthan. 3. Inundation Channels: In flood plains of Bengal, for irrigating fields. 4. Khadins and Johads: In arid and semi-arid regions, agricultural fields were converted into rain fed storage structures.",
+        "Answer in Hindi": "1. गुल या कुल: पहाड़ी और पर्वतीय क्षेत्रों में, लोगों ने कृषि के लिए वाहिकाएं बनाईं। 2. छत वर्षा जल संग्रहण: पीने के पानी को जमा करने के लिए, विशेष रूप से राजस्थान में। 3. बाढ़ जल वाहिकाएं: बंगाल के बाढ़ के मैदानों में, खेतों की सिंचाई के लिए। 4. खादीन और जोहड़: शुष्क और अर्ध-शुष्क क्षेत्रों में, कृषि क्षेत्रों को वर्षा सिंचित भंडारण संरचनाओं में परिवर्तित किया गया।",
+        "Marks": "3"
+    },
+    {
+        "Chapter": 8,
+        "Questions type": "Long",
+        "Question in English": "\"Industrialisation and Urbanisation are responsible for water scarcity.\" Explain.",
+        "Question in Hindi": "\"औद्योगीकरण और शहरीकरण जल दुर्लभता के लिए उत्तरदायी हैं।\" स्पष्ट करें।",
+        "Answer in English": "Post-independence India witnessed intensive industrialisation and urbanisation. Industries constitute heavy pressure on fresh water resources. They also require power to run them. Multiplying urban centres with large and dense populations and urban lifestyles have not only added to water and energy requirements but have further aggravated the problem.",
+        "Answer in Hindi": "स्वतंत्रता के बाद भारत में गहन औद्योगीकरण और शहरीकरण हुआ। उद्योग मीठे पानी के संसाधनों पर भारी दबाव डालते हैं। उन्हें चलाने के लिए बिजली की भी आवश्यकता होती है। बड़ी और घनी आबादी वाले शहरी केंद्रों और शहरी जीवन शैली ने न केवल पानी और ऊर्जा की आवश्यकताओं को बढ़ाया है, बल्कि समस्या को और बढ़ा दिया है।",
+        "Marks": "3"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "Which of the following is a Kharif crop?",
+        "Question in Hindi": "निम्न में से कौनसी खरीफ की फसल है?",
+        "Answer in English": "(c) Bajra",
+        "Answer in Hindi": "(स) बाजरा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "Which of the following is a Rabi crop?",
+        "Question in Hindi": "निम्न में से कौनसी रबी की फसल है?",
+        "Answer in English": "(d) Gram",
+        "Answer in Hindi": "(द) चना",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "Which of the following is a leguminous crop?",
+        "Question in Hindi": "निम्न में से फलीदार फसल कौनसी है?",
+        "Answer in English": "(a) Pulses",
+        "Answer in Hindi": "(अ) दालें",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "Which state is the largest producer of groundnut in India?",
+        "Question in Hindi": "भारत का सबसे बड़ा मूंगफली उत्पादक राज्य कौन सा है?",
+        "Answer in English": "(b) Gujarat",
+        "Answer in Hindi": "(ब) गुजरात",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "Which farming is done without the use of chemical fertilizers and pesticides?",
+        "Question in Hindi": "निम्न में से कौनसी कृषि रासायनिक उर्वरकों और कीटनाशकों के बिना की जाती है?",
+        "Answer in English": "(d) Organic farming",
+        "Answer in Hindi": "(द) जैविक कृषि",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "Which of the following is a plantation crop?",
+        "Question in Hindi": "निम्न में से कौनसी रोपण फसल है?",
+        "Answer in English": "(c) Tea",
+        "Answer in Hindi": "(स) चाय",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "Which movement was started by Vinoba Bhave?",
+        "Question in Hindi": "विनोबा भावे द्वारा कौनसा आन्दोलन चलाया गया?",
+        "Answer in English": "(a) Bhoodan Gramdan",
+        "Answer in Hindi": "(अ) भूदान-ग्रामदान",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "Which crop is known as 'Golden Fibre'?",
+        "Question in Hindi": "किसे 'सुनहरा रेशा' कहा जाता है?",
+        "Answer in English": "(a) Jute",
+        "Answer in Hindi": "(अ) जूट",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "What is the main characteristic of commercial farming?",
+        "Question in Hindi": "वाणिज्यिक कृषि की मुख्य विशेषता क्या है?",
+        "Answer in English": "(a) Use of high doses of modern inputs",
+        "Answer in Hindi": "(अ) आधुनिक निवेशों का अधिक प्रयोग",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "In which state is primitive subsistence farming known as 'Jhumming'?",
+        "Question in Hindi": "किस राज्य में प्रारंभिक जीविका निर्वाह कृषि को 'झूम' कहा जाता है?",
+        "Answer in English": "(c) Assam",
+        "Answer in Hindi": "(स) असम",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "What is India's rank in rice production in the world?",
+        "Question in Hindi": "चावल उत्पादन में भारत का विश्व में कौनसा स्थान है?",
+        "Answer in English": "(b) Second",
+        "Answer in Hindi": "(ब) दूसरा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "Which crop is used both as food and fodder?",
+        "Question in Hindi": "कौनसी फसल खाद्य और चारा दोनों रूपों में प्रयोग होती है?",
+        "Answer in English": "(c) Maize",
+        "Answer in Hindi": "(स) मक्का",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "MCQ",
+        "Question in English": "Aus, Aman and Boro are types of which crop?",
+        "Question in Hindi": "ओस, अमन और बोरो किस फसल की किस्में हैं?",
+        "Answer in English": "(b) Paddy",
+        "Answer in Hindi": "(ब) धान",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Slash and burn agriculture is known as ......... in North-Eastern states.",
+        "Question in Hindi": "कर्तन दहन प्रणाली को भारत के उत्तर पूर्वी प्रदेशों में .......... कहा जाता है।",
+        "Answer in English": "Jhumming",
+        "Answer in Hindi": "झूम",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Arabica variety of ......... is produced in our country.",
+        "Question in Hindi": "हमारे देश में अरेबिका किस्म की ........... पैदा की जाती है।",
+        "Answer in English": "Coffee",
+        "Answer in Hindi": "कॉफी",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Fill in the blank",
+        "Question in English": "India is believed to be the original home of ......... plant.",
+        "Question in Hindi": "भारत को ........... के पौधे का मूल स्थान माना जाता है।",
+        "Answer in English": "Cotton",
+        "Answer in Hindi": "कपास",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Fill in the blank",
+        "Question in English": "......... is called Golden Fibre.",
+        "Question in Hindi": "........... को सुनहरा रेशा कहा जाता है।",
+        "Answer in English": "Jute",
+        "Answer in Hindi": "जूट",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Fill in the blank",
+        "Question in English": "'Slash and burn' agriculture is called ......... in Manipur.",
+        "Question in Hindi": "'कर्तन दहन' कृषि को मणिपुर में ........... कहते है।",
+        "Answer in English": "Pamlou",
+        "Answer in Hindi": "पामलू",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Fill in the blank",
+        "Question in English": "......... of India's population is engaged in agricultural activities.",
+        "Question in Hindi": "भारत की ........... जनसंख्या कृषि कार्यों में संलग्न है।",
+        "Answer in English": "Two-thirds",
+        "Answer in Hindi": "दो-तिहाई",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Fill in the blank",
+        "Question in English": "......... and ...... are bio-diesel crops.",
+        "Question in Hindi": ".......... और ...... बायो-डीजल फसलें है।",
+        "Answer in English": "Jatropha, Jojoba",
+        "Answer in Hindi": "जेट्रोपा, जोजोबा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Tea, Coffee, Rubber, Sugarcane, Banana etc are significant ......... crops in India.",
+        "Question in Hindi": "भारत में चाय, कॉफी, रबड़, गन्ना, केला इत्यादि महत्वपूर्ण...... फसलें है।",
+        "Answer in English": "Plantation",
+        "Answer in Hindi": "रोपण",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Fill in the blank",
+        "Question in English": "......... is the main food crop of India.",
+        "Question in Hindi": "......... भारत की मुख्य खाद्यान्न फसल है।",
+        "Answer in English": "Rice",
+        "Answer in Hindi": "चावल",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Fill in the blank",
+        "Question in English": "....... is the largest producer and consumer of pulses in the world.",
+        "Question in Hindi": "....... विश्व में दालों का सबसे बड़ा उत्पादक एवं उपभोक्ता देश है।",
+        "Answer in English": "India",
+        "Answer in Hindi": "भारत",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Fill in the blank",
+        "Question in English": "Agriculture is a ....... activity.",
+        "Question in Hindi": "कृषि एक ....... क्रिया है-",
+        "Answer in English": "Primary",
+        "Answer in Hindi": "प्राथमिक",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Fill in the blank",
+        "Question in English": "....... is the largest rice producing country in the world.",
+        "Question in Hindi": "....... विश्व का सबसे बड़ा चावल उत्पादक देश है।",
+        "Answer in English": "China",
+        "Answer in Hindi": "चीन",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Short",
+        "Question in English": "Name a beverage/plantation crop and describe favorable geographical conditions for its growth.",
+        "Question in Hindi": "एक पेय/रोपण फसल का नाम बताएँ तथा उसको उगाने के लिए अनुकूल भौगोलिक परिस्थितियों का विवरण दें।",
+        "Answer in English": "Tea. Tropical/Subtropical climate, deep fertile soil, warm/moist frost-free climate, distributed rainfall.",
+        "Answer in Hindi": "चाय। उष्ण और उपोष्ण कटिबंधीय जलवायु, ह्यूमस युक्त गहरी मिट्टी, सुगम जल निकास, वर्षभर कोष्ण, नम और पालारहित जलवायु।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Short",
+        "Question in English": "Make a list of institutional reform programmes introduced by the government in the interest of farmers.",
+        "Question in Hindi": "सरकार द्वारा किसानों के हित में किए गए संस्थागत सुधार कार्यक्रमों की सूची बनाएँ।",
+        "Answer in English": "Consolidation of holdings, Abolition of Zamindari, Crop Insurance, Grameen Banks, KCC, PAIS.",
+        "Answer in Hindi": "जोतों की चकबंदी, जमींदारी प्रथा की समाप्ति, फसल बीमा, ग्रामीण बैंक, किसान क्रेडिट कार्ड।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Short",
+        "Question in English": "Mention the necessary conditions for Cotton production.",
+        "Question in Hindi": "कपास उत्पादन के लिए आवश्यक परिस्थितियाँ बताइए।",
+        "Answer in English": "High temperature, light rainfall/irrigation, 210 frost-free days, bright sunshine.",
+        "Answer in Hindi": "उच्च तापमान, हल्की वर्षा या सिंचाई, 210 पाला रहित दिन, खिली धूप।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Short",
+        "Question in English": "State the major difference between Rabi and Kharif crops.",
+        "Question in Hindi": "रबी एवं खरीफ फसलों में प्रमुख अन्तर बताइए।",
+        "Answer in English": "Rabi: Sown in winter (Oct-Dec), harvested in summer. E.g., Wheat. Kharif: Sown with onset of monsoon, harvested in Sep-Oct. E.g., Paddy.",
+        "Answer in Hindi": "रबी: शीत ऋतु में बोई जाती है (अक्टूबर-दिसंबर), ग्रीष्म में काटी जाती है। खरीफ: मानसून के आगमन पर बोई जाती है, सितंबर-अक्टूबर में काटी जाती है।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Short",
+        "Question in English": "Write the difference between Primitive Subsistence Farming and Commercial Farming.",
+        "Question in Hindi": "प्रारंभिक/आदिम निर्वाह कृषि और व्यावसायिक/वाणिज्य कृषि के बीच अंतर लिखो।",
+        "Answer in English": "Primitive: Small land patches, old tools, depends on monsoon. Commercial: Large scale, modern inputs (HYV seeds, chemical fertilizers), for market.",
+        "Answer in Hindi": "प्रारंभिक: भूमि के छोटे टुकड़ों पर, पुराने औजार, मानसून पर निर्भर। वाणिज्यिक: बड़े पैमाने पर, आधुनिक निवेश (HYV बीज, उर्वरक), बाजार के लिए।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Short",
+        "Question in English": "What is Intensive Subsistence Farming? Write three features.",
+        "Question in Hindi": "गहन जीविका कृषि क्या है? इस कृषि की तीन विशेषताएँ लिखिए।",
+        "Answer in English": "Farming in areas with high population pressure. Features: 1. High doses of biochemical inputs 2. Irrigation 3. Small landholdings due to inheritance.",
+        "Answer in Hindi": "जहाँ भूमि पर जनसंख्या दबाव अधिक होता है। विशेषताएँ: 1. अधिक जैव-रासायनिक निवेश 2. सिंचाई 3. भूमि का छोटा आकार।",
+        "Marks": "2"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Long",
+        "Question in English": "Classify rice cultivation on the basis of the following points: 1. Climate 2. Producing areas.",
+        "Question in Hindi": "चावल की कृषि का वर्णन निम्न बिन्दुओं के आधार पर कीजिए। 1. जलवायु 2. उत्पादक क्षेत्र",
+        "Answer in English": "1. Climate: Rice is a Kharif crop which requires high temperature (above 25°C) and high humidity with annual rainfall above 100 cm. In areas of less rainfall, it grows with the help of irrigation. 2. Producing Areas: Rice is grown in the plains of north and north-eastern India, coastal areas and the deltaic regions.",
+        "Answer in Hindi": "1. जलवायु: चावल एक खरीफ फसल है जिसे उच्च तापमान (25°C से ऊपर) और 100 सेमी से अधिक वार्षिक वर्षा के साथ उच्च आर्द्रता की आवश्यकता होती है। कम वर्षा वाले क्षेत्रों में इसे सिंचाई की सहायता से उगाया जाता है। 2. उत्पादक क्षेत्र: चावल उत्तर और उत्तर-पूर्वी भारत के मैदानों, तटीय क्षेत्रों और डेल्टाई क्षेत्रों में उगाया जाता है।",
+        "Marks": "3"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Long",
+        "Question in English": "What do you know about 'Slash and Burn' farming?",
+        "Question in Hindi": "कर्तन दहन प्रणाली कृषि के बारे में आप क्या जानते है?",
+        "Answer in English": "It is a primitive subsistence farming. Farmers clear a patch of land and produce cereals and other food crops to sustain their family. When the soil fertility decreases, the farmers shift and clear a fresh patch of land for cultivation. This type of shifting allows nature to replenish the fertility of the soil.",
+        "Answer in Hindi": "यह एक प्रारंभिक जीविका निर्वाह कृषि है। किसान जमीन का एक टुकड़ा साफ करते हैं और अपने परिवार के भरण-पोषण के लिए अनाज और अन्य खाद्य फसलें उगाते हैं। जब मिट्टी की उर्वरता कम हो जाती है, तो किसान खेती के लिए जमीन का एक नया टुकड़ा साफ करते हैं। इस प्रकार का स्थानांतरण प्रकृति को मिट्टी की उर्वरता को फिर से भरने की अनुमति देता है।",
+        "Marks": "3"
+    },
+    {
+        "Chapter": 9,
+        "Questions type": "Long",
+        "Question in English": "Describe the necessary geographical conditions for wheat cultivation.",
+        "Question in Hindi": "गेहूं की खेती के लिए आवश्यक भौगोलिक परिस्थितियों का वर्णन कीजिए।",
+        "Answer in English": "Wheat is the main food crop in north and north-western part of the country. This rabi crop requires a cool growing season and a bright sunshine at the time of ripening. It requires 50 to 75 cm of annual rainfall evenly distributed over the growing season. There are two important wheat-growing zones in the country – the Ganga-Satluj plains in the north-west and black soil region of the Deccan.",
+        "Answer in Hindi": "गेहूँ देश के उत्तर और उत्तर-पश्चिमी भाग में मुख्य खाद्यान्न फसल है। इस रबी फसल को उगाने के लिए शीत ऋतु और पकने के समय खिली धूप की आवश्यकता होती है। इसे 50 से 75 सेमी वार्षिक वर्षा की आवश्यकता होती है जो समान रूप से वितरित हो। देश में दो महत्वपूर्ण गेहूँ उत्पादक क्षेत्र हैं - उत्तर-पश्चिम में गंगा-सतलुज का मैदान और दक्कन का काली मिट्टी वाला क्षेत्र।",
+        "Marks": "3"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which mineral is mined at Balaghat mines?",
+        "Question in Hindi": "बालाघाट खानों में कौनसे खनिज का खनन किया जाता है?",
+        "Answer in English": "Copper",
+        "Answer in Hindi": "तांबा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which mineral is contained in Monazite sand?",
+        "Question in Hindi": "मोनाजाइट रेत में कौन सा खनिज पाया जाता है?",
+        "Answer in English": "Thorium",
+        "Answer in Hindi": "थोरियम",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Where are the largest solar power plants located?",
+        "Question in Hindi": "भारत में सबसे बड़ा सौर ऊर्जा संयंत्र कहाँ स्थित है?",
+        "Answer in English": "Madhapur (Bhuj)",
+        "Answer in Hindi": "माधापुर (भुज)",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is the hardest mineral?",
+        "Question in Hindi": "सबसे कठोर खनिज कौन सा है?",
+        "Answer in English": "Diamond",
+        "Answer in Hindi": "हीरा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is the finest iron ore?",
+        "Question in Hindi": "सर्वोत्तम प्रकार का लौह अयस्क है?",
+        "Answer in English": "Magnetite",
+        "Answer in Hindi": "मैग्नेटाइट",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which minerals are formed by decomposition of rocks?",
+        "Question in Hindi": "चट्टानों के अपघटन से कौन सा खनिज बनता है?",
+        "Answer in English": "Bauxite",
+        "Answer in Hindi": "बॉक्साइट",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Where are the Khetri mines located?",
+        "Question in Hindi": "खेतड़ी की खदानें कहाँ स्थित हैं?",
+        "Answer in English": "Rajasthan",
+        "Answer in Hindi": "राजस्थान",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "In which rock are minerals found in layers?",
+        "Question in Hindi": "परतदार चट्टानों में खनिज किस रूप में मिलते हैं?",
+        "Answer in English": "Sedimentary rocks (In layers/strata)",
+        "Answer in Hindi": "अवसादी चट्टानें (परतों में)",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is the best quality coal?",
+        "Question in Hindi": "सर्वोत्तम गुण वाला कोयला है?",
+        "Answer in English": "Anthracite",
+        "Answer in Hindi": "एन्थ्रेसाइट",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which mineral is used in cement industry?",
+        "Question in Hindi": "सीमेंट उद्योग में किस खनिज का उपयोग होता है?",
+        "Answer in English": "Limestone",
+        "Answer in Hindi": "चूना पत्थर",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is a ferrous mineral?",
+        "Question in Hindi": "लौह खनिज का उदाहरण है?",
+        "Answer in English": "Manganese",
+        "Answer in Hindi": "मैंगनीज",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Where is the Kudremukh mine located?",
+        "Question in Hindi": "कुद्रेमुख की खान कहाँ स्थित है?",
+        "Answer in English": "Karnataka",
+        "Answer in Hindi": "कर्नाटक",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is a non-ferrous mineral?",
+        "Question in Hindi": "अलौह खनिज का उदाहरण है?",
+        "Answer in English": "Lead",
+        "Answer in Hindi": "सीसा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is a conventional source of energy?",
+        "Question in Hindi": "ऊर्जा का परम्परागत स्रोत है?",
+        "Answer in English": "Coal",
+        "Answer in Hindi": "कोयला",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is a non-conventional source of energy?",
+        "Question in Hindi": "ऊर्जा का गैर-परम्परागत स्रोत है?",
+        "Answer in English": "Solar energy",
+        "Answer in Hindi": "सौर ऊर्जा",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is a mica producing area?",
+        "Question in Hindi": "अभ्रक उत्पादक क्षेत्र है?",
+        "Answer in English": "Ajmer",
+        "Answer in Hindi": "अजमेर",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is Rat-Hole mining?",
+        "Question in Hindi": "रैट होल खनन क्या है?",
+        "Answer in English": "Coal mining in Jowai and Cherrapunji by digging a long narrow tunnel.",
+        "Answer in Hindi": "जोवाई व चेरापूंजी में कोयले का खनन परिवार के सदस्यों द्वारा एक लम्बी संकीर्ण सुरंग के रूप में किया जाता है जिसे रैट होल खनन कहते है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is a mineral?",
+        "Question in Hindi": "खनिज क्या है?",
+        "Answer in English": "A homogeneous, naturally occurring substance with a definable internal structure.",
+        "Answer in Hindi": "भू-वैज्ञानिकों के अनुसार खनिज एक प्राकृतिक रूप से विद्यमान समरूप तत्त्व है जिसकी एक निश्चित आंतरिक संरचना है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is an ore?",
+        "Question in Hindi": "अयस्क क्या है?",
+        "Answer in English": "Accumulation of any mineral mixed with other elements.",
+        "Answer in Hindi": "लौह अयस्क, मैंगनीज, अभ्रक जैसे खनिजों के अंशों का मिश्रित रूप अयस्क कहलाता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What are placer deposits?",
+        "Question in Hindi": "प्लेसर निक्षेप क्या है?",
+        "Answer in English": "Minerals found in sands of valley floors and base of hills (e.g., Gold, Silver).",
+        "Answer in Hindi": "पहाड़ियों के आधार तथा घाटी तल की रेत में जलोढ़ जमाव के रूप में कुछ खनिज पाए जाते हैं। इन्हें प्लेसर निक्षेप कहते हैं। (जैसे-सोना, चाँदी)",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Uses of Copper?",
+        "Question in Hindi": "ताँबे के उपयोग बताइए।",
+        "Answer in English": "Electrical cables, electronics, chemical industries.",
+        "Answer in Hindi": "ताँबे का उपयोग बिजली के तार बनाने, इलेक्ट्रॉनिक्स और रसायन उद्योगों में किया जाता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Uses of Limestone?",
+        "Question in Hindi": "चूना पत्थर के उपयोग बताइए।",
+        "Answer in English": "Cement industry, smelting iron ore.",
+        "Answer in Hindi": "चूना पत्थर का उपयोग सीमेंट उद्योग में तथा लौह अयस्क के प्रगलन में किया जाता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 10,
+        "Questions type": "Very Short Answer",
+        "Question in English": "How can we conserve energy?",
+        "Question in Hindi": "ऊर्जा संरक्षण के उपाय बताइए।",
+        "Answer in English": "Using public transport, switching off electricity when not in use, using power-saving devices, using non-conventional sources.",
+        "Answer in Hindi": "1. सार्वजनिक परिवहन का उपयोग करना। 2. जब प्रयोग में न हो तो बिजली बंद करना। 3. ऊर्जा बचत करने वाले उपकरणों का प्रयोग। 4. गैर-परम्परागत ऊर्जा स्रोतों का प्रयोग।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Where was the first jute mill set up?",
+        "Question in Hindi": "भारत में पहली जूट मिल कहाँ स्थापित की गई?",
+        "Answer in English": "Kolkata (Rishra) in 1855",
+        "Answer in Hindi": "कोलकाता (रिशरा) 1855 में",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "First successful textile mill?",
+        "Question in Hindi": "पहली सफल कपड़ा मिल कब व कहाँ स्थापित की गई?",
+        "Answer in English": "Mumbai 1854",
+        "Answer in Hindi": "मुम्बई 1854 में",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which agency markets steel for public sector plants?",
+        "Question in Hindi": "सार्वजनिक क्षेत्र के उपक्रमों का इस्पात कौन सी एजेंसी बेचती है?",
+        "Answer in English": "SAIL",
+        "Answer in Hindi": "SAIL (सेल)",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which industry uses bauxite as raw material?",
+        "Question in Hindi": "बॉक्साइट का कच्चे माल के रूप में प्रयोग कौन सा उद्योग करता है?",
+        "Answer in English": "Aluminum Smelting",
+        "Answer in Hindi": "एल्युमिनियम प्रगलन",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which industry manufactures telephones, computers, etc.?",
+        "Question in Hindi": "टेलीफोन, कम्प्यूटर आदि संयंत्र निर्मित करने वाला उद्योग है?",
+        "Answer in English": "Electronic",
+        "Answer in Hindi": "इलेक्ट्रॉनिक",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which sector converts raw material into valuable products?",
+        "Question in Hindi": "कच्चे माल को मूल्यवान उत्पाद में परिवर्तित करने वाला क्षेत्र है?",
+        "Answer in English": "Secondary Sector",
+        "Answer in Hindi": "द्वितीयक क्षेत्र",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is agglomeration economy?",
+        "Question in Hindi": "सम्मूहन बचत (Agglomeration economy) क्या है?",
+        "Answer in English": "Industries coming together to use advantages offered by urban centers.",
+        "Answer in Hindi": "कई बार बहुत से उद्योग शहरों द्वारा उपलब्ध करायी गयी सुविधाओं का लाभ उठाने के लिए आसपास केन्द्रित हो जाते है, जिसे सम्मूहन बचत कहा जाता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is basic industry?",
+        "Question in Hindi": "आधारभूत उद्योग क्या है?",
+        "Answer in English": "Industry which supplies raw materials to other industries.",
+        "Answer in Hindi": "जिनके उत्पादन या कच्चे माल पर दूसरे उद्योग निर्भर हैं। जैसे-लोहा-इस्पात उद्योग, तांबा प्रगलन।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is a consumer industry?",
+        "Question in Hindi": "उपभोक्ता उद्योग क्या है?",
+        "Answer in English": "Produces goods for direct use by consumers.",
+        "Answer in Hindi": "जो उत्पादन उपभोक्ताओं के सीधे उपयोग हेतु करते हैं। जैसे-चीनी, कागज, टूथपेस्ट आदि।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is a cooperative sector industry?",
+        "Question in Hindi": "सहकारी क्षेत्र के उद्योग क्या है?",
+        "Answer in English": "Owned and operated by producers/suppliers of raw materials or workers or both.",
+        "Answer in Hindi": "जिनका स्वामित्व कच्चे माल की आपूर्ति करने वाले उत्पादकों, श्रमिकों या दोनों के हाथों में होता है। जैसे-महाराष्ट्र का चीनी उद्योग।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Why is the jute industry located in the Hugli basin?",
+        "Question in Hindi": "जूट उद्योग हुगली नदी तट पर स्थित होने के कारण बताइए।",
+        "Answer in English": "Proximity to jute producing areas, cheap water transport, cheap labor, Kolkata port facilities.",
+        "Answer in Hindi": "1. जूट उत्पादक क्षेत्रों की निकटता। 2. सस्ता जल परिवहन। 3. सस्ते श्रमिक। 4. कोलकाता पत्तन की सुविधा।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Challenges faced by jute industry?",
+        "Question in Hindi": "जूट उद्योग की चुनौतियाँ बताइए।",
+        "Answer in English": "Stiff competition from synthetic substitutes and other competitors like Bangladesh.",
+        "Answer in Hindi": "कृत्रिम रेशों से बनी चीजों से तथा बांग्लादेश, ब्राजील, फिलीपीन्स, मिस्र तथा थाईलैण्ड जैसे अन्य देशों से कड़ी प्रतिस्पर्धा शामिल है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Importance of manufacturing sector?",
+        "Question in Hindi": "विनिर्माण उद्योग का महत्त्व बताइए।",
+        "Answer in English": "Modernizing agriculture, reducing dependence on agriculture, eradicating unemployment/poverty, earning foreign exchange.",
+        "Answer in Hindi": "1. कृषि के आधुनिकीकरण में सहायक। 2. कृषि पर निर्भरता कम करना। 3. बेरोजगारी व गरीबी दूर करना। 4. विदेशी मुद्रा अर्जित करना।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Agriculture and industry go hand in hand?",
+        "Question in Hindi": "कृषि और उद्योग एक-दूसरे के पूरक हैं। कैसे?",
+        "Answer in English": "Agro-industries depend on agriculture for raw materials and sell products to farmers.",
+        "Answer in Hindi": "कृषि आधारित उद्योग कच्चे माल के लिए कृषि पर निर्भर है तथा इनके द्वारा निर्मित उत्पाद (जैसे-पंप, उर्वरक) किसान प्रयोग करते हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Factors affecting location of industry?",
+        "Question in Hindi": "उद्योगों की अवस्थिति को प्रभावित करने वाले कारक लिखिए।",
+        "Answer in English": "Availability of raw material, labor, capital, power, market.",
+        "Answer in Hindi": "कच्चे माल की उपलब्धता, श्रमिक, पूँजी, शक्ति के साधन, बाजार आदि।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Name the most important agro-based industry in India.",
+        "Question in Hindi": "भारत का सबसे महत्वपूर्ण कृषि आधारित उद्योग कौन सा है?",
+        "Answer in English": "Cotton textile industry",
+        "Answer in Hindi": "सूती वस्त्र उद्योग",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which city is known as the electronics capital of India?",
+        "Question in Hindi": "भारत की इलेक्ट्रॉनिक राजधानी किस शहर को कहा जाता है?",
+        "Answer in English": "Bengaluru",
+        "Answer in Hindi": "बैंगलुरू",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Give examples of two agro-based industries.",
+        "Question in Hindi": "दो कृषि आधारित उद्योगों के उदाहरण दीजिए।",
+        "Answer in English": "Cotton textile industry and Jute industry",
+        "Answer in Hindi": "सूती वस्त्र उद्योग व पटसन उद्योग",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "When was the National Jute Policy adopted?",
+        "Question in Hindi": "राष्ट्रीय जूट नीति कब अपनाई गई?",
+        "Answer in English": "In 2005",
+        "Answer in Hindi": "2005 में",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which sector converts raw materials into finished goods?",
+        "Question in Hindi": "कच्चे माल को मूल्यवान उत्पाद में परिवर्तित कर अधिक मात्रा में वस्तुओं के उत्पादन को क्या कहते हैं?",
+        "Answer in English": "Manufacturing (Secondary sector)",
+        "Answer in Hindi": "विनिर्माण",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Expand SAIL.",
+        "Question in Hindi": "SAIL (सेल) का पूरा नाम लिखिए।",
+        "Answer in English": "Steel Authority of India Limited",
+        "Answer in Hindi": "स्टील अथॉरिटी ऑफ इण्डिया लिमिटेड",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Example of basic industry.",
+        "Question in Hindi": "आधारभूत उद्योग का उदाहरण है?",
+        "Answer in English": "Iron and steel industry",
+        "Answer in Hindi": "लोहा-इस्पात उद्योग",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which fiber is called Golden Fiber?",
+        "Question in Hindi": "किस रेशे को 'सुनहरा रेशा' (Golden Fiber) कहा जाता है?",
+        "Answer in English": "Jute fiber",
+        "Answer in Hindi": "जूट को",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "On what basis can the development of a country be determined?",
+        "Question in Hindi": "किसी देश का विकास किस आधार पर निर्धारित किया जा सकता है?",
+        "Answer in English": "By the production and consumption of steel.",
+        "Answer in Hindi": "इस्पात के उत्पादन और खपत को।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Two important factors for location of aluminum industry?",
+        "Question in Hindi": "एल्युमिनियम उद्योग की स्थापना के दो कारक बताइए।",
+        "Answer in English": "Regular supply of energy and availability of raw material at low cost.",
+        "Answer in Hindi": "(i) नियमित ऊर्जा की पूर्ति (ii) कम कीमत पर कच्चे माल की उपलब्धता।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which are the main gases responsible for air pollution?",
+        "Question in Hindi": "वायु प्रदूषण के लिए उत्तरदायी मुख्य गैसें कौनसी है?",
+        "Answer in English": "Sulfur dioxide and Carbon monoxide",
+        "Answer in Hindi": "सल्फर डाईऑक्साइड तथा कार्बन मोनोऑक्साइड",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is the main waste material in India?",
+        "Question in Hindi": "भारत में मुख्य अपशिष्ट पदार्थ क्या है?",
+        "Answer in English": "Fly ash, phospo-gypsum and iron-steel slag",
+        "Answer in Hindi": "फ्लाई ऐश, फोस्फो-जिप्सम तथा लोहा-इस्पात की अशुद्धियाँ।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What diseases are mainly caused by nuclear power plant waste?",
+        "Question in Hindi": "परमाणु ऊर्जा संयंत्रों के अपशिष्ट से कौन से रोग होते हैं?",
+        "Answer in English": "Cancer, birth defects and miscarriage",
+        "Answer in Hindi": "कैंसर, जन्मजात विकार तथा गर्भपात।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which metal is obtained from Bauxite ore?",
+        "Question in Hindi": "बॉक्साइट अयस्क से कौन सी धातु प्राप्त होती है?",
+        "Answer in English": "Aluminum",
+        "Answer in Hindi": "एल्युमिनियम",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is the concentration of industries near cities called?",
+        "Question in Hindi": "उद्योगों का शहरों के निकट केन्द्रित होना क्या कहलाता है?",
+        "Answer in English": "Agglomeration economies",
+        "Answer in Hindi": "सम्मूहन बचत",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What are mineral based industries?",
+        "Question in Hindi": "खनिज आधारित उद्योग क्या हैं?",
+        "Answer in English": "Iron steel, cement, machine, tools, petrochemical industry.",
+        "Answer in Hindi": "लोहा इस्पात, सीमेंट, मशीन, औजार, पेट्रो रसायन उद्योग।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Example of seasonal industry?",
+        "Question in Hindi": "मौसमी उद्योग का उदाहरण है?",
+        "Answer in English": "Sugar industry",
+        "Answer in Hindi": "चीनी उद्योग",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is mixed with pig/sponge iron to make steel?",
+        "Question in Hindi": "इस्पात बनाने के लिए लोहे के साथ क्या मिलाया जाता है?",
+        "Answer in English": "Manganese, Nickel, Chromium",
+        "Answer in Hindi": "मैंगनीज, निकल, क्रोमियम",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Ratio of iron ore, coking coal and limestone in iron-steel?",
+        "Question in Hindi": "लोहा-इस्पात उद्योग में लौह अयस्क, कोकिंग कोल तथा चूना पत्थर का अनुपात क्या है?",
+        "Answer in English": "4:2:1",
+        "Answer in Hindi": "4:2:1",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which country is the largest producer of steel at present?",
+        "Question in Hindi": "वर्तमान में इस्पात का सबसे बड़ा उत्पादक देश कौन सा है?",
+        "Answer in English": "China",
+        "Answer in Hindi": "चीन",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Through whom is steel marketed in the public sector?",
+        "Question in Hindi": "सार्वजनिक क्षेत्र में लोहा इस्पात का विपणन किसके माध्यम से किया जाता है?",
+        "Answer in English": "SAIL",
+        "Answer in Hindi": "SAIL (सेल)",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Name any two major consumer industries.",
+        "Question in Hindi": "दो प्रमुख उपभोक्ता उद्योगों के नाम बताइए।",
+        "Answer in English": "1. Sugar industry 2. Paper industry",
+        "Answer in Hindi": "1. चीनी उद्योग 2. कागज उद्योग",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 11,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Where was India's first cotton textile industry set up?",
+        "Question in Hindi": "भारत का पहला सूती वस्त्र उद्योग कहाँ स्थापित किया गया?",
+        "Answer in English": "Mumbai (1854)",
+        "Answer in Hindi": "मुंबई (1854)",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which mode of transport reduces trans-shipment losses and delays?",
+        "Question in Hindi": "कौन सा परिवहन साधन ट्रांस-शिपमेंट हानि और देरी को कम करता है?",
+        "Answer in English": "Pipeline",
+        "Answer in Hindi": "पाइपलाइन",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which states does HVJ pipeline connect?",
+        "Question in Hindi": "HVJ पाइपलाइन किन राज्यों को जोड़ती है?",
+        "Answer in English": "Gujarat, Madhya Pradesh, Uttar Pradesh",
+        "Answer in Hindi": "गुजरात, मध्य प्रदेश, उत्तर प्रदेश",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is the cheapest mode of transport?",
+        "Question in Hindi": "परिवहन का सबसे सस्ता साधन कौन सा है?",
+        "Answer in English": "Waterways",
+        "Answer in Hindi": "जल परिवहन",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is the extreme south-western port?",
+        "Question in Hindi": "सुदूर दक्षिण-पश्चिम में स्थित पत्तन है?",
+        "Answer in English": "Kochi",
+        "Answer in Hindi": "कोच्चि",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which port was developed to relieve pressure on Kolkata port?",
+        "Question in Hindi": "कोलकाता पत्तन पर दबाव कम करने हेतु कौन सा पत्तन विकसित किया गया?",
+        "Answer in English": "Haldia",
+        "Answer in Hindi": "हल्दिया",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which organization constructs border roads?",
+        "Question in Hindi": "सीमावर्ती सड़कों का निर्माण कौन सा संगठन करता है?",
+        "Answer in English": "Border Roads Organization (BRO)",
+        "Answer in Hindi": "सीमा सड़क संगठन",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "When was BRO established?",
+        "Question in Hindi": "सीमा सड़क संगठन की स्थापना कब हुई?",
+        "Answer in English": "1960",
+        "Answer in Hindi": "1960 में",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is trade?",
+        "Question in Hindi": "व्यापार क्या है?",
+        "Answer in English": "Exchange of goods between people, states, and countries.",
+        "Answer in Hindi": "व्यक्तियों, राज्यों तथा देशों के मध्य वस्तुओं का आदान-प्रदान व्यापार कहलाता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is international trade?",
+        "Question in Hindi": "अंतर्राष्ट्रीय व्यापार क्या है?",
+        "Answer in English": "Trade between two countries.",
+        "Answer in Hindi": "दो देशों के मध्य यह व्यापार अंतर्राष्ट्रीय व्यापार कहलाता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is favorable balance of trade?",
+        "Question in Hindi": "अनुकूल व्यापार संतुलन क्या है?",
+        "Answer in English": "When value of exports exceeds value of imports.",
+        "Answer in Hindi": "जब निर्यात का मूल्य आयात के मूल्य से अधिक हो तो उसे अनुकूल व्यापार संतुलन कहते हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is tourism?",
+        "Question in Hindi": "पर्यटन क्या है?",
+        "Answer in English": "Visiting places for recreation, business, or other purposes.",
+        "Answer in Hindi": "हमारे देश में लगभग 150 लाख से अधिक व्यक्ति पर्यटन व्यवसाय में लगे हुए हैं।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is the tidal port?",
+        "Question in Hindi": "ज्वारीय पत्तन कौन सा है?",
+        "Answer in English": "Kandla (Deendayal Port)",
+        "Answer in Hindi": "कांडला",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is the deepest landlocked and well-protected port?",
+        "Question in Hindi": "सबसे गहरा स्थलरुद्ध और सुरक्षित पत्तन कौन सा है?",
+        "Answer in English": "Visakhapatnam",
+        "Answer in Hindi": "विशाखापट्टनम",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is the oldest artificial port?",
+        "Question in Hindi": "सबसे पुराना कृत्रिम पत्तन कौन सा है?",
+        "Answer in English": "Chennai",
+        "Answer in Hindi": "चेन्नई",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What are the means of mass communication?",
+        "Question in Hindi": "जनसंचार के साधन कौन से हैं?",
+        "Answer in English": "Radio, Television, Newspapers, Magazines, Books, Films.",
+        "Answer in Hindi": "रेडियो, टेलीविजन, समाचार पत्र, पत्रिकाएं, किताबें, फिल्में।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which authority certifies Indian and foreign films?",
+        "Question in Hindi": "भारतीय और विदेशी फिल्मों को प्रमाणित करने का अधिकार किसे है?",
+        "Answer in English": "Central Board of Film Certification (CBFC)",
+        "Answer in Hindi": "सेंट्रल बोर्ड ऑफ फिल्म सर्टिफिकेशन (CBFC)",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is the Golden Quadrilateral Super Highway?",
+        "Question in Hindi": "स्वर्णिम चतुर्भुज महाराजमार्ग क्या है?",
+        "Answer in English": "Linking Delhi-Kolkata-Chennai-Mumbai by six-lane super highways.",
+        "Answer in Hindi": "दिल्ली-कोलकाता-चेन्नई-मुम्बई व दिल्ली को जोड़ने वाला 6 लेन वाला महाराजमार्ग।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What are National Highways?",
+        "Question in Hindi": "राष्ट्रीय राजमार्ग क्या हैं?",
+        "Answer in English": "Primary road systems linking extreme parts of the country, maintained by CPWD.",
+        "Answer in Hindi": "राष्ट्रीय राजमार्ग देश के दूरस्थ भागों को जोड़ते हैं। ये प्राथमिक सड़क तंत्र है जिनका रखरखाव CPWD करता है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Longest highway tunnel in world?",
+        "Question in Hindi": "विश्व की सबसे लम्बी राजमार्ग सुरंग है?",
+        "Answer in English": "Atal Tunnel (9.02 km) in Pir Panjal range",
+        "Answer in Hindi": "अटल-टनल (9.02 किलोमीटर) जो हिमालय की पीरपंजाल पर्वत माला में है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What do you understand by Balance of Trade?",
+        "Question in Hindi": "व्यापार संतुलन से आप क्या समझते है?",
+        "Answer in English": "If import and export values are almost equal.",
+        "Answer in Hindi": "यदि आयात व निर्यात मूल्य लगभग समान हो तो उसे व्यापार सन्तुलन कहते है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What do you understand by East-West Corridor?",
+        "Question in Hindi": "पूर्व-पश्चिम गलियारा से आप क्या समझते है?",
+        "Answer in English": "Connecting Silchar (Assam) in East to Porbandar (Gujarat) in West.",
+        "Answer in Hindi": "भारत के पूर्व में स्थित सिलचर (असम) को पश्चिम में स्थित पोरबन्दर (गुजरात) को सड़क मार्ग से जोड़ना।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What do you understand by North-South Corridor?",
+        "Question in Hindi": "उत्तर-दक्षिण गलियारा से आप क्या समझते है?",
+        "Answer in English": "Connecting Srinagar (J&K) in North to Kanyakumari (TN) in South.",
+        "Answer in Hindi": "भारत के उत्तर में स्थित श्रीनगर (जम्मू-कश्मीर) को भारत के दक्षिण में स्थित कन्याकुमारी (तमिलनाडु) को सड़क मार्ग द्वारा जोड़ना।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Number of major and medium ports on Indian coastline?",
+        "Question in Hindi": "भारत की समुद्री तट रेखा पर प्रमुख व मध्यम पत्तनों की संख्या है?",
+        "Answer in English": "12 Major and 200 medium/minor ports",
+        "Answer in Hindi": "12 प्रमुख व 200 मध्यम व छोटे पत्तन है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which is India's longest National Highway and which places does it connect?",
+        "Question in Hindi": "भारत का सबसे बड़ा राष्ट्रीय राजमार्ग कौन सा व किन स्थानों को जोड़ता है?",
+        "Answer in English": "National Highway No. 07 (NH-44), Varanasi to Kanyakumari",
+        "Answer in Hindi": "राष्ट्रीय राजमार्ग संख्या 07, वाराणसी से कन्याकुमारी तक।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "When and where was India's first train run?",
+        "Question in Hindi": "देश की पहली रेलगाड़ी कब व कहाँ चलाई गई?",
+        "Answer in English": "1853, Mumbai to Thane",
+        "Answer in Hindi": "1853 में मुंबई से थाने के मध्य।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Which six mail channels have been introduced in big cities recently?",
+        "Question in Hindi": "हाल ही में बड़े शहरों व नगरों में छः कौनसे डाक मार्ग बनाये गये है?",
+        "Answer in English": "Rajdhani Channel, Metro Channel, Green Channel, Business Channel, Bulk Mail Channel, Periodical Channel",
+        "Answer in Hindi": "राजधानी मार्ग, मेट्रो चैनल, ग्रीन चैनल, व्यापार चैनल, भारी चैनल, दस्तावेज चैनल।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What do you understand by Golden Quadrilateral Super Highway Project?",
+        "Question in Hindi": "स्वर्णिम चतुर्भुज महामार्ग परियोजना से आप क्या समझते है?",
+        "Answer in English": "Project connecting mega cities of India (Delhi-Mumbai-Chennai-Kolkata) with 6 lane roads.",
+        "Answer in Hindi": "भारत के महानगरों (दिल्ली-मुंबई-चेन्नई-कोलकाता-दिल्ली) को 6 लेन के सड़क मार्ग से जोड़ना।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Major Waterways of India?",
+        "Question in Hindi": "भारत के प्रमुख जल मार्ग-",
+        "Answer in English": "NW-1 (Ganga: Haldia-Allahabad), NW-2 (Brahmaputra: Sadiya-Dhubri)",
+        "Answer in Hindi": "जल मार्ग न. 01 – हल्दिया तथा इलाहाबाद के मध्य, गंगा जलमार्ग – 1620 किमी लम्बा। जल मार्ग न. 02 – सदिया व धुबरी के मध्य, ब्रह्मपुत्र नदी पर- 891 किमी लम्बा।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Major ports on West Coast of India?",
+        "Question in Hindi": "भारत के पश्चिम तट पर स्थित बन्दरगाह-",
+        "Answer in English": "1. Kandla (Deendayal Port) 2. Mumbai (Largest natural port) 3. Marmagao (Goa) 4. New Mangalore (Karnataka) 5. Kochi (Lagoon)",
+        "Answer in Hindi": "1. कांडला- इसे दीनदयाल पतन के नाम से भी जाना जाता है। 2. मुंबई बृहत्तम- यह प्राकृतिक खुला पत्तन है। 3. मारमागाओं- गोवा में स्थित। 4. न्यू मैगलोर- कर्नाटक में। 5. कोच्ची- लेगून झील के मुहाने पर स्थित प्राकृतिक पत्तन।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Major ports on East Coast of India?",
+        "Question in Hindi": "भारत के पूर्वी तट पर स्थित बन्दरगाह-",
+        "Answer in English": "1. Chennai (Oldest artificial) 2. Visakhapatnam (Deepest, landlocked) 3. Tuticorin (TN) 4. Paradip (Odisha) 5. Kolkata (Riverine) 6. Haldia",
+        "Answer in Hindi": "1. चेन्नई- देश का प्राचीनतम पत्तन। 2. विशाखापट्टनम- स्थल से घिरा, गहरा व सुरक्षित पत्तन 3. तूती कोरन- तमिलनाडु में स्थित 4. पारादीप- ओडिशा में स्थित 5. कोलकाता- अंतः स्थलीय नदीय पत्तन है। 6. हल्दिया- कोलकाता पत्तन का दबाव कम करने के लिए निर्मित।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Write two major importance of Road Transport.",
+        "Question in Hindi": "सड़क परिवहन के दो प्रमुख महत्त्व लिखिए।",
+        "Answer in English": "1. Door-to-door service 2. Economical for short distance and less goods.",
+        "Answer in Hindi": "1. घर-घर सेवाएं उपलब्ध करवाता है। 2. कम व्यक्तियों, कम दूरी व कम वस्तुओं के परिवहन में उपयोगी।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "What is Pipeline transport?",
+        "Question in Hindi": "पाइप लाइन परिवहन क्या है?",
+        "Answer in English": "Transporting crude oil, petroleum products, natural gas from production to refineries/factories.",
+        "Answer in Hindi": "कच्चा तेल, पेट्रोलिय उत्पाद, प्राकृतिक गैस, दुध को उत्पादन स्थान से औद्योगिक क्षेत्रों तक पाईप लाइन द्वारा पहुँचाना।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Explain importance of Border Roads.",
+        "Question in Hindi": "सीमांत सड़कों का महत्त्व बताइए-",
+        "Answer in English": "Improves accessibility to difficult areas and helps in economic development.",
+        "Answer in Hindi": "दुर्गम क्षेत्रों तक अभिगम्यता बढ़ाकर इनके आर्थिक विकास में सहायक है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Name major imported items of India.",
+        "Question in Hindi": "भारत की प्रमुख आयातित वस्तुओं के नाम बताइए-",
+        "Answer in English": "Crude petroleum, products, gems and jewellery, chemicals, machinery.",
+        "Answer in Hindi": "कच्चा पेट्रोलियम तथा उत्पाद, रत्न व जवाहरात आधारित, धातुएँ, मशीनें, कृषि व अन्य उत्पाद शामिल है।",
+        "Marks": "1"
+    },
+    {
+        "Chapter": 12,
+        "Questions type": "Very Short Answer",
+        "Question in English": "Name the three gauges of Indian Railways?",
+        "Question in Hindi": "भारतीय रेल के तीनों गेजों के नाम बताइए?",
+        "Answer in English": "1. Broad Gauge 2. Meter Gauge 3. Narrow Gauge",
+        "Answer in Hindi": "1. ब्रॉड गेज (बड़ी लाइन) 2. मीटर गेज (छोटी लाइन) 3. नैरौ गेज (संकरी लाइन)",
+        "Marks": "1"
+    }
+]
