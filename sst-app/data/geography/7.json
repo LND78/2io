@@ -1,0 +1,267 @@
+{
+  "id": "7",
+  "title": "7",
+  "questions": [
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "What percentage of total global biodiversity is found in India?",
+      "Question in Hindi": "भारत में विश्व की सारी जैव उपजातियों की कितने प्रतिशत संख्या पाई जाती है?",
+      "Answer in English": "8 percent (approx 1.6 million)",
+      "Answer in Hindi": "8 प्रतिशत (लगभग 16 लाख)",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "When was the Indian Wildlife (Protection) Act implemented?",
+      "Question in Hindi": "भारतीय वन्यजीवन (रक्षण) अधिनियम कब लागू किया गया?",
+      "Answer in English": "1972",
+      "Answer in Hindi": "1972",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "When was Project Tiger started?",
+      "Question in Hindi": "प्रोजेक्ट टाइगर की शुरुआत कब हुई?",
+      "Answer in English": "1973",
+      "Answer in Hindi": "1973",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "In which state is 'Corbett National Park' located?",
+      "Question in Hindi": "‘कारबेट राष्ट्रीय उद्यान’ भारत के किस राज्य में स्थित है।",
+      "Answer in English": "Uttarakhand",
+      "Answer in Hindi": "उत्तराखण्ड",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "In which state is 'Sundarban National Park' located?",
+      "Question in Hindi": "‘सुंदरवन राष्ट्रीय उद्यान’ भारत के किस राज्य में स्थित है।",
+      "Answer in English": "West Bengal",
+      "Answer in Hindi": "पश्चिम बंगाल",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "Where is 'Bandhavgarh National Park' located?",
+      "Question in Hindi": "‘बांधवगढ़ राष्ट्रीय उद्यान’ कहाँ स्थित है?",
+      "Answer in English": "Madhya Pradesh",
+      "Answer in Hindi": "मध्य प्रदेश",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "In which state is 'Sariska Tiger Reserve' located?",
+      "Question in Hindi": "‘सरिस्का बाघ रिजर्व’ किस राज्य में स्थित है।",
+      "Answer in English": "Rajasthan",
+      "Answer in Hindi": "राजस्थान",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "In which state is 'Periyar Tiger Reserve' located?",
+      "Question in Hindi": "‘पेरियार बाघ रिजर्व’ किस राज्य में स्थित है?",
+      "Answer in English": "Kerala",
+      "Answer in Hindi": "केरल",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "In which state is 'Kaziranga National Park' located?",
+      "Question in Hindi": "‘काजीरंगा राष्ट्रीय उद्यान’ किस राज्य में स्थित है?",
+      "Answer in English": "Assam",
+      "Answer in Hindi": "असम",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "Which state has the largest area under permanent forests?",
+      "Question in Hindi": "भारत के किस राज्य में स्थायी वनों के अन्तर्गत सबसे अधिक क्षेत्र है?",
+      "Answer in English": "Madhya Pradesh (75%)",
+      "Answer in Hindi": "मध्य प्रदेश (75 प्रतिशत)",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "According to the Forest Department, what part of the country's total forest area is protected forest?",
+      "Question in Hindi": "वन विभाग के अनुसार देश के कुल क्षेत्र का कितना हिस्सा रक्षित वन है?",
+      "Answer in English": "One-third part",
+      "Answer in Hindi": "एक-तिहाई हिस्सा",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "People of which five villages in which district of Rajasthan declared 1200 hectares of forest land as 'Bhairodev Dakav Sonchuri'?",
+      "Question in Hindi": "राजस्थान के किन जिले में 5 गाँवो के लोगो ने 1200 हेक्टेयर वन भूमि ‘भैरोदेव डाकव सेंचुरी’ घोषित कर दी है?",
+      "Answer in English": "Alwar",
+      "Answer in Hindi": "अलवर",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "Which trees are worshipped by Munda and Santhal tribes in Chota Nagpur region?",
+      "Question in Hindi": "छोटा नागपुर क्षेत्र में मुंडा और संथाल जनजातियों किन पेड़ो की पूजा करते हैं?",
+      "Answer in English": "Mahua and Kadamba",
+      "Answer in Hindi": "महुआ और कदम्ब",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "Tribes of which states worship tamarind and mango trees during weddings?",
+      "Question in Hindi": "किन राज्यों की जनजातियाँ शादी के दौरान इमली और आम के पेड़ की पूजा करती है?",
+      "Answer in English": "Odisha and Bihar",
+      "Answer in Hindi": "ओडिशा और बिहार",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "'Chipko Movement' is related to?",
+      "Question in Hindi": "‘चिपको आंदोलन’ का सम्बंध है?",
+      "Answer in English": "Himalayan region",
+      "Answer in Hindi": "हिमालयी क्षेत्र से",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "Which movement showed that adequate crop production is possible without using synthetic chemicals?",
+      "Question in Hindi": "टिहरी के किसानो द्वारा किस अभियान ने दिखा दिया कि रासायनिक उर्वरको के प्रयोग बिना भी विविध फसल उत्पादन व आर्थिक कृषि उत्पादन संभव है?",
+      "Answer in English": "'Beej Bachao Andolan' and 'Navdanya'",
+      "Answer in Hindi": "‘बीज बचाओं आंदोलन’ और ‘नवदानम’",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "Which state passed the first resolution for Joint Forest Management in 1988?",
+      "Question in Hindi": "1988 में किस राज्य ने संयुक्त वन प्रबंधन का पहला प्रस्ताव पास किया?",
+      "Answer in English": "Odisha",
+      "Answer in Hindi": "ओडिसा",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "Which environmentalist is associated with 'Chipko Movement'?",
+      "Question in Hindi": "‘चिपको आन्दोलन’ से जुड़े हुए पर्यावरणविद् है?",
+      "Answer in English": "Amrita Devi Vishnoi, Sunder Lal Bahuguna",
+      "Answer in Hindi": "अमृता देवी विश्नोई, सुन्दर लाल बहुगुणा",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "How many types of forests are there?",
+      "Question in Hindi": "वन कितने प्रकार के होते है?",
+      "Answer in English": "3 (Reserved, Protected, Unclassed)",
+      "Answer in Hindi": "1. आरक्षित वन, 2. रक्षित वन, 3. अवर्गीकृत वन",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "What are endangered species?",
+      "Question in Hindi": "संकटग्रस्त प्रजातियाँ किसे कहते है?",
+      "Answer in English": "Species whose population has declined so much that they are in danger of extinction.",
+      "Answer in Hindi": "वे प्रजातियाँ जिनकी संख्या कम हो गई है तथा उनके लुप्त होने का खतरा है।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "MCQ",
+      "Question in English": "What is 'Red Data Book'?",
+      "Question in Hindi": "‘रेड डाटा पुस्तक’ क्या है?",
+      "Answer in English": "Source book comprising the list of endangered species.",
+      "Answer in Hindi": "संकटापन्न प्रजातियों का लेखा-जोखा या इनकी सूची है।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "Very Short",
+      "Question in English": "Define Biodiversity.",
+      "Question in Hindi": "जैव विविधता को परिभाषित कीजिए।",
+      "Answer in English": "Existence of various types of organisms and vegetation on earth.",
+      "Answer in Hindi": "पृथ्वी के स्थलीय व जलीय भाग पर अनेक प्रकार के जीव जन्तुओं तथा वनस्पति का पाया जाना ही जैव-विविधता है।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "Very Short",
+      "Question in English": "What is Ecosystem?",
+      "Question in Hindi": "पारिस्थितिक तंत्र किसे कहते हैं?",
+      "Answer in English": "Complex system formed by human beings and other living organisms.",
+      "Answer in Hindi": "मानव और दूसरे जीवधारी मिलकर एक जटिल तंत्र का निर्माण करते हैं, जिने पारिस्थितिक तंत्र कहते है।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "Very Short",
+      "Question in English": "Why is conservation of forest and wildlife necessary?",
+      "Question in Hindi": "वनों और वन्य जीवन का संरक्षण करना क्यो आवश्यक है।",
+      "Answer in English": "To preserve ecological diversity and our life support systems (water, air, soil).",
+      "Answer in Hindi": "वन और वन्य जीवन के संरक्षण से पारिस्थितिकी विविधता बनी रहती है तथा हमारे जीवन साध्य संसाधन - जल, वायु और मृदा बने रहते हैं।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "Very Short",
+      "Question in English": "Mention two factors responsible for declining biodiversity in India.",
+      "Question in Hindi": "भारत में जैव विविधता को कम करने वाले दो कारक बताइए।",
+      "Answer in English": "1. Destruction of habitat, hunting/poaching. 2. Environmental pollution.",
+      "Answer in Hindi": "1. वन्य जीवों के आवास का विनाश, जंगली जानवरों को मारना व आखेट्न, 2. पर्यावरणीय प्रदूषण",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "Very Short",
+      "Question in English": "Name any two tiger reserve projects in India.",
+      "Question in Hindi": "भारत में किन्ही दो बाघ आराक्षित परियोजनाओं के नाम बताइए।",
+      "Answer in English": "1. Corbett National Park (Uttarakhand), 2. Sundarban National Park (West Bengal).",
+      "Answer in Hindi": "1. कार्बेट राष्ट्रीय उद्यान (उत्तराखण्ड), 2. सुन्दरबन राष्ट्रीय उद्यान (पश्चिम बंगाल)",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "Very Short",
+      "Question in English": "State the importance of Chipko Movement.",
+      "Question in Hindi": "चिपको आंदोलन का महत्व बताइए।",
+      "Answer in English": "Stopping deforestation in Himalayas and community afforestation.",
+      "Answer in Hindi": "हिमालय प्रदेश में वनों की कटाई रोकना तथा सामुदायिक वनीकरण करना आदि कार्य चिपको आंदोलन के अर्न्तगत किये जाते हैं।",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "Very Short",
+      "Question in English": "Which animal is considered an integral part of the Bishnoi community in Rajasthan?",
+      "Question in Hindi": "राजस्थान में विश्नोई समुदाय का अभिन्न हिस्सा किन जीव जन्तुओं को माना जाता है?",
+      "Answer in English": "Black buck, Chinkara, Nilgai, Peacock.",
+      "Answer in Hindi": "काला हिरण, चिंकारा, नीलगाय, मोर",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 7,
+      "Questions type": "Very Short",
+      "Question in English": "What is 'Joint Forest Management'?",
+      "Question in Hindi": "‘संयुक्त वन प्रबंधन’ क्या है?",
+      "Answer in English": "Program involving local communities in management and restoration of degraded forests.",
+      "Answer in Hindi": "वन विभाग के अन्तर्गत संयुक्त वन प्रबंधन क्षरित वनों के बचाव के लिए कार्य करता है। इसमें गाँव के स्तर पर संस्थाएँ बनाई जाती है जिनमें ग्रामीण और वन विभाग के अधिकारी संयुक्त रूप से कार्य करते हैं।",
+      "Marks": "1"
+    }
+  ]
+}

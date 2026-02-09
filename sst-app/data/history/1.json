@@ -1,0 +1,141 @@
+{
+  "id": "1",
+  "title": "1",
+  "questions": [
+    {
+      "Chapter": "1",
+      "Questions type": "MCQ",
+      "Question in English": "Who was the father of the process of nation-state formation in Germany?",
+      "Question in Hindi": "जर्मनी में राष्ट्र राज्य के निर्माण की प्रक्रिया का जनक कौन था?",
+      "Answer in English": "(c) Otto von Bismarck",
+      "Answer in Hindi": "(स) ऑटो वॉन बिस्मार्क",
+      "Marks": "1"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "MCQ",
+      "Question in English": "Germania became the allegory of which nation?",
+      "Question in Hindi": "जर्मेनिया किस राष्ट्र का रूपक बन गई थी?",
+      "Answer in English": "(d) Germany",
+      "Answer in Hindi": "(द) जर्मनी",
+      "Marks": "1"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "MCQ",
+      "Question in English": "What do the rays of the rising sun symbolize?",
+      "Question in Hindi": "उगते सूर्य की किरणें किसका प्रतीक है?",
+      "Answer in English": "(d) A new era beginning",
+      "Answer in Hindi": "(द) एक नए युग का",
+      "Marks": "1"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "MCQ",
+      "Question in English": "Who was Giuseppe Mazzini?",
+      "Question in Hindi": "ज्यूसेपे मेत्सिनी था?",
+      "Answer in English": "(b) Italian revolutionary",
+      "Answer in Hindi": "(ब) इटली का क्रांतिकारी",
+      "Marks": "1"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "MCQ",
+      "Question in English": "Germany was declared an independent state in?",
+      "Question in Hindi": "जर्मनी को एक स्वतंत्र राज्य घोषित किया गया था?",
+      "Answer in English": "(c) 1871",
+      "Answer in Hindi": "(स) 1871 में",
+      "Marks": "1"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "Fill in the blank",
+      "Question in English": "The Vienna Congress was hosted by the Austrian Chancellor ......",
+      "Question in Hindi": "वियना सम्मेलन की मेजबानी आस्ट्रिया के चांसलर ...... ने की थी।",
+      "Answer in English": "Duke Metternich",
+      "Answer in Hindi": "ड्यूक मेटर्निख",
+      "Marks": "1"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "Fill in the blank",
+      "Question in English": "In France, ...... was portrayed as the female allegory of the nation.",
+      "Question in Hindi": "फ्रांस में ...... को राष्ट्र के नारी रूपक के रूप में चित्रित किया गया है।",
+      "Answer in English": "Marianne",
+      "Answer in Hindi": "मारिआन",
+      "Marks": "1"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "Fill in the blank",
+      "Question in English": "There was a secret organization of Italian revolutionaries.",
+      "Question in Hindi": "इटली के क्रांतिकारियों का एक गुप्त संगठन था।",
+      "Answer in English": "Carbonari",
+      "Answer in Hindi": "कार्बोनरी",
+      "Marks": "1"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "Fill in the blank",
+      "Question in English": ".......... was the chief minister of Prussia.",
+      "Question in Hindi": "..........प्रसा का प्रमुख मंत्री था।",
+      "Answer in English": "Otto von Bismarck",
+      "Answer in Hindi": "ऑटो वॉन बिस्मार्क",
+      "Marks": "1"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "Fill in the blank",
+      "Question in English": "In the year ........, the United Kingdom of Great Britain was formed.",
+      "Question in Hindi": "सन ........ में यूनाइटेड किंगडम ऑफ ग्रेट ब्रिटेन का गठन हुआ।",
+      "Answer in English": "1707",
+      "Answer in Hindi": "सन् 1707",
+      "Marks": "1"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "Short Answer",
+      "Question in English": "Write a short note on 'Zollverein'.",
+      "Question in Hindi": "'जॉलवेराइन' पर एक संक्षिप्त टिप्पणी लिखिए-",
+      "Answer in English": "In 1834, a customs union named 'Zollverein' was formed at the initiative of Prussia, which most German states joined. This union abolished tariff barriers and reduced the number of currencies from over thirty to two. This unified Germany economically.",
+      "Answer in Hindi": "1834 ई. में प्रशा की पहल पर 'जॉलवेराइन' नामक एक शुल्क संघ की स्थापना हुई थी जिसमें अधिकांश जर्मन राज्य शामिल हो गए थे। इस संघ ने शुल्क अवरोधों को समाप्त कर दिया और मुद्राओं की संख्या दो कर दी जो उससे पहले तीस से ऊपर थी। इससे आर्थिक दृष्टि से समस्त जर्मनी एक हो गया।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "Short Answer",
+      "Question in English": "Who were the Grimm Brothers? What contribution did they make to the development of German national feelings?",
+      "Question in Hindi": "ग्रिम बन्धु कौन थे? उन्होंने जर्मन राष्ट्रीय भावनाओं के विकास में क्या योगदान दिया?",
+      "Answer in English": "The Grimm Brothers (Jacob Grimm and Wilhelm Grimm) were residents of Germany. They collected many old folktales, believing that the folktales they collected were equally liked by children and adults. Later, both brothers became active in liberal politics.",
+      "Answer in Hindi": "ग्रिम बन्धु (जै कब ग्रिम और विल्हेल्म ग्रिम) जर्मनी के निवासी थे। उन्होंने अनेक पुरानी लोककथाएं इकट्ठी कीं, उनका विश्वास था कि उन्होंने जो लोककथाएं इकट्ठी कीं, वे बच्चों और बड़ों में समान रूप से पसंद की जाती थीं। बाद में दोनों भाई उदारवादी राजनीति में सक्रिय हो गए।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "Short Answer",
+      "Question in English": "Write the main objectives of the Treaty of Vienna.",
+      "Question in Hindi": "वियना संधि के प्रमुख उद्देश्य लिखिए।",
+      "Answer in English": "The main objectives of the Treaty of Vienna of 1815 were: 1. To undo all the changes that had come about during the Napoleonic wars. 2. To prevent the expansion of French boundaries in the future. 3. To restore the monarchies that had been overthrown by Napoleon. 4. To create a new conservative order in Europe.",
+      "Answer in Hindi": "1815 ई. की वियना संधि के प्रमुख उद्देश्य- 1. उन सभी बदलावों को खत्म करना जो नेपोलियाई युद्धों के दौरान हुए थे। 2. भविष्य में फ्रांस की सीमाओं के विस्तार को रोकना। 3. नेपोलियन द्वारा बर्खास्त किये गए राजतंत्रों की बहाली करना। 4. यूरोप में एक नयी रूढ़िवादी व्यवस्था कायम करना।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "Short Answer",
+      "Question in English": "What is Conservatism?",
+      "Question in Hindi": "रूढ़िवाद क्या है?",
+      "Answer in English": "Conservatism is a political philosophy that emphasizes tradition, established institutions, and customs, and prefers gradual development to quick change.",
+      "Answer in Hindi": "रूढ़िवाद एक ऐसा राजनीतिक दर्शन जो परम्परा, स्थापित संस्थानों और रिवाजों पर जोर देता है और तेज बदलावों की बजाय क्रमिक और धीरे-धीरे विकास को प्राथमिकता देता है, रूढ़िवाद कहलाता है।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": "1",
+      "Questions type": "Short Answer",
+      "Question in English": "Briefly describe the unification of Italy.",
+      "Question in Hindi": "इटली के एकीकरण का संक्षिप्त वर्णन कीजिए।",
+      "Answer in English": "1. Mazzini founded revolutionary organizations named Young Italy in 1831 and Young Europe in 1833, and through these, instilled feelings of nationalism, patriotism, sacrifice, and dedication among Italians. 2. Cavour led the movement to unify the regions of Italy. In 1859, Sardinia-Piedmont, with French military support, defeated the Austrian forces, resulting in Lombardy being annexed to Sardinia-Piedmont.",
+      "Answer in Hindi": "1. मेत्सिनी ने 1831 में श्यंग इटलीश और 1833 में यंग यूरोप नामक क्रान्तिकारी संस्थाओं की स्थापना कर इनके माध्यम से इटलीवासियों में राष्ट्रीयता, देश-भक्ति, त्याग तथा बलिदान की भावनाएँ उत्पन्न कीं। 2. कावूर ने इटली के प्रदेशों को एकीकृत करने वाले आन्दोलन का नेतृत्व किया। 1859 में सार्डीनिया-पीडमांट ने फ्रांस की सैनिक सहायता प्राप्त कर आस्ट्रिया की सेनाओं को पराजित किया इसके फलस्वरूप लोम्बार्डी को सार्डीनिया-पीडमांट में मिला लिया था।",
+      "Marks": "2"
+    }
+  ]
+}

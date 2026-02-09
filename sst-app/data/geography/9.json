@@ -1,0 +1,312 @@
+{
+  "id": "9",
+  "title": "9",
+  "questions": [
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "Which of the following is a Kharif crop?",
+      "Question in Hindi": "निम्न में से कौनसी खरीफ की फसल है?",
+      "Answer in English": "(c) Bajra",
+      "Answer in Hindi": "(स) बाजरा",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "Which of the following is a Rabi crop?",
+      "Question in Hindi": "निम्न में से कौनसी रबी की फसल है?",
+      "Answer in English": "(d) Gram",
+      "Answer in Hindi": "(द) चना",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "Which of the following is a leguminous crop?",
+      "Question in Hindi": "निम्न में से फलीदार फसल कौनसी है?",
+      "Answer in English": "(a) Pulses",
+      "Answer in Hindi": "(अ) दालें",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "Which state is the largest producer of groundnut in India?",
+      "Question in Hindi": "भारत का सबसे बड़ा मूंगफली उत्पादक राज्य कौन सा है?",
+      "Answer in English": "(b) Gujarat",
+      "Answer in Hindi": "(ब) गुजरात",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "Which farming is done without the use of chemical fertilizers and pesticides?",
+      "Question in Hindi": "निम्न में से कौनसी कृषि रासायनिक उर्वरकों और कीटनाशकों के बिना की जाती है?",
+      "Answer in English": "(d) Organic farming",
+      "Answer in Hindi": "(द) जैविक कृषि",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "Which of the following is a plantation crop?",
+      "Question in Hindi": "निम्न में से कौनसी रोपण फसल है?",
+      "Answer in English": "(c) Tea",
+      "Answer in Hindi": "(स) चाय",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "Which movement was started by Vinoba Bhave?",
+      "Question in Hindi": "विनोबा भावे द्वारा कौनसा आन्दोलन चलाया गया?",
+      "Answer in English": "(a) Bhoodan Gramdan",
+      "Answer in Hindi": "(अ) भूदान-ग्रामदान",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "Which crop is known as 'Golden Fibre'?",
+      "Question in Hindi": "किसे 'सुनहरा रेशा' कहा जाता है?",
+      "Answer in English": "(a) Jute",
+      "Answer in Hindi": "(अ) जूट",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "What is the main characteristic of commercial farming?",
+      "Question in Hindi": "वाणिज्यिक कृषि की मुख्य विशेषता क्या है?",
+      "Answer in English": "(a) Use of high doses of modern inputs",
+      "Answer in Hindi": "(अ) आधुनिक निवेशों का अधिक प्रयोग",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "In which state is primitive subsistence farming known as 'Jhumming'?",
+      "Question in Hindi": "किस राज्य में प्रारंभिक जीविका निर्वाह कृषि को 'झूम' कहा जाता है?",
+      "Answer in English": "(c) Assam",
+      "Answer in Hindi": "(स) असम",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "What is India's rank in rice production in the world?",
+      "Question in Hindi": "चावल उत्पादन में भारत का विश्व में कौनसा स्थान है?",
+      "Answer in English": "(b) Second",
+      "Answer in Hindi": "(ब) दूसरा",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "Which crop is used both as food and fodder?",
+      "Question in Hindi": "कौनसी फसल खाद्य और चारा दोनों रूपों में प्रयोग होती है?",
+      "Answer in English": "(c) Maize",
+      "Answer in Hindi": "(स) मक्का",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "MCQ",
+      "Question in English": "Aus, Aman and Boro are types of which crop?",
+      "Question in Hindi": "ओस, अमन और बोरो किस फसल की किस्में हैं?",
+      "Answer in English": "(b) Paddy",
+      "Answer in Hindi": "(ब) धान",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Fill in the blank",
+      "Question in English": "Slash and burn agriculture is known as ......... in North-Eastern states.",
+      "Question in Hindi": "कर्तन दहन प्रणाली को भारत के उत्तर पूर्वी प्रदेशों में .......... कहा जाता है।",
+      "Answer in English": "Jhumming",
+      "Answer in Hindi": "झूम",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Fill in the blank",
+      "Question in English": "Arabica variety of ......... is produced in our country.",
+      "Question in Hindi": "हमारे देश में अरेबिका किस्म की ........... पैदा की जाती है।",
+      "Answer in English": "Coffee",
+      "Answer in Hindi": "कॉफी",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Fill in the blank",
+      "Question in English": "India is believed to be the original home of ......... plant.",
+      "Question in Hindi": "भारत को ........... के पौधे का मूल स्थान माना जाता है।",
+      "Answer in English": "Cotton",
+      "Answer in Hindi": "कपास",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Fill in the blank",
+      "Question in English": "......... is called Golden Fibre.",
+      "Question in Hindi": "........... को सुनहरा रेशा कहा जाता है।",
+      "Answer in English": "Jute",
+      "Answer in Hindi": "जूट",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Fill in the blank",
+      "Question in English": "'Slash and burn' agriculture is called ......... in Manipur.",
+      "Question in Hindi": "'कर्तन दहन' कृषि को मणिपुर में ........... कहते है।",
+      "Answer in English": "Pamlou",
+      "Answer in Hindi": "पामलू",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Fill in the blank",
+      "Question in English": "......... of India's population is engaged in agricultural activities.",
+      "Question in Hindi": "भारत की ........... जनसंख्या कृषि कार्यों में संलग्न है।",
+      "Answer in English": "Two-thirds",
+      "Answer in Hindi": "दो-तिहाई",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Fill in the blank",
+      "Question in English": "......... and ...... are bio-diesel crops.",
+      "Question in Hindi": ".......... और ...... बायो-डीजल फसलें है।",
+      "Answer in English": "Jatropha, Jojoba",
+      "Answer in Hindi": "जेट्रोपा, जोजोबा",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Fill in the blank",
+      "Question in English": "Tea, Coffee, Rubber, Sugarcane, Banana etc are significant ......... crops in India.",
+      "Question in Hindi": "भारत में चाय, कॉफी, रबड़, गन्ना, केला इत्यादि महत्वपूर्ण...... फसलें है।",
+      "Answer in English": "Plantation",
+      "Answer in Hindi": "रोपण",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Fill in the blank",
+      "Question in English": "......... is the main food crop of India.",
+      "Question in Hindi": "......... भारत की मुख्य खाद्यान्न फसल है।",
+      "Answer in English": "Rice",
+      "Answer in Hindi": "चावल",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Fill in the blank",
+      "Question in English": "....... is the largest producer and consumer of pulses in the world.",
+      "Question in Hindi": "....... विश्व में दालों का सबसे बड़ा उत्पादक एवं उपभोक्ता देश है।",
+      "Answer in English": "India",
+      "Answer in Hindi": "भारत",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Fill in the blank",
+      "Question in English": "Agriculture is a ....... activity.",
+      "Question in Hindi": "कृषि एक ....... क्रिया है-",
+      "Answer in English": "Primary",
+      "Answer in Hindi": "प्राथमिक",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Fill in the blank",
+      "Question in English": "....... is the largest rice producing country in the world.",
+      "Question in Hindi": "....... विश्व का सबसे बड़ा चावल उत्पादक देश है।",
+      "Answer in English": "China",
+      "Answer in Hindi": "चीन",
+      "Marks": "1"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Short",
+      "Question in English": "Name a beverage/plantation crop and describe favorable geographical conditions for its growth.",
+      "Question in Hindi": "एक पेय/रोपण फसल का नाम बताएँ तथा उसको उगाने के लिए अनुकूल भौगोलिक परिस्थितियों का विवरण दें।",
+      "Answer in English": "Tea. Tropical/Subtropical climate, deep fertile soil, warm/moist frost-free climate, distributed rainfall.",
+      "Answer in Hindi": "चाय। उष्ण और उपोष्ण कटिबंधीय जलवायु, ह्यूमस युक्त गहरी मिट्टी, सुगम जल निकास, वर्षभर कोष्ण, नम और पालारहित जलवायु।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Short",
+      "Question in English": "Make a list of institutional reform programmes introduced by the government in the interest of farmers.",
+      "Question in Hindi": "सरकार द्वारा किसानों के हित में किए गए संस्थागत सुधार कार्यक्रमों की सूची बनाएँ।",
+      "Answer in English": "Consolidation of holdings, Abolition of Zamindari, Crop Insurance, Grameen Banks, KCC, PAIS.",
+      "Answer in Hindi": "जोतों की चकबंदी, जमींदारी प्रथा की समाप्ति, फसल बीमा, ग्रामीण बैंक, किसान क्रेडिट कार्ड।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Short",
+      "Question in English": "Mention the necessary conditions for Cotton production.",
+      "Question in Hindi": "कपास उत्पादन के लिए आवश्यक परिस्थितियाँ बताइए।",
+      "Answer in English": "High temperature, light rainfall/irrigation, 210 frost-free days, bright sunshine.",
+      "Answer in Hindi": "उच्च तापमान, हल्की वर्षा या सिंचाई, 210 पाला रहित दिन, खिली धूप।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Short",
+      "Question in English": "State the major difference between Rabi and Kharif crops.",
+      "Question in Hindi": "रबी एवं खरीफ फसलों में प्रमुख अन्तर बताइए।",
+      "Answer in English": "Rabi: Sown in winter (Oct-Dec), harvested in summer. E.g., Wheat. Kharif: Sown with onset of monsoon, harvested in Sep-Oct. E.g., Paddy.",
+      "Answer in Hindi": "रबी: शीत ऋतु में बोई जाती है (अक्टूबर-दिसंबर), ग्रीष्म में काटी जाती है। खरीफ: मानसून के आगमन पर बोई जाती है, सितंबर-अक्टूबर में काटी जाती है।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Short",
+      "Question in English": "Write the difference between Primitive Subsistence Farming and Commercial Farming.",
+      "Question in Hindi": "प्रारंभिक/आदिम निर्वाह कृषि और व्यावसायिक/वाणिज्य कृषि के बीच अंतर लिखो।",
+      "Answer in English": "Primitive: Small land patches, old tools, depends on monsoon. Commercial: Large scale, modern inputs (HYV seeds, chemical fertilizers), for market.",
+      "Answer in Hindi": "प्रारंभिक: भूमि के छोटे टुकड़ों पर, पुराने औजार, मानसून पर निर्भर। वाणिज्यिक: बड़े पैमाने पर, आधुनिक निवेश (HYV बीज, उर्वरक), बाजार के लिए।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Short",
+      "Question in English": "What is Intensive Subsistence Farming? Write three features.",
+      "Question in Hindi": "गहन जीविका कृषि क्या है? इस कृषि की तीन विशेषताएँ लिखिए।",
+      "Answer in English": "Farming in areas with high population pressure. Features: 1. High doses of biochemical inputs 2. Irrigation 3. Small landholdings due to inheritance.",
+      "Answer in Hindi": "जहाँ भूमि पर जनसंख्या दबाव अधिक होता है। विशेषताएँ: 1. अधिक जैव-रासायनिक निवेश 2. सिंचाई 3. भूमि का छोटा आकार।",
+      "Marks": "2"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Long",
+      "Question in English": "Classify rice cultivation on the basis of the following points: 1. Climate 2. Producing areas.",
+      "Question in Hindi": "चावल की कृषि का वर्णन निम्न बिन्दुओं के आधार पर कीजिए। 1. जलवायु 2. उत्पादक क्षेत्र",
+      "Answer in English": "1. Climate: Rice is a Kharif crop which requires high temperature (above 25°C) and high humidity with annual rainfall above 100 cm. In areas of less rainfall, it grows with the help of irrigation. 2. Producing Areas: Rice is grown in the plains of north and north-eastern India, coastal areas and the deltaic regions.",
+      "Answer in Hindi": "1. जलवायु: चावल एक खरीफ फसल है जिसे उच्च तापमान (25°C से ऊपर) और 100 सेमी से अधिक वार्षिक वर्षा के साथ उच्च आर्द्रता की आवश्यकता होती है। कम वर्षा वाले क्षेत्रों में इसे सिंचाई की सहायता से उगाया जाता है। 2. उत्पादक क्षेत्र: चावल उत्तर और उत्तर-पूर्वी भारत के मैदानों, तटीय क्षेत्रों और डेल्टाई क्षेत्रों में उगाया जाता है।",
+      "Marks": "3"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Long",
+      "Question in English": "What do you know about 'Slash and Burn' farming?",
+      "Question in Hindi": "कर्तन दहन प्रणाली कृषि के बारे में आप क्या जानते है?",
+      "Answer in English": "It is a primitive subsistence farming. Farmers clear a patch of land and produce cereals and other food crops to sustain their family. When the soil fertility decreases, the farmers shift and clear a fresh patch of land for cultivation. This type of shifting allows nature to replenish the fertility of the soil.",
+      "Answer in Hindi": "यह एक प्रारंभिक जीविका निर्वाह कृषि है। किसान जमीन का एक टुकड़ा साफ करते हैं और अपने परिवार के भरण-पोषण के लिए अनाज और अन्य खाद्य फसलें उगाते हैं। जब मिट्टी की उर्वरता कम हो जाती है, तो किसान खेती के लिए जमीन का एक नया टुकड़ा साफ करते हैं। इस प्रकार का स्थानांतरण प्रकृति को मिट्टी की उर्वरता को फिर से भरने की अनुमति देता है।",
+      "Marks": "3"
+    },
+    {
+      "Chapter": 9,
+      "Questions type": "Long",
+      "Question in English": "Describe the necessary geographical conditions for wheat cultivation.",
+      "Question in Hindi": "गेहूं की खेती के लिए आवश्यक भौगोलिक परिस्थितियों का वर्णन कीजिए।",
+      "Answer in English": "Wheat is the main food crop in north and north-western part of the country. This rabi crop requires a cool growing season and a bright sunshine at the time of ripening. It requires 50 to 75 cm of annual rainfall evenly distributed over the growing season. There are two important wheat-growing zones in the country – the Ganga-Satluj plains in the north-west and black soil region of the Deccan.",
+      "Answer in Hindi": "गेहूँ देश के उत्तर और उत्तर-पश्चिमी भाग में मुख्य खाद्यान्न फसल है। इस रबी फसल को उगाने के लिए शीत ऋतु और पकने के समय खिली धूप की आवश्यकता होती है। इसे 50 से 75 सेमी वार्षिक वर्षा की आवश्यकता होती है जो समान रूप से वितरित हो। देश में दो महत्वपूर्ण गेहूँ उत्पादक क्षेत्र हैं - उत्तर-पश्चिम में गंगा-सतलुज का मैदान और दक्कन का काली मिट्टी वाला क्षेत्र।",
+      "Marks": "3"
+    }
+  ]
+}
