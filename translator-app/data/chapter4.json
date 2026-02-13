@@ -1,0 +1,177 @@
+{
+  "id": "4",
+  "title": "The Age of Industrialisation",
+  "hindiTitle": "औद्योगीकरण का युग",
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Objective Type Questions",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "objective",
+          "text": "Who invented the Spinning Jenny?",
+          "originalText": "स्पिनिंग जेनी का आविष्कार किसने किया?",
+          "options": [
+            "(a) Stephenson",
+            "(b) James Hargreaves",
+            "(c) John Kay",
+            "(d) Arkwright"
+          ],
+          "answer": "(b) James Hargreaves"
+        },
+        {
+          "id": "q2",
+          "type": "objective",
+          "text": "Where was the first textile mill established in India in 1854?",
+          "originalText": "भारत में सन् 1854 में पहली कपड़ा मिल कहां स्थापित हुई थी?",
+          "options": [
+            "(a) Surat",
+            "(b) Calcutta",
+            "(c) Mumbai",
+            "(d) Ahmedabad"
+          ],
+          "answer": "(c) Mumbai"
+        },
+        {
+          "id": "q3",
+          "type": "objective",
+          "text": "When was the first jute mill established in Bengal?",
+          "originalText": "बंगाल में पहली जूट मिल स्थापित हुई-",
+          "options": [
+            "(a) In 1854",
+            "(b) In 1865",
+            "(c) In 1815",
+            "(d) In 1855"
+          ],
+          "answer": "(d) In 1855"
+        },
+        {
+          "id": "q4",
+          "type": "objective",
+          "text": "What does Aladdin symbolize in the 'Two Magicians' picture?",
+          "originalText": "दो जादूगर चित्र में अलादीन किसका प्रतीक है?",
+          "options": [
+            "(a) South and Conservatism",
+            "(b) North and Rationalism",
+            "(c) West and Modernity",
+            "(d) East and the Past"
+          ],
+          "answer": "(d) East and the Past"
+        },
+        {
+          "id": "q5",
+          "type": "objective",
+          "text": "The businessman who set up the country's first jute mill in Calcutta in 1917 was-",
+          "originalText": "1917 में कलकत्ता में देश की पहली जूट मिल लगाने वाले व्यवसायी थे-",
+          "options": [
+            "(a) Dinshaw Petit",
+            "(b) Jamsetji Tata",
+            "(c) Seth Hukumchand",
+            "(d) Dwarkanath Tagore"
+          ],
+          "answer": "(c) Seth Hukumchand"
+        },
+        {
+          "id": "q6",
+          "type": "objective",
+          "text": "In which decade did factories first open in England?",
+          "originalText": "इंग्लैण्ड में सबसे पहले किस दशक में कारखाने खुले?",
+          "options": [
+            "(a) 1710s",
+            "(b) 1720s",
+            "(c) 1730s",
+            "(d) 1740s"
+          ],
+          "answer": "(c) 1730s"
+        },
+        {
+          "id": "q7",
+          "type": "objective",
+          "text": "By the 1840s, the most flourishing industries in Britain were-",
+          "originalText": "1840 के दशक तक ब्रिटेन के सबसे फलते-फूलते उद्योग थे-",
+          "options": [
+            "(a) Cotton Industry",
+            "(b) Iron and Steel Industry",
+            "(c) Food Processing Industry",
+            "(d) Furniture Industry"
+          ],
+          "answer": "(a) Cotton Industry"
+        },
+        {
+          "id": "q8",
+          "type": "objective",
+          "text": "The country which had a shortage of workers in the 19th century was-",
+          "originalText": "19वीं सदी में जिस देश में कामगारों की कमी थी, वह था-",
+          "options": [
+            "(a) America",
+            "(b) Britain",
+            "(c) India",
+            "(d) China"
+          ],
+          "answer": "(a) America"
+        },
+        {
+          "id": "q9",
+          "type": "objective",
+          "text": "The share of cotton goods in India's total exports was 33% in 1811-12, which fell in 1850-51 to-",
+          "originalText": "1811-12 में भारत के कुल निर्यात में सूती माल का हिस्सा 33 प्रतिशत था जो 1850-51 में घटकर रह गया था-",
+          "options": [
+            "(a) 30 percent",
+            "(b) 20 percent",
+            "(c) 13 percent",
+            "(d) 3 percent"
+          ],
+          "answer": "(d) 3 percent"
+        },
+        {
+          "id": "q10",
+          "type": "objective",
+          "text": "J.N. Tata established India's first Iron and Steel plant in Jamshedpur in-",
+          "originalText": "जे. एन. टाटा ने जमशेदपुर में भारत का प्रथम लौह एवं इस्पात संयंत्र स्थापित किया-",
+          "options": [
+            "(a) 1854",
+            "(b) 1912",
+            "(c) 1855",
+            "(d) 1917"
+          ],
+          "answer": "(b) 1912"
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "Short Answer Type Questions",
+      "questions": [
+        {
+          "id": "q11",
+          "type": "short-answer",
+          "text": "How was the life of workers affected by the abundance of labor in the market?",
+          "originalText": "बाजार में श्रम की बहुतायत से मजदूरी का जिन्दगी किस प्रकार प्रभावित हुई?",
+          "answer": "The abundance of labor in the market affected the lives of workers badly. Due to the large number of people seeking jobs, wages remained low. Workers had to wait for weeks to get work. They had to spend nights under bridges or in night shelters run by the law department."
+        },
+        {
+          "id": "q12",
+          "type": "short-answer",
+          "text": "Describe the role of Jobbers in India in the early 20th century. OR Who were Jobbers? Clarify their functions.",
+          "originalText": "20वीं शताब्दी के प्रारम्भ में भारत में जॉबर्स की भूमिका का वर्णन कीजिए।",
+          "answer": "Jobbers were employed by industrialists to recruit new workers. A jobber was usually an old and trusted employee. He got people from his village, ensured them jobs, helped them settle in the city, and provided them money in times of crisis. Later, jobbers started demanding money and gifts for their favor and began controlling the lives of workers."
+        },
+        {
+          "id": "q13",
+          "type": "short-answer",
+          "text": "What is Proto-Industrialization? How did the East India Company establish control over Indian weavers?",
+          "originalText": "आदि-औद्योगीकरण क्या है? भारतीय बुनकरों पर ईस्ट इण्डिया कम्पनी ने किस प्रकार नियंत्रण स्थापित किया?",
+          "answer": "**Proto-Industrialization:** Even before factories began to dot the landscape in England and Europe, there was large-scale industrial production for an international market. This was not based on factories. Historians refer to this phase of industrialization as proto-industrialization.\n\n**Control by East India Company:**\n1. The Company appointed a paid servant called the Gomastha to supervise weavers, collect supplies, and examine the quality of cloth.\n2. It prevented Company weavers from dealing with other buyers. One way of doing this was through the system of advances.\n3. Once an order was placed, the weavers were given loans to purchase the raw material for their production. Those who took loans had to hand over the cloth they produced to the Gomastha. They could not take it to any other trader."
+        },
+        {
+          "id": "q14",
+          "type": "short-answer",
+          "text": "What problems did Indian weavers face due to British industrialisation? OR What problems did Indian weavers face in the 19th century?",
+          "originalText": "ब्रिटिश औद्योगीकरण के कारण भारतीय बुनकरों को किन समस्याओं का सामना करना पड़ा?",
+          "answer": "In the 19th century, Indian weavers faced the following problems:\n1. Their export market collapsed, and the local market shrank, being glutted with Manchester imports.\n2. Produced by machines at lower costs, the imported cotton goods were so cheap that weavers could not easily compete with them.\n3. By the 1860s, weavers faced a new problem. They could not get sufficient supply of raw cotton of good quality. When the American Civil War broke out and cotton supplies from the US were cut off, Britain turned to India. As raw cotton exports from India increased, the price of raw cotton shot up.\n4. By the end of the 19th century, weavers and other craftspeople faced yet another problem. Factories in India began production, flooding the market with machine-goods."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "id": "3",
+  "title": "The Making of a Global World",
+  "hindiTitle": "भूमण्डलीकृत विश्व का बनना",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Objective Questions",
+      "hindiTitle": "Vastunisth Prashn",
+      "questions": [
+        {
+          "id": "ch3-mcq-1",
+          "type": "objective",
+          "text": "In 1885, the powerful nations of Europe divided which continent among themselves by drawing lines on a map?",
+          "originalText": "1885 में यूरोप के ताकतवर देशों ने किस महाद्वीप को नक्शे पर लकीर खींच कर आपस में बाँट लिया था?",
+          "options": [
+            "(a) एशिया (Asia)",
+            "(b) अफ्रीका (Africa)",
+            "(c) यूरोप (Europe)",
+            "(d) अंटार्कटिका (Antarctica)"
+          ],
+          "answer": "(b) अफ्रीका (Africa)"
+        },
+        {
+          "id": "ch3-mcq-2",
+          "type": "objective",
+          "text": "Who was worst affected by the Economic Depression?",
+          "originalText": "आर्थिक मंदी का सबसे बुरा असर किस पर पड़ा?",
+          "options": [
+            "(a) जापान (Japan)",
+            "(b) फ्रांस (France)",
+            "(c) अमेरिका (America)",
+            "(d) ब्रिटेन (Britain)"
+          ],
+          "answer": "(c) अमेरिका (America)"
+        },
+        {
+          "id": "ch3-mcq-3",
+          "type": "objective",
+          "text": "What were the indentured labourers taken from India to other countries called?",
+          "originalText": "भारत से विदेश ले जाए जाने वाले अनुबंधित मजदूर क्या कहलाते थे?",
+          "options": [
+            "(a) दास (Slaves)",
+            "(b) फटफटिया (Phatphatiya)",
+            "(c) गिरमिटिया (Girmitiya)",
+            "(d) उपनिवेशिक मजदूर (Colonial Laborers)"
+          ],
+          "answer": "(c) गिरमिटिया (Girmitiya)"
+        },
+        {
+          "id": "ch3-mcq-4",
+          "type": "objective",
+          "text": "Which countries are organized in G-77 (Group 77)?",
+          "originalText": "जी 77 (समूह 77) में कौनसे देश संगठित हैं?",
+          "options": [
+            "(a) विकासशील (Developing)",
+            "(b) विकसित (Developed)",
+            "(c) उच्च विकसित (Highly Developed)",
+            "(d) अति पिछड़े (Very Backward)"
+          ],
+          "answer": "(a) विकासशील (Developing)"
+        },
+        {
+          "id": "ch3-mcq-5",
+          "type": "objective",
+          "text": "Which institution was established at the Bretton Woods Conference?",
+          "originalText": "ब्रेटन वुड्स सम्मेलन में किस संस्था की स्थापना की गई?",
+          "options": [
+            "(a) यूनिसेफ (UNICEF)",
+            "(b) अंतर्राष्ट्रीय मुद्रा कोष (International Monetary Fund)",
+            "(c) डबल्यू.टी.ओ. (WTO)",
+            "(d) यूनेस्को (UNESCO)"
+          ],
+          "answer": "(b) अंतर्राष्ट्रीय मुद्रा कोष (International Monetary Fund)"
+        },
+        {
+          "id": "ch3-mcq-6",
+          "type": "objective",
+          "text": "In the 19th century, due to the declining role of China in world trade and the rising influence of America, the center of world trade became -",
+          "originalText": "19वीं सदी में विश्व व्यापार में चीन की घटती भूमिका और अमेरिका के बढ़ते प्रभाव के कारण विश्व व्यापार का केंद्र बना -",
+          "options": [
+            "(a) एशिया (Asia)",
+            "(b) अफ्रीका (Africa)",
+            "(c) यूरोप (Europe)",
+            "(d) ऑस्ट्रेलिया (Australia)"
+          ],
+          "answer": "(c) यूरोप (Europe)"
+        },
+        {
+          "id": "ch3-mcq-7",
+          "type": "objective",
+          "text": "When did the World Bank and IMF formally start working?",
+          "originalText": "विश्व बैंक और आई एम एफ ने औपचारिक रूप से काम करना कब शुरू किया?",
+          "options": [
+            "(a) 1944 में (In 1944)",
+            "(b) 1945 में (In 1945)",
+            "(c) 1946 में (In 1946)",
+            "(d) 1947 में (In 1947)"
+          ],
+          "answer": "(d) 1947 में (In 1947)"
+        },
+        {
+          "id": "ch3-mcq-8",
+          "type": "objective",
+          "text": "Which of the following was NOT an Axis Power involved in the Second World War?",
+          "originalText": "निम्न में से द्वितीय विश्व युद्ध में शामिल होने वाली धुरी शक्ति नहीं थी?",
+          "options": [
+            "(a) जर्मनी (Germany)",
+            "(b) जापान (Japan)",
+            "(c) इटली (Italy)",
+            "(d) रूस (Russia)"
+          ],
+          "answer": "(d) रूस (Russia)"
+        },
+        {
+          "id": "ch3-mcq-9",
+          "type": "objective",
+          "text": "Which of the following was NOT included in the Axis (Central) Powers in the First World War?",
+          "originalText": "निम्न में से प्रथम विश्व युद्ध में धुरी राष्ट्र में शामिल नहीं था?",
+          "options": [
+            "(a) जर्मनी (Germany)",
+            "(b) ऑस्ट्रिया हंगरी (Austria-Hungary)",
+            "(c) ऑटोमन (Ottoman)",
+            "(d) फ्रांस (France)"
+          ],
+          "answer": "(d) फ्रांस (France)"
+        },
+        {
+          "id": "ch3-mcq-10",
+          "type": "objective",
+          "text": "When did the worldwide Economic Depression begin?",
+          "originalText": "विश्व व्यापी आर्थिक मंदी की शुरुआत कब हुई?",
+          "options": [
+            "(a) 1929",
+            "(b) 1929",
+            "(c) 1935",
+            "(d) 1933"
+          ],
+          "answer": "(a) 1929"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Subjective Questions",
+      "hindiTitle": "Laghuttaraatmak Evam Nibandhaatmak Prashn",
+      "questions": [
+        {
+          "id": "ch3-short-1",
+          "type": "short-answer",
+          "text": "Which goods were traded through the Silk Route?",
+          "originalText": "रेशम मार्ग से किन-किन वस्तुओं का व्यापार होता था?",
+          "answer": "Many goods were traded through the Silk Route. Through this route, Chinese silk and pottery, and textiles and spices from India and Southeast Asia reached other parts of the world. In return, precious metals like gold and silver reached Asia from Europe via this same route. Along with trade, cultural exchange also took place through the Silk Route."
+        },
+        {
+          "id": "ch3-short-2",
+          "type": "short-answer",
+          "text": "What was the Corn Law? Why was it abolished? What were the results of its abolition?",
+          "originalText": "कॉर्न लॉ क्या था? उसे क्यों समाप्त किया गया? उसकी समाप्ति के क्या परिणाम हुए?",
+          "answer": "Corn Law - In the 18th century, under pressure from large landowners, the British government restricted the import of corn. The laws under which the government imposed this restriction were called 'Corn Laws'. Distressed by high food prices in the last decade of the 18th century, industrialists and urban dwellers forced the government to immediately abolish the Corn Laws."
+        },
+        {
+          "id": "ch3-long-3",
+          "type": "long-answer",
+          "text": "Describe the effects of Rinderpest on the livelihoods of people and the local economy of Africa in the 1890s. OR What were the effects of the Rinderpest disease on Africa?",
+          "originalText": "रिंडरपेस्ट का 1890 के दशक में अफ्रीका के लोगों की आजीविका और स्थानीय अर्थव्यवस्था पर पड़े प्रभावों का वर्णन कीजिए। अथवा रिंडरपेस्ट बीमारी के अफ्रीका पर क्या प्रभाव पड़े?",
+          "answer": "1. In the 1890s, a disease called Rinderpest spread in Africa. Spreading like a plague among cattle, this disease had a devastating effect on people's livelihoods and the local economy.\n2. 90 percent of Africa's cattle died due to this disease.\n3. Due to the death of cattle, the African people's means of livelihood were destroyed. As a result, the entire Africa gradually became a slave to European colonizers."
+        },
+        {
+          "id": "ch3-long-4",
+          "type": "long-answer",
+          "text": "Between which two camps was the First World War fought? Which countries were included in these camps? For how many years did this war last?",
+          "originalText": "प्रथम विश्व युद्ध किन दो खेमों के बीच लड़ा गया था? इन खेमों में कौन-कौनसे देश शामिल थे? यह युद्ध कितने वर्षों तक चला?",
+          "answer": "1. The First World War was fought between two camps: (1) The Allies and (2) The Central Powers.\n2. The Allies included Britain, France, and Russia, while the Central Powers included Germany, Austria-Hungary, and Ottoman Turkey.\n3. This war started in 1914 and lasted for more than four years."
+        },
+        {
+          "id": "ch3-long-5",
+          "type": "long-answer",
+          "text": "What were the effects of the worldwide Great Economic Depression on India?",
+          "originalText": "विश्वव्यापी आर्थिक महामंदी के भारत पर क्या प्रभाव पड़े?",
+          "answer": "Effects of the worldwide Economic Depression on India -\n1. Between 1928 and 1934, India's imports and exports were reduced by almost half.\n2. The price of wheat in India fell by 50 percent.\n3. Due to the massive fall in raw jute prices, the condition of farmers became miserable. They drowned in debt and it became difficult for them to even sustain their livelihood."
+        },
+        {
+          "id": "ch3-short-6",
+          "type": "short-answer",
+          "text": "What is Tariff?",
+          "originalText": "आयात शुल्क क्या है?",
+          "answer": "Tariff is the tax collected on goods coming from another country. This tax or duty is collected at the place from where the item enters the country, i.e., at the border, port, or airport."
+        },
+        {
+          "id": "ch3-short-7",
+          "type": "short-answer",
+          "text": "What is the Silk Route? State its importance.",
+          "originalText": "सिल्क रूट क्या है? इसका महत्त्व बताइए-",
+          "answer": "Silk Route - The Silk Routes passing through land or sea were trade and cultural routes connecting vast regions of Asia (China, India) and Asia to Europe and North Africa. Chinese silk was traded through them.\nImportance of Silk Route/Economic and Cultural Exchange - Chinese silk sent to the West via the Silk Route had great importance. (1) Silk routes were routes passing through land or sea that connected vast regions of Asia or Asia to Europe and North Africa. (2) Through the Silk Route, Chinese silk and pottery, and textiles and spices from India and Southeast Asia reached other parts of the world."
+        }
+      ]
+    }
+  ]
+}
