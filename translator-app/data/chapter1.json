@@ -1,0 +1,138 @@
+{
+  "id": "1",
+  "title": "The Rise of Nationalism in Europe",
+  "hindiTitle": "Europe me Rashtravad ka Uday",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Objective Questions",
+      "hindiTitle": "Vastunisth Prashn",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Who was the father of the process of nation-state formation in Germany?",
+          "originalText": "Germani me rashtra rajya ke nirman ki prakriya ka janak kaun tha?",
+          "type": "objective",
+          "options": ["(a) William IV", "(b) William I", "(c) Otto von Bismarck", "(d) William II"],
+          "answer": "(c) Otto von Bismarck"
+        },
+        {
+          "id": "q2",
+          "text": "Germania became the allegory of which nation?",
+          "originalText": "Germania kis rashtra ka roopak ban gai thi?",
+          "type": "objective",
+          "options": ["(a) Britain", "(b) France", "(c) Russia", "(d) Germany"],
+          "answer": "(d) Germany"
+        },
+        {
+          "id": "q3",
+          "text": "What do the rays of the rising sun symbolize?",
+          "originalText": "Ugte surya ki kirne kiska prateek hai?",
+          "type": "objective",
+          "options": ["(a) Getting freedom", "(b) Bravery", "(c) Peace", "(d) A new era"],
+          "answer": "(d) A new era"
+        },
+        {
+          "id": "q4",
+          "text": "Who was Giuseppe Mazzini?",
+          "originalText": "Giuseppe Mazzini tha?",
+          "type": "objective",
+          "options": ["(a) Revolutionary of France", "(b) Revolutionary of Italy", "(c) Revolutionary of Britain", "(d) None of these"],
+          "answer": "(b) Revolutionary of Italy"
+        },
+        {
+          "id": "q5",
+          "text": "When was Germany declared an independent state?",
+          "originalText": "Germani ko ek swatantra rajya ghoshit kiya gaya tha?",
+          "type": "objective",
+          "options": ["(a) 1817", "(b) 1848", "(c) 1871", "(d) 1885"],
+          "answer": "(c) 1871"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Fill in the blanks",
+      "hindiTitle": "Rikt sthan ki purti kare",
+      "questions": [
+        {
+          "id": "q6",
+          "text": "The Vienna Congress was hosted by the Austrian Chancellor .......",
+          "originalText": "Vienna sammelan ki mejbani Austria ke chancellor ...... ne ki thi.",
+          "type": "fill-in-the-blank",
+          "answer": "Duke Metternich"
+        },
+        {
+          "id": "q7",
+          "text": "In France, ...... was portrayed as the female allegory of the nation.",
+          "originalText": "France me ...... ko rashtra ke nari roopak ke roop me chitrit kiya gaya hai.",
+          "type": "fill-in-the-blank",
+          "answer": "Marianne"
+        },
+        {
+          "id": "q8",
+          "text": "...... was a secret organization of Italian revolutionaries.",
+          "originalText": "...... Italy ke krantikariyon ka ek gupt sangathan tha.",
+          "type": "fill-in-the-blank",
+          "answer": "Carbonari"
+        },
+        {
+          "id": "q9",
+          "text": ".......... was the Chief Minister of Prussia.",
+          "originalText": ".......... Prasa ka pramukh mantri tha.",
+          "type": "fill-in-the-blank",
+          "answer": "Otto von Bismarck"
+        },
+        {
+          "id": "q10",
+          "text": "The United Kingdom of Great Britain was formed in the year .........",
+          "originalText": "San ......... me United Kingdom of Great Britain ka gathan hua.",
+          "type": "fill-in-the-blank",
+          "answer": "1707"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Short Answer Questions",
+      "hindiTitle": "Laghuatmak Prashn",
+      "questions": [
+        {
+          "id": "q11",
+          "text": "Write a short note on 'Zollverein'.",
+          "originalText": "'Zollverein' par ek sanshipt tippani likhiye.",
+          "type": "short-answer",
+          "answer": "In 1834, a customs union named 'Zollverein' was formed at the initiative of Prussia, which was joined by most German states. This union abolished tariff barriers and reduced the number of currencies from over thirty to two. It helped in the creation of a unified economic territory."
+        },
+        {
+          "id": "q12",
+          "text": "Who were the Grimm Brothers? What was their contribution to the development of German national sentiments?",
+          "originalText": "Grimm bandhu kaun the? Unhone German rashtriya bhavnaon ke vikas me kya yogdan diya?",
+          "type": "short-answer",
+          "answer": "The Grimm Brothers (Jacob and Wilhelm) were German scholars who collected old folktales. They believed these tales expressed the pure spirit of the common people ('volk') and helped build German national identity by promoting the German language and culture against French domination."
+        },
+        {
+          "id": "q13",
+          "text": "Write the main objectives of the Treaty of Vienna.",
+          "originalText": "Vienna sandhi ke pramukh uddeshya likhiye.",
+          "type": "short-answer",
+          "answer": "(1) To undo the changes brought about in Europe during the Napoleonic wars. (2) To prevent French expansion in the future. (3) To restore the monarchies that had been overthrown by Napoleon. (4) To create a new conservative order in Europe."
+        },
+        {
+          "id": "q14",
+          "text": "What is Conservatism?",
+          "originalText": "Rudhivad kya hai?",
+          "type": "short-answer",
+          "answer": "Conservatism is a political philosophy that emphasizes tradition, established institutions, and customs, and prefers gradual development to quick change."
+        },
+        {
+          "id": "q15",
+          "text": "Briefly describe the unification of Italy.",
+          "originalText": "Italy ke ekikaran ka sanshipt varnan kijiye.",
+          "type": "short-answer",
+          "answer": "Giuseppe Mazzini formed secret societies like 'Young Italy'. Count Cavour led the diplomatic alliance with France to defeat Austrian forces in 1859. Giuseppe Garibaldi led armed volunteers to march into South Italy. In 1861, Victor Emmanuel II was proclaimed king of united Italy."
+        }
+      ]
+    }
+  ]
+}

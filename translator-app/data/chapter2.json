@@ -1,0 +1,35 @@
+{
+  "id": "2",
+  "title": "Nationalism in India",
+  "hindiTitle": "Bharat mein Rashtravad",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Essay Type Questions",
+      "hindiTitle": "Nibandhatmak Prashn",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Describe the Civil Disobedience Movement in detail. OR Describe the Salt Movement OR Describe the Civil Disobedience Movement.",
+          "originalText": "सविनय अवज्ञा आन्दोलन का सविस्तार वर्णन कीजिए। या नमक आन्दोलन का वर्णन कीजिए अथवा सविनय अवज्ञा आन्दोलन का वर्णन कीजिए।",
+          "type": "essay",
+          "answer": "**Civil Disobedience Movement:**\n\n1. **Dandi March:** Started by Gandhiji from Sabarmati Ashram with 78 volunteers in March 1930. Covered 240 km in 24 days to reach Dandi. On 6th April, he boiled sea water to manufacture salt, violating the salt law.\n2. **Progress of the Movement:** Soon spread across the country. People broke salt laws, protested in front of government salt factories. Foreign clothes were boycotted, and liquor shops picketed. Peasants refused to pay revenue and chowkidari taxes. Village officials resigned. Forest laws were violated by tribals.\n3. **Gandhi-Irwin Pact:** Signed on 5 March 1931 between Gandhiji and Viceroy Lord Irwin. Gandhiji agreed to participate in the Second Round Table Conference in London. In return, the government agreed to release political prisoners."
+        },
+        {
+          "id": "q2",
+          "text": "Briefly describe the Quit India Movement. OR What do you know about the Quit India Movement? Explain.",
+          "originalText": "भारत छोड़ो आन्दोलन का संक्षिप्त वर्णन कीजिये। अथवा भारत छोड़ो आन्दोलन के बारे में आप क्या जानते हैं? बतलाइये।",
+          "type": "essay",
+          "answer": "**Quit India Movement:**\n\nDue to the failure of the Cripps Mission and dissatisfaction with World War II effects, Gandhiji launched a movement asking the British to leave India completely.\n1. **Wardha Resolution:** On 14 July 1942, the Congress Working Committee passed the historic 'Quit India' resolution at Wardha, demanding immediate transfer of power to Indians and British withdrawal.\n2. **Bombay Session:** On 8 August 1942, the All India Congress Committee in Bombay endorsed the resolution, calling for a non-violent mass struggle on the widest possible scale.\n3. **Do or Die:** On this occasion, Gandhiji gave the famous speech 'Do or Die'.\n4. **Impact:** It paralyzed the state machinery in many parts of the country. People voluntarily joined the movement.\n5. **Participation:** Strikes, demonstrations, and processions involved students, workers, and peasants.\n6. **Leaders:** Active leaders included Jayaprakash Narayan, Aruna Asaf Ali, and Ram Manohar Lohia. Women like Matangini Hazra (Bengal), Kanaklata Barua (Assam), and Rama Devi (Odisha) also participated."
+        },
+        {
+          "id": "q3",
+          "text": "What circumstances were responsible for the start of the Non-Cooperation Movement? OR Analyze the causes of the Non-Cooperation Movement.",
+          "originalText": "असहयोग आन्दोलन के प्रारम्भ होने के पीछे कौन-कौनसी परिस्थितियाँ जिम्मेदार थीं? अथवा असहयोग आन्दोलन के कारणों का विश्लेषण कीजिए।",
+          "type": "essay",
+          "answer": "Started in January 1921 under Gandhiji's leadership.\n**Causes:**\n1. **Increase in Taxes:** Defense expenditure increased due to WWI. Custom duties were raised and income tax introduced.\n2. **Price Hike:** Prices doubled during the war years, causing extreme hardship for the common people.\n3. **Forced Recruitment:** Soldiers were forcibly recruited in villages for the war, causing widespread anger.\n4. **Disappointment:** Hope that the British would grant Swaraj after the war was not met.\n5. **Rowlatt Act (1919):** This unjust law gave the government enormous powers to repress political activities and allowed detention of political prisoners without trial.\n6. **Jallianwala Bagh Massacre:** The brutal killing of innocent people in Amritsar turned the movement into a mass movement.\n7. **Repressive Policy:** The government adopted repressive measures after the Jallianwala Bagh incident.\n8. **Khilafat Movement:** Gandhiji supported the Khilafat issue to bring Hindus and Muslims together."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+
+> translator-app@0.1.0 dev
+> next dev
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+
+✓ Starting...
+✓ Ready in 1667ms
+⨯ TypeError: Cannot read properties of undefined (reading 'toLowerCase')
+    at QuestionCard (components/QuestionCard.tsx:16:37)
+  14 |   const [showAnswer, setShowAnswer] = useState(false);
+  15 |
+> 16 |   const isProveThat = question.text.toLowerCase().startsWith('prove that');
+     |                                     ^
+  17 |
+  18 |   return (
+  19 |     <div className="bg-white dark:bg-zinc-900 rounded-lg shadow-md border border-zinc-200 dark:border-zinc-800 p-6 mb-4 transition-all hover:shadow-lg"> {
+  digest: '529464785'
+}
+ GET /chapter/4 500 in 1362ms (compile: 960ms, generate-params: 556ms, render: 402ms)
+ GET /chapter/4 200 in 180ms (compile: 21ms, generate-params: 15ms, render: 158ms)
+ GET /chapter/4 200 in 199ms (compile: 30ms, generate-params: 20ms, render: 169ms)
+ GET / 200 in 215ms (compile: 39ms, render: 176ms)
+ GET /chapter/1 200 in 93ms (compile: 22ms, generate-params: 17ms, render: 71ms)
+ GET / 200 in 99ms (compile: 4ms, render: 95ms)
+ GET /chapter/2 200 in 72ms (compile: 21ms, generate-params: 14ms, render: 51ms)
+ GET /chapter/3 200 in 154ms (compile: 18ms, generate-params: 14ms, render: 135ms)
+ GET /chapter/4 200 in 139ms (compile: 20ms, generate-params: 16ms, render: 119ms)
+ GET /chapter/4 200 in 162ms (compile: 23ms, generate-params: 16ms, render: 138ms)
+ GET /chapter/4 200 in 244ms (compile: 18ms, generate-params: 14ms, render: 226ms)
